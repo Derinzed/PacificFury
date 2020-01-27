@@ -1,0 +1,8 @@
+import base_material from "EnvironmentShader.material"
+
+material TestMat : base_material
+{	
+	set_texture_alias normalMap FletcherTestNormal.tga
+	set_texture_alias diffuseMap Grey.png
+	
+}

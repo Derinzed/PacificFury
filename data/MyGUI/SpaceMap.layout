@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Layout" version="3.2.0">
+    <Widget type="Window" skin="WindowCX" position="0 0 1920 1080" align="Center" layer="Main" name="mapWindow">
+        <Widget type="ImageBox" skin="ImageBox" position="0 0 1665 1015" align="Center" name="mapImage"/>
+    </Widget>
+    <CodeGeneratorSettings/>
+</MyGUI>

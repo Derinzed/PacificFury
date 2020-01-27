@@ -1,0 +1,24 @@
+import base_material from "EnvironmentShader.material"
+
+material Warehouse_PS : base_material
+{	
+	set_texture_alias normalMap Warehouse_PS_normal.png
+	set_texture_alias diffuseMap Warehouse_PS_albedo.png
+	set_texture_alias diffuseMap Warehouse_PS_metal.png
+	
+}
+
+material Warehouse_Parts_LP : base_material
+{	
+	set_texture_alias normalMap Warehouse_Parts_LP_normal.png
+	set_texture_alias diffuseMap Warehouse_Parts_LP_albedo.png
+	set_texture_alias specMap Warehouse_Parts_LP_metal.png
+	
+}
+
+material Port : base_material
+{	
+	set_texture_alias normalMap Broken_Concrete_NGL.png
+	set_texture_alias diffuseMap Broken_Concrete_D.png
+	
+}

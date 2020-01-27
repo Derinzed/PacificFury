@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<root>
+	<Ports>
+		<TestUnit>
+			<Port name = "TestRadar">
+				<PortOffset x = "100" y = "100" z = "100"/>
+			</Port>
+			<Port name = "TestGun">
+				<PortOffset x = "-50" y = "1000" z = "500"/>
+			</Port>
+			<Port name = "SecondRadar">
+				<PortOffset x = "1000" y = "1000" z = "1000"/>
+			</Port>
+		</TestUnit>
+	</Ports>
+</root>

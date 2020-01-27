@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Layout" version="3.2.0">
+    <Widget type="Window" skin="WindowCX" position="285 54 1405 986" align="Center" layer="Main" name="LogBackground">
+        <Widget type="TextBox" skin="EditBox" position="0 0 1395 955" align="Center" name="LogText">
+            <Property key="TextShadow" value="true"/>
+        </Widget>
+    </Widget>
+    <CodeGeneratorSettings/>
+</MyGUI>

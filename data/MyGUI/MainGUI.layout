@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Layout" version="3.2.0">
+    <Widget type="ImageBox" skin="" position="0 0 1920 1080" align="Center" layer="Back" name="GUImain">
+        <Widget type="EditBox" skin="EditBox" position="1260 865 656 210" align="Center" name="NotificationArea">
+            <Property key="TextAlign" value="Left Top"/>
+            <Property key="TextShadow" value="true"/>
+            <Property key="OverflowToTheLeft" value="true"/>
+            <Property key="MultiLine" value="true"/>
+            <Property key="ReadOnly" value="true"/>
+            <Property key="WordWrap" value="true"/>
+        </Widget>
+        <Widget type="EditBox" skin="EditBox" position="1260 810 200 45" align="Center" name="timer">
+            <Property key="ReadOnly" value="true"/>
+            <Property key="TextShadow" value="true"/>
+            <Property key="TextAlign" value="Center"/>
+        </Widget>
+        <Widget type="Button" skin="Button" position="1810 810 95 40" align="Center" name="management">
+            <Property key="Caption" value="Management"/>
+            <Property key="TextShadow" value="true"/>
+            <Property key="TextAlign" value="Center"/>
+        </Widget>
+        <Widget type="Button" skin="Button" position="1535 810 50 44" align="Center" name="TimeUp">
+            <Property key="Caption" value="Up"/>
+            <Property key="TextShadow" value="true"/>
+        </Widget>
+        <Widget type="Button" skin="Button" position="1475 810 50 44" align="Stretch" name="TimeDown">
+            <Property key="Caption" value="Down"/>
+            <Property key="TextShadow" value="true"/>
+        </Widget>
+        <Widget type="Button" skin="Button" position="1810 765 95 40" name="Construction">
+            <Property key="TextShadow" value="true"/>
+            <Property key="Caption" value="Construction"/>
+        </Widget>
+        <Widget type="Button" skin="Button" position="1810 720 95 40" name="Technology">
+            <Property key="TextShadow" value="true"/>
+            <Property key="Caption" value="Technology"/>
+        </Widget>
+        <Widget type="Button" skin="Button" position="1810 675 95 40" name="Design">
+            <Property key="TextShadow" value="true"/>
+            <Property key="Caption" value="Design"/>
+        </Widget>
+        <Widget type="Button" skin="Button" position="1810 15 94 40" align="Center" name="SpaceMap">
+            <Property key="Caption" value="Space Map"/>
+            <Property key="TextShadow" value="true"/>
+        </Widget>
+    </Widget>
+    <CodeGeneratorSettings/>
+</MyGUI>

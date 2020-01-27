@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Layout" version="3.2.0">
+    <Widget type="ImageBox" skin="ImageBox" position="0 0 1920 1080" align="Center" layer="Main" name="ConsoleBack">
+        <Widget type="EditBox" skin="EditBox" position="34 0 1856 278" align="Center" name="ConsoleMain">
+            <Property key="TextShadow" value="true"/>
+            <Property key="TextColour" value="1 1 1"/>
+            <Property key="TextAlign" value="Left Top"/>
+            <Property key="ReadOnly" value="true"/>
+            <Property key="MaxTextLength" value="1000000000"/>
+        </Widget>
+        <Widget type="EditBox" skin="EditBox" position="0 294 1725 44" align="Center" name="ConsoleCommands">
+            <Property key="TextColour" value="1 1 1"/>
+            <Property key="ReadOnly" value="false"/>
+        </Widget>
+        <Widget type="Button" skin="Button" position="1750 294 160 45" align="Center" name="ConsoleEnter">
+            <Property key="Caption" value="Execute Command"/>
+            <Property key="TextColour" value="1 1 1"/>
+        </Widget>
+        <Widget type="EditBox" skin="EditBox" position="770 355 456 36" align="Center" name="SelectedEntity">
+			<Property key="Caption" value="Selected Entity"/>
+            <Property key="TextShadow" value="true"/>
+            <Property key="TextColour" value="1 1 1"/>
+            <Property key="TextAlign" value="Center"/>
+        </Widget>
+    </Widget>
+    <CodeGeneratorSettings/>
+</MyGUI>

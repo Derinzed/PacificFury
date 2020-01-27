@@ -1,0 +1,952 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  cJSON.c
+  tinyxmlparser.cpp
+  tinyxmlerror.cpp
+  tinyxml.cpp
+  tinystr.cpp
+  MetalFuryVariables.cpp
+  MetalFuryUserDataManager.cpp
+  MetalFuryUnitPort.cpp
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitport.cpp(67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitport.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitport.cpp(73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitport.cpp(148): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitport.cpp(150): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitport.cpp(152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MetalFuryUnitParamsManager.cpp
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(93): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(99): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(119): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(127): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(135): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(143): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(164): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(172): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(180): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(188): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(196): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(204): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(212): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(220): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(228): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(236): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(244): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(252): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(260): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(268): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(276): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(284): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(292): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(308): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(316): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(341): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(349): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(357): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(365): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(373): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(381): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(389): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(499): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(515): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(522): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(530): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(538): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(546): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(554): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(563): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(572): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(580): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(589): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(597): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(618): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(628): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(637): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(647): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(657): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(665): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(673): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(681): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(689): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(697): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(705): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(713): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(734): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(762): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(769): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(777): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(784): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(798): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(805): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(812): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(819): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(826): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(833): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(840): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(847): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(467): warning C4101: 'Prev_Elm': unreferenced local variable
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(949): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(956): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(963): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(970): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(977): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(991): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(998): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1005): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1012): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1019): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1026): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1033): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1040): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1047): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1054): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1061): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1068): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1075): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1082): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(911): warning C4101: 'Prev_Elm': unreferenced local variable
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1192): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1199): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1208): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1216): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1223): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1230): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1238): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1245): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1252): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1259): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1266): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1275): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1282): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1296): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1303): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1143): warning C4101: 'Prev_Elm': unreferenced local variable
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1400): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1408): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1418): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1429): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1437): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1445): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1452): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1460): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1467): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1474): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1481): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1488): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1495): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1502): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1511): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1518): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1525): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1532): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1541): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1557): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1564): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1572): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1579): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1587): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1595): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1602): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1610): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1617): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1369): warning C4101: 'Prev_Elm': unreferenced local variable
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1705): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1721): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1740): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1756): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1764): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1773): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1802): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1810): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1819): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1827): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1836): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1854): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1862): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1878): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1676): warning C4101: 'Prev_Elm': unreferenced local variable
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1970): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1978): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1987): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1995): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(2021): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(2031): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(2040): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(2048): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(2068): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(2078): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(2086): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(2094): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(2103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(2110): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(2119): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(2128): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(2136): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(2152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(2160): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(1942): warning C4101: 'Prev_Elm': unreferenced local variable
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitparamsmanager.cpp(2280): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MetalFuryUnitEquipment.cpp
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryunitequipment.cpp(36): warning C4101: 'held': unreferenced local variable
+  MetalFuryUnitConfig.cpp
+  MetalFuryTimer.cpp
+  MetalFuryObjectFactories.cpp
+  Unknown compiler version - please run the configure tests and report the results
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(46): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::TextureQuality' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(66): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::HydraxComponent' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryscenemanager.h(156): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryentityselection.h(113): warning C4018: '>=': signed/unsigned mismatch
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurysubentitysystem.h(63): warning C4018: '<': signed/unsigned mismatch
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::FactoryManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::FactoryManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_factorymanager.h(20): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::FactoryManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::DataManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::DataManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_datamanager.h(20): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::DataManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::RenderManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::RenderManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_rendermanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::RenderManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LanguageManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LanguageManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_languagemanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LanguageManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ControllerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ControllerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_controllermanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ControllerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::DynLibManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::DynLibManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_dynlibmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::DynLibManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::PluginManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::PluginManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_pluginmanager.h(25): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::PluginManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::PointerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::PointerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_pointermanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::PointerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::FontManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::FontManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_fontmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::FontManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LayoutManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LayoutManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_layoutmanager.h(23): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LayoutManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::WidgetManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::WidgetManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_widgetmanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::WidgetManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::SkinManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::SkinManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_skinmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::SkinManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ClipboardManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ClipboardManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_clipboardmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ClipboardManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::SubWidgetManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::SubWidgetManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_subwidgetmanager.h(18): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::SubWidgetManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::InputManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::InputManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_inputmanager.h(28): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::InputManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::Gui>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::Gui>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_gui.h(24): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::Gui>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LayerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LayerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_layermanager.h(23): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LayerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ResourceManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ResourceManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_resourcemanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ResourceManager>' being compiled
+  MetalFuryStrategicLevelManager.cpp
+  MetalFuryShipComponent.cpp
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryshipcomponent.h(198): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryshipcomponent.h(203): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  MetalFurySettingsManager.cpp
+  MetalFurySceneManager.cpp
+  Unknown compiler version - please run the configure tests and report the results
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(46): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::TextureQuality' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(66): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::HydraxComponent' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryscenemanager.h(156): warning C4305: 'argument': truncation from 'double' to 'float'
+  MetalFuryRender.cpp
+  Unknown compiler version - please run the configure tests and report the results
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(46): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::TextureQuality' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(66): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::HydraxComponent' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryscenemanager.h(156): warning C4305: 'argument': truncation from 'double' to 'float'
+  MetalFuryProductionControl.cpp
+  MetalFuryPositionComponent.cpp
+  Unknown compiler version - please run the configure tests and report the results
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(46): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::TextureQuality' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(66): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::HydraxComponent' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryscenemanager.h(156): warning C4305: 'argument': truncation from 'double' to 'float'
+  MetalFuryPlayerManager.cpp
+  Generating Code...
+  Compiling...
+  MetalFuryMultiplayerManager.cpp
+  MetalFuryGameManager.cpp
+  Unknown compiler version - please run the configure tests and report the results
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(46): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::TextureQuality' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(66): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::HydraxComponent' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryscenemanager.h(156): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryentityselection.h(113): warning C4018: '>=': signed/unsigned mismatch
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurysubentitysystem.h(63): warning C4018: '<': signed/unsigned mismatch
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurygamemanager.cpp(199): warning C4305: 'argument': truncation from 'double' to 'const Ogre::Real'
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurygamemanager.cpp(203): warning C4305: 'argument': truncation from 'double' to 'const Ogre::Real'
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurygamemanager.cpp(205): warning C4305: 'argument': truncation from 'double' to 'const Ogre::Real'
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurygamemanager.cpp(209): warning C4305: 'argument': truncation from 'double' to 'const Ogre::Real'
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurygamemanager.cpp(343): warning C4305: 'argument': truncation from 'double' to 'const Ogre::Real'
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurygamemanager.cpp(352): warning C4305: 'argument': truncation from 'double' to 'const Ogre::Real'
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurygamemanager.cpp(1353): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurygamemanager.cpp(1405): warning C4305: 'argument': truncation from 'double' to 'const Ogre::Real'
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurygamemanager.cpp(1408): warning C4305: 'argument': truncation from 'double' to 'const Ogre::Real'
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurygamemanager.cpp(1411): warning C4305: 'argument': truncation from 'double' to 'const Ogre::Real'
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurygamemanager.cpp(1482): warning C4018: '>': signed/unsigned mismatch
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurygamemanager.cpp(1520): warning C4018: '<': signed/unsigned mismatch
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurygamemanager.cpp(1520): warning C4552: '<': operator has no effect; expected operator with side-effect
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::FactoryManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::FactoryManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_factorymanager.h(20): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::FactoryManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::DataManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::DataManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_datamanager.h(20): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::DataManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::RenderManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::RenderManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_rendermanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::RenderManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LanguageManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LanguageManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_languagemanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LanguageManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ControllerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ControllerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_controllermanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ControllerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::DynLibManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::DynLibManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_dynlibmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::DynLibManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::PluginManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::PluginManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_pluginmanager.h(25): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::PluginManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::PointerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::PointerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_pointermanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::PointerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::FontManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::FontManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_fontmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::FontManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LayoutManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LayoutManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_layoutmanager.h(23): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LayoutManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::WidgetManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::WidgetManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_widgetmanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::WidgetManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::SkinManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::SkinManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_skinmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::SkinManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ClipboardManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ClipboardManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_clipboardmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ClipboardManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::SubWidgetManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::SubWidgetManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_subwidgetmanager.h(18): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::SubWidgetManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::InputManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::InputManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_inputmanager.h(28): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::InputManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::Gui>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::Gui>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_gui.h(24): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::Gui>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LayerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LayerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_layermanager.h(23): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LayerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ResourceManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ResourceManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_resourcemanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ResourceManager>' being compiled
+  MetalFuryMainIO.cpp
+  MetalFuryMain.cpp
+  Unknown compiler version - please run the configure tests and report the results
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(46): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::TextureQuality' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(66): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::HydraxComponent' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryscenemanager.h(156): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryentityselection.h(113): warning C4018: '>=': signed/unsigned mismatch
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurysubentitysystem.h(63): warning C4018: '<': signed/unsigned mismatch
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::FactoryManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::FactoryManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_factorymanager.h(20): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::FactoryManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::DataManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::DataManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_datamanager.h(20): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::DataManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::RenderManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::RenderManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_rendermanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::RenderManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LanguageManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LanguageManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_languagemanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LanguageManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ControllerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ControllerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_controllermanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ControllerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::DynLibManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::DynLibManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_dynlibmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::DynLibManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::PluginManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::PluginManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_pluginmanager.h(25): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::PluginManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::PointerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::PointerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_pointermanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::PointerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::FontManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::FontManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_fontmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::FontManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LayoutManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LayoutManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_layoutmanager.h(23): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LayoutManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::WidgetManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::WidgetManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_widgetmanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::WidgetManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::SkinManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::SkinManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_skinmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::SkinManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ClipboardManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ClipboardManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_clipboardmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ClipboardManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::SubWidgetManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::SubWidgetManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_subwidgetmanager.h(18): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::SubWidgetManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::InputManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::InputManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_inputmanager.h(28): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::InputManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::Gui>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::Gui>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_gui.h(24): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::Gui>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LayerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LayerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_layermanager.h(23): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LayerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ResourceManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ResourceManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_resourcemanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ResourceManager>' being compiled
+  MetalFuryLog.cpp
+  MetalFuryGunObjectManager.cpp
+  MetalFuryGUIManager.cpp
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_exception.h(19): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'MyGUI::Exception'
+  f:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: see declaration of 'std::exception'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_exception.h(17): note: see declaration of 'MyGUI::Exception'
+  Unknown compiler version - please run the configure tests and report the results
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::FactoryManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::FactoryManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_factorymanager.h(20): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::FactoryManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::DataManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::DataManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_datamanager.h(20): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::DataManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::RenderManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::RenderManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_rendermanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::RenderManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LanguageManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LanguageManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_languagemanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LanguageManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ControllerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ControllerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_controllermanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ControllerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::DynLibManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::DynLibManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_dynlibmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::DynLibManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::PluginManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::PluginManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_pluginmanager.h(25): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::PluginManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::PointerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::PointerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_pointermanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::PointerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::FontManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::FontManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_fontmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::FontManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LayoutManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LayoutManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_layoutmanager.h(23): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LayoutManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::WidgetManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::WidgetManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_widgetmanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::WidgetManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::SkinManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::SkinManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_skinmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::SkinManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ClipboardManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ClipboardManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_clipboardmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ClipboardManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::SubWidgetManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::SubWidgetManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_subwidgetmanager.h(18): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::SubWidgetManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::InputManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::InputManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_inputmanager.h(28): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::InputManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::Gui>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::Gui>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_gui.h(24): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::Gui>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LayerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LayerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_layermanager.h(23): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LayerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ResourceManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ResourceManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_resourcemanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ResourceManager>' being compiled
+  MetalFuryFuncs.cpp
+  Unknown compiler version - please run the configure tests and report the results
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(46): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::TextureQuality' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(66): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::HydraxComponent' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryscenemanager.h(156): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryentityselection.h(113): warning C4018: '>=': signed/unsigned mismatch
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurysubentitysystem.h(63): warning C4018: '<': signed/unsigned mismatch
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::FactoryManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::FactoryManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_factorymanager.h(20): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::FactoryManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::DataManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::DataManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_datamanager.h(20): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::DataManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::RenderManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::RenderManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_rendermanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::RenderManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LanguageManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LanguageManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_languagemanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LanguageManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ControllerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ControllerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_controllermanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ControllerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::DynLibManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::DynLibManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_dynlibmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::DynLibManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::PluginManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::PluginManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_pluginmanager.h(25): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::PluginManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::PointerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::PointerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_pointermanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::PointerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::FontManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::FontManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_fontmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::FontManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LayoutManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LayoutManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_layoutmanager.h(23): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LayoutManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::WidgetManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::WidgetManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_widgetmanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::WidgetManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::SkinManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::SkinManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_skinmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::SkinManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ClipboardManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ClipboardManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_clipboardmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ClipboardManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::SubWidgetManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::SubWidgetManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_subwidgetmanager.h(18): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::SubWidgetManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::InputManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::InputManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_inputmanager.h(28): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::InputManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::Gui>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::Gui>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_gui.h(24): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::Gui>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LayerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LayerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_layermanager.h(23): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LayerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ResourceManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ResourceManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_resourcemanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ResourceManager>' being compiled
+  MetalFuryFileDirectoriesManager.cpp
+  MetalFuryExecution.cpp
+  Unknown compiler version - please run the configure tests and report the results
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(46): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::TextureQuality' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(66): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::HydraxComponent' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryscenemanager.h(156): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryentityselection.h(113): warning C4018: '>=': signed/unsigned mismatch
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurysubentitysystem.h(63): warning C4018: '<': signed/unsigned mismatch
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::FactoryManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::FactoryManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_factorymanager.h(20): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::FactoryManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::DataManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::DataManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_datamanager.h(20): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::DataManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::RenderManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::RenderManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_rendermanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::RenderManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LanguageManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LanguageManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_languagemanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LanguageManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ControllerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ControllerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_controllermanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ControllerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::DynLibManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::DynLibManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_dynlibmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::DynLibManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::PluginManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::PluginManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_pluginmanager.h(25): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::PluginManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::PointerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::PointerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_pointermanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::PointerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::FontManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::FontManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_fontmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::FontManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LayoutManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LayoutManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_layoutmanager.h(23): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LayoutManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::WidgetManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::WidgetManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_widgetmanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::WidgetManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::SkinManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::SkinManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_skinmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::SkinManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ClipboardManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ClipboardManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_clipboardmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ClipboardManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::SubWidgetManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::SubWidgetManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_subwidgetmanager.h(18): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::SubWidgetManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::InputManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::InputManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_inputmanager.h(28): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::InputManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::Gui>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::Gui>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryexecution.cpp(156): note: see reference to function template instantiation 'MyGUI::Singleton<MyGUI::Gui>::~Singleton(void)' being compiled
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_gui.h(24): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::Gui>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LayerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LayerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_layermanager.h(23): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LayerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ResourceManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ResourceManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_resourcemanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ResourceManager>' being compiled
+  MetalFuryEngineController.cpp
+  Unknown compiler version - please run the configure tests and report the results
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(46): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::TextureQuality' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(66): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::HydraxComponent' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryscenemanager.h(156): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryentityselection.h(113): warning C4018: '>=': signed/unsigned mismatch
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurysubentitysystem.h(63): warning C4018: '<': signed/unsigned mismatch
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::FactoryManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::FactoryManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_factorymanager.h(20): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::FactoryManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::DataManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::DataManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_datamanager.h(20): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::DataManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::RenderManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::RenderManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_rendermanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::RenderManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LanguageManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LanguageManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_languagemanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LanguageManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ControllerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ControllerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_controllermanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ControllerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::DynLibManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::DynLibManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_dynlibmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::DynLibManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::PluginManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::PluginManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_pluginmanager.h(25): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::PluginManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::PointerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::PointerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_pointermanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::PointerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::FontManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::FontManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_fontmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::FontManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LayoutManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LayoutManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_layoutmanager.h(23): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LayoutManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::WidgetManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::WidgetManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_widgetmanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::WidgetManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::SkinManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::SkinManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_skinmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::SkinManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ClipboardManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ClipboardManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_clipboardmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ClipboardManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::SubWidgetManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::SubWidgetManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_subwidgetmanager.h(18): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::SubWidgetManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::InputManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::InputManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_inputmanager.h(28): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::InputManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::Gui>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::Gui>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_gui.h(24): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::Gui>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LayerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LayerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_layermanager.h(23): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LayerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ResourceManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ResourceManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_resourcemanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ResourceManager>' being compiled
+  MetalFuryDataConversionManager.cpp
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurydataconversionmanager.cpp(5): warning C4101: 'find': unreferenced local variable
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurydataconversionmanager.cpp(19): warning C4101: 'find': unreferenced local variable
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurydataconversionmanager.cpp(53): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurydataconversionmanager.cpp(61): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurydataconversionmanager.cpp(68): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  MetalFuryConstants.cpp
+  GameManagerGUI.cpp
+  Unknown compiler version - please run the configure tests and report the results
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(46): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::TextureQuality' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(66): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::HydraxComponent' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryscenemanager.h(156): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryentityselection.h(113): warning C4018: '>=': signed/unsigned mismatch
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurysubentitysystem.h(63): warning C4018: '<': signed/unsigned mismatch
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::FactoryManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::FactoryManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_factorymanager.h(20): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::FactoryManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::DataManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::DataManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_datamanager.h(20): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::DataManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::RenderManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::RenderManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_rendermanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::RenderManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LanguageManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LanguageManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_languagemanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LanguageManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ControllerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ControllerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_controllermanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ControllerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::DynLibManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::DynLibManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_dynlibmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::DynLibManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::PluginManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::PluginManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_pluginmanager.h(25): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::PluginManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::PointerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::PointerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_pointermanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::PointerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::FontManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::FontManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_fontmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::FontManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LayoutManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LayoutManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_layoutmanager.h(23): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LayoutManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::WidgetManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::WidgetManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_widgetmanager.h(21): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::WidgetManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::SkinManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::SkinManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_skinmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::SkinManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ClipboardManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ClipboardManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_clipboardmanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ClipboardManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::SubWidgetManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::SubWidgetManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_subwidgetmanager.h(18): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::SubWidgetManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::InputManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::InputManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_inputmanager.h(28): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::InputManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::Gui>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::Gui>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_gui.h(24): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::Gui>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::LayerManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::LayerManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_layermanager.h(23): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::LayerManager>' being compiled
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): warning C4297: 'MyGUI::Singleton<MyGUI::ResourceManager>::~Singleton': function assumed not to throw an exception but does
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(34): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_singleton.h(33): note: while compiling class template member function 'MyGUI::Singleton<MyGUI::ResourceManager>::~Singleton(void)'
+  f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\mygui\include\mygui\mygui_resourcemanager.h(22): note: see reference to class template instantiation 'MyGUI::Singleton<MyGUI::ResourceManager>' being compiled
+  EquipmentFactory.cpp
+  Unknown compiler version - please run the configure tests and report the results
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(46): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::TextureQuality' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfurysdk\psaogresdk\include\ogre\enums.h(66): warning C4091: '__declspec(dllimport)': ignored on left of 'Hydrax::HydraxComponent' when no variable is declared
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryscenemanager.h(156): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfuryentityselection.h(113): warning C4018: '>=': signed/unsigned mismatch
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\metalfurysubentitysystem.h(63): warning C4018: '<': signed/unsigned mismatch
+  DotScene.cpp
+  Unknown compiler version - please run the configure tests and report the results
+f:\psmods\currentwork\pacificstormfury\metalfury\metalfury\metalfury\dotscene.cpp(306): warning C4244: 'argument': conversion from 'int' to 'Ogre::Real', possible loss of data
+  Generating Code...
+MyGUI.OgrePlatform_d.lib(MyGUI_OgreDataManager.obj) : warning LNK4099: PDB 'MyGUI.OgrePlatform.pdb' was not found with 'MyGUI.OgrePlatform_d.lib(MyGUI_OgreDataManager.obj)' or at 'F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFury\bin\x86-Debug\MyGUI.OgrePlatform.pdb'; linking object as if no debug info
+MyGUI.OgrePlatform_d.lib(MyGUI_OgreDataStream.obj) : warning LNK4099: PDB 'MyGUI.OgrePlatform.pdb' was not found with 'MyGUI.OgrePlatform_d.lib(MyGUI_OgreDataStream.obj)' or at 'F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFury\bin\x86-Debug\MyGUI.OgrePlatform.pdb'; linking object as if no debug info
+MyGUI.OgrePlatform_d.lib(MyGUI_OgreRTTexture.obj) : warning LNK4099: PDB 'MyGUI.OgrePlatform.pdb' was not found with 'MyGUI.OgrePlatform_d.lib(MyGUI_OgreRTTexture.obj)' or at 'F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFury\bin\x86-Debug\MyGUI.OgrePlatform.pdb'; linking object as if no debug info
+MyGUI.OgrePlatform_d.lib(MyGUI_OgreRenderManager.obj) : warning LNK4099: PDB 'MyGUI.OgrePlatform.pdb' was not found with 'MyGUI.OgrePlatform_d.lib(MyGUI_OgreRenderManager.obj)' or at 'F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFury\bin\x86-Debug\MyGUI.OgrePlatform.pdb'; linking object as if no debug info
+MyGUI.OgrePlatform_d.lib(MyGUI_OgreTexture.obj) : warning LNK4099: PDB 'MyGUI.OgrePlatform.pdb' was not found with 'MyGUI.OgrePlatform_d.lib(MyGUI_OgreTexture.obj)' or at 'F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFury\bin\x86-Debug\MyGUI.OgrePlatform.pdb'; linking object as if no debug info
+MyGUI.OgrePlatform_d.lib(MyGUI_OgreVertexBuffer.obj) : warning LNK4099: PDB 'MyGUI.OgrePlatform.pdb' was not found with 'MyGUI.OgrePlatform_d.lib(MyGUI_OgreVertexBuffer.obj)' or at 'F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFury\bin\x86-Debug\MyGUI.OgrePlatform.pdb'; linking object as if no debug info
+  MetalFury.vcxproj -> F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFury\bin\x86-Debug\MetalFury_d.exe
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\OgreMain_d.dll
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\OgreMain_d.pdb
+          2 file(s) copied.
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\OgrePaging_d.dll
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\OgrePaging_d.pdb
+          2 file(s) copied.
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\OgreProperty_d.dll
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\OgreProperty_d.pdb
+          2 file(s) copied.
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\OgreRTShaderSystem_d.dll
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\OgreRTShaderSystem_d.pdb
+          2 file(s) copied.
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\OgreTerrain_d.dll
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\OgreTerrain_d.pdb
+          2 file(s) copied.
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\OgreVolume_d.dll
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\OgreVolume_d.pdb
+          2 file(s) copied.
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\OIS_d.dll
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\OIS_d.pdb
+          2 file(s) copied.
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\Plugin_BSPSceneManager_d.dll
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\Plugin_BSPSceneManager_d.pdb
+          2 file(s) copied.
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\Plugin_CgProgramManager_d.dll
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\Plugin_CgProgramManager_d.pdb
+          2 file(s) copied.
+          1 file(s) copied.
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\Plugin_OctreeSceneManager_d.dll
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\Plugin_OctreeSceneManager_d.pdb
+          2 file(s) copied.
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\Plugin_OctreeZone_d.dll
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\Plugin_OctreeZone_d.pdb
+          2 file(s) copied.
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\Plugin_ParticleFX_d.dll
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\Plugin_ParticleFX_d.pdb
+          2 file(s) copied.
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\Plugin_PCZSceneManager_d.dll
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\Plugin_PCZSceneManager_d.pdb
+          2 file(s) copied.
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\RenderSystem_Direct3D9*.* 
+  The system cannot find the file specified.
+          0 file(s) copied.
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\RenderSystem_Direct3D11_d.dll
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\RenderSystem_Direct3D11_d.pdb
+          2 file(s) copied.
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\d3dcompiler_47.dll
+          1 file(s) copied.
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\RenderSystem_GL3Plus_d.dll
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\RenderSystem_GL3Plus_d.pdb
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\RenderSystem_GL_d.dll
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\RenderSystem_GL_d.pdb
+          4 file(s) copied.
+          1 file(s) copied.
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\RenderSystem_GL3Plus_d.dll
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\RenderSystem_GL3Plus_d.pdb
+          2 file(s) copied.
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\OgreOverlay_d.dll
+  F:\PSMods\CurrentWork\PacificStormFury\MetalFury\MetalFurySDK\PSAOgreSDK\bin\Debug\OgreOverlay_d.pdb
+          2 file(s) copied.
+  The system cannot find the path specified.

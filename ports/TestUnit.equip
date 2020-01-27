@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<root>
+	<Equip>
+		<TestUnit>
+			<PortName name = "TestRadar">
+				<Equipment name = "TestProbe"/>
+			</PortName>
+		</TestUnit>
+	</Equip>
+</root>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0 standalone="yes"?>
+<root>
+	<MetalFuryParams>
+		<DefaultStartDate name = "1939"/>
+		<Resources>
+			<resource name = "Money"/>
+			<resource name = "Iron"/>
+			<resource name = "Aluminum"/>
+			<resource name = "Oil">
+		</Resources>
+	</MetalFuryParams>
+</root>

@@ -1,0 +1,24 @@
+<scene formatVersion="1.0.1" export_time="1579888511.6026382" previous_export_time="0" exported_by="wolfg" >
+  <nodes >
+    <node name="Landscape_V1" >
+      <position x="0.000000" y="0.000000" z="-0.000000" />
+      <rotation qw="1.000000" qz="-0.000000" qx="-0.000000" qy="0.000000" />
+      <scale x="100.000000" y="100.000000" z="100.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity lock_trans_z="False" friction_z="1.0" lock_rot_x="False" damping_rot="0.10000000149011612" ghost="False" lock_trans_y="False" actor="False" anisotropic_friction="False" damping_trans="0.03999999910593033" name="Landscape.002" meshFile="Landscape.002.mesh" mass="1.0" friction_x="1.0" physics_type="STATIC" velocity_min="0.0" lock_rot_z="False" inertia_tensor="0.4000000059604645" mass_radius="1.0" friction_y="1.0" velocity_max="0.0" lock_rot_y="False" lock_trans_x="False" />
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="C:\Users\wolfg\Desktop\Base_Building_1\OgreFiles\Landscape.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourBackground r="0.05087608844041824" b="0.05087608844041824" g="0.05087608844041824" />
+    <colourDiffuse r="0.05087608844041824" b="0.05087608844041824" g="0.05087608844041824" />
+    <colourAmbient r="0.0" b="0.0" g="0.0" />
+  </environment>
+</scene>

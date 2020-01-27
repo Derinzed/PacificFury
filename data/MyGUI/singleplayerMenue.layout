@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Layout" version="3.2.0">
+    <Widget type="Window" skin="WindowCX" position="693 155 534 770" align="Center" layer="Overlapped" name="SingleplayerBackground">
+        <Property key="Movable" value="true"/>
+        <Property key="TextShadow" value="true"/>
+        <Widget type="EditBox" skin="EditBox" position="25 185 484 175" align="Center" name="Scenario">
+            <Property key="TextShadow" value="true"/>
+            <Property key="ReadOnly" value="true"/>
+            <Property key="Caption" value="Gamemode Description"/>
+            <Property key="TextAlign" value="Center"/>
+            <Property key="Static" value="true"/>
+        </Widget>
+        <Widget type="TextBox" skin="TextBox" position="265 640 125 20" name="AdminText">
+            <Property key="TextShadow" value="true"/>
+            <Property key="Caption" value="Are you an Admin?"/>
+        </Widget>
+        <Widget type="TextBox" skin="TextBox" position="265 675 125 20" name="DebugText">
+            <Property key="TextShadow" value="true"/>
+            <Property key="Caption" value="Is debug allowed?"/>
+        </Widget>
+        <Widget type="Button" skin="Button" position="65 640 140 20" align="Center" name="startGame">
+            <Property key="TextShadow" value="true"/>
+            <Property key="Caption" value="Start Game"/>
+        </Widget>
+        <Widget type="Button" skin="Button" position="65 680 140 20" name="cancel">
+            <Property key="TextShadow" value="true"/>
+            <Property key="Caption" value="Cancel"/>
+        </Widget>
+        <Widget type="ComboBox" skin="ComboBox" position="150 60 210 30" align="Center" name="Gamemode">
+            <Property key="Caption" value="Gamemode"/>
+            <Property key="ReadOnly" value="true"/>
+            <Property key="Static" value="true"/>
+        </Widget>
+        <Widget type="ComboBox" skin="ComboBox" position="405 640 95 20" align="Center" name="isAdmin">
+            <Property key="AddItem" value="True"/>
+            <Property key="AddItem" value="False"/>
+            <Property key="ReadOnly" value="true"/>
+            <Property key="Static" value="true"/>
+        </Widget>
+        <Widget type="ComboBox" skin="ComboBox" position="405 675 95 20" align="Center" name="isDebug">
+            <Property key="AddItem" value="True"/>
+            <Property key="AddItem" value="False"/>
+            <Property key="ReadOnly" value="true"/>
+            <Property key="Static" value="true"/>
+        </Widget>
+    </Widget>
+    <CodeGeneratorSettings>
+        <Property key="IncludeDirectory" value=""/>
+        <Property key="PanelName" value=""/>
+        <Property key="PanelNamespace" value=""/>
+        <Property key="SourceDirectory" value=""/>
+    </CodeGeneratorSettings>
+</MyGUI>

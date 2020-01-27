@@ -1,0 +1,14 @@
+<?xml version="1.0 standalone="yes"?>
+<root>
+	<MetalFuryParams>
+		<Probes>
+			<object name = "TestProbe">
+				<Country value = "Tester"/>
+				<Type value = "Radar"/>
+				<Money value = "37"/>
+				<Weight value = "37"/>
+				<ConfigFile value ="..\config\TestProbe.config"/>
+			</object>	
+		</Probes>
+	</MetalFuryParams>
+</root>

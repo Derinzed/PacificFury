@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<root>
+	<Particle>
+		<TestUnit>
+			<Particle name = "TestRadar">
+				<ParticleOffset x = "100" y = "100" z = "100"/>
+				<ParticleType name = ""/>
+				<ParticleDirectory name = ""/>
+			</Port>
+		</TestUnit>
+	</Particle>
+</root>

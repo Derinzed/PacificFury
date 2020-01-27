@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Layout" version="3.2.0">
+    <Widget type="EditBox" skin="EditBoxEmpty" position="14 14 516 616" align="Center" layer="Main" name="TechStatsWindow">
+        <Property key="MultiLine" value="true"/>
+        <Property key="ReadOnly" value="true"/>
+        <Property key="TextShadow" value="true"/>
+    </Widget>
+    <CodeGeneratorSettings/>
+</MyGUI>

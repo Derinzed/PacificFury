@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Layout" version="3.2.0">
+    <Widget type="Window" skin="WindowCX" position="275 35 1364 1004" align="Center" layer="Main" name="HomelandMain">
+        <Widget type="Button" skin="Button" position="55 15 185 55" align="Center" name="ResourcesTab">
+            <Property key="Caption" value="Resources"/>
+            <Property key="TextShadow" value="true"/>
+        </Widget>
+        <Widget type="Button" skin="Button" position="385 15 185 55" align="Center" name="ProductionTab">
+            <Property key="Caption" value="Production"/>
+            <Property key="TextShadow" value="true"/>
+        </Widget>
+        <Widget type="Button" skin="Button" position="710 15 185 55" align="Center" name="ResearchTab">
+            <Property key="Caption" value="Research"/>
+            <Property key="TextShadow" value="true"/>
+        </Widget>
+        <Widget type="Button" skin="Button" position="1025 15 185 55" align="Center" name="DesignTab">
+            <Property key="Caption" value="Design"/>
+            <Property key="TextShadow" value="true"/>
+        </Widget>
+    </Widget>
+    <CodeGeneratorSettings/>
+</MyGUI>

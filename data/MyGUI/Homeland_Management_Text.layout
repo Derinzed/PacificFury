@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Layout" version="3.2.0">
+    <Widget type="Window" skin="WindowCX" position="0 0 1920 1080" align="Center" layer="Main" name="Management_Menue">
+        <Widget type="EditBox" skin="TextBox" position="65 145 394 250" align="Center" name="Resources_Text">
+            <Property key="TextShadow" value="true"/>
+        </Widget>
+        <Widget type="EditBox" skin="TextBox" position="65 565 394 250" name="Base_Text">
+            <Property key="TextShadow" value="true"/>
+        </Widget>
+        <Widget type="EditBox" skin="TextBox" position="660 145 545 730" name="Unit_Text">
+            <Property key="TextShadow" value="true"/>
+        </Widget>
+    </Widget>
+    <CodeGeneratorSettings/>
+</MyGUI>

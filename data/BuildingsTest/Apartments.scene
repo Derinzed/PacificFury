@@ -1,0 +1,26 @@
+<scene previous_export_time="1579883845.4501755" exported_by="wolfg" export_time="1579884874.4446976" formatVersion="1.0.1" >
+  <nodes >
+    <node name="Apartments" >
+      <position x="2.835236" y="1.346378" z="9.331656" />
+      <rotation qx="-0.000000" qz="0.000000" qy="0.707107" qw="0.707107" />
+      <scale x="0.319152" y="0.319152" z="0.319152" />
+      <user_data type="IDPropertyGroup" name="cycles" value='&lt;bpy id prop: owner="OBApartments", name="cycles", address=0x0000018B0B435978&gt;' />
+      <user_data type="IDPropertyGroup" name="cycles_visibility" value='&lt;bpy id prop: owner="OBApartments", name="cycles_visibility", address=0x0000018B0B434898&gt;' />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity physics_type="STATIC" meshFile="Cube.004.mesh" lock_trans_y="False" anisotropic_friction="False" velocity_min="0.0" mass="1.0" lock_rot_z="False" friction_y="1.0" lock_rot_x="False" lock_trans_x="False" ghost="False" damping_trans="0.03999999910593033" velocity_max="0.0" friction_z="1.0" inertia_tensor="0.4000000059604645" actor="False" lock_rot_y="False" lock_trans_z="False" mass_radius="1.0" friction_x="1.0" damping_rot="0.10000000149011612" name="Cube.004" />
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="C:\Users\wolfg\Desktop\Base_Building_1\OgreFiles\Apartments.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourDiffuse g="0.05087608844041824" r="0.05087608844041824" b="0.05087608844041824" />
+    <colourBackground g="0.05087608844041824" r="0.05087608844041824" b="0.05087608844041824" />
+    <colourAmbient g="0.0" r="0.0" b="0.0" />
+  </environment>
+</scene>

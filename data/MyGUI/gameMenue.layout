@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Layout" version="3.2.0">
+    <Widget type="Window" skin="skin_Default" position="0 5 1910 1068" align="Center" layer="Back" name="backgroundMenue">
+        <Widget type="Button" skin="Button" position="55 545 195 50" align="Center" name="Singleplayer">
+            <Property key="Caption" value="Singleplayer"/>
+        </Widget>
+        <Widget type="TextBox" skin="TextBox" position="1740 5 170 34" align="Center" name="userVersion">
+            <Property key="TextShadow" value="true"/>
+        </Widget>
+        <Widget type="ImageBox" skin="ImageBox" position="35 25 594 310" align="Center" name="MainImage">
+            <Property key="ImageResource" value="PSF.png"/>
+            <Property key="ImageName" value="PSF.png"/>
+        </Widget>
+        <Widget type="Button" skin="Button" position="55 625 195 50" align="Center" name="Exit">
+            <Property key="Caption" value="Exit"/>
+        </Widget>
+    </Widget>
+    <CodeGeneratorSettings/>
+</MyGUI>
