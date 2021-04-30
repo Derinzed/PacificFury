@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<root>
+	<Ports>
+		<Fletcher>
+			<Port name = "MainGun_1">
+				<PortOffset x = "-0.07204718142747879" y = "18.03053855895996" z = "132.88787841796875"/>
+				<PortRotation w ="0.0" x = "0.0" y = "1.0" z = "0.0"/>
+			</Port>
+			<Port name = "MainGun_2">
+				<PortOffset x = "-0.07204718142747879" y = "24.579992294311523" z = "106.40522003173828"/>
+				<PortRotation w ="0.0" x = "0.0" y = "1.0" z = "0.0"/>
+			</Port>
+			<Port name = "MainGun_3">
+				<PortOffset x = "-0.07204718142747879" y = "18.69389533996582" z = "-82.82952880859375"/>
+				<PortRotation w ="0.0" x = "0.0" y = "1.0" z = "0.0"/>
+			</Port>
+			<Port name = "MainGun_4">
+				<PortOffset x = "-0.07204718142747879" y = "17.974069595336914" z = "-129.7823486328125"/>
+				<PortRotation w ="3.14" x = "0.0" y = "1.0" z = "0.0"/>
+			</Port>
+			<Port name = "MainGun_5">
+				<PortOffset x = "-0.07204718142747879" y = "8.044775009155273" z = "-159.55496215820312"/>
+				<PortRotation w ="3.14" x = "0.0" y = "1.0" z = "0.0"/>
+			</Port>
+		</Fletcher>
+	</Ports>
+</root>

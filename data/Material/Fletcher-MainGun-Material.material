@@ -1,0 +1,116 @@
+
+material ship/bomb_throw/smoke_ball
+{
+  technique
+  {
+    pass
+    {
+       scene_blend alpha_blend
+      texture_unit
+      {
+        texture white_smoke2.tga
+      }
+    }
+  }
+}
+
+
+material Ship/BombThrow/Fire
+{
+  technique
+  {
+    pass
+    {
+       scene_blend add
+      
+      texture_unit
+      {
+        texture FletcherFireball.png
+      }
+    }
+  }
+}
+
+
+material Ship/BombThrow/Flare
+{
+  technique
+  {
+    pass
+    {
+      scene_blend add
+      texture_unit
+      {
+        texture 3.tga
+      }
+    }
+  }
+}
+
+
+
+material ship/bomb_throw_med/smoke_ball
+{
+  technique
+  {
+    pass
+    {
+       scene_blend alpha_blend
+      texture_unit
+      {
+        texture smoke_volume_white.tga
+      }
+    }
+  }
+}
+
+
+material ship/bomb_throw_big/smoke_ball
+{
+  technique
+  {
+    pass
+    {
+       scene_blend alpha_blend
+      texture_unit
+      {
+        texture smoke_volume_ginger.tga
+      }
+    }
+  }
+}
+
+
+
+material Ship/TorpedoThrow/Smoke
+{
+  technique
+  {
+    pass
+    {
+      scene_blend alpha_blend
+      texture_unit
+      {
+        texture smoke_volume_white.tga
+      }
+    }
+  }
+}
+
+material Ship/BombThrow/Water
+{
+  technique
+  {
+    pass
+    {
+       scene_blend add
+      texture_unit
+      {
+        texture waveUnderBomb2.tga
+      }
+    }
+  }
+}
+
+
+

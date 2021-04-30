@@ -1,0 +1,35 @@
+import base_material from "EnvironmentShader.material"
+
+material FubukiMat1 : base_material
+{
+
+	set_texture_alias normalMap DefaultMaterial_HullMap__Normal.tga
+	set_texture_alias diffuseMap DefaultMaterial_HullMap__BaseColor.tga
+	 
+}
+
+material FubukiMat2 : base_material
+{
+
+	set_texture_alias normalMap DefaultMaterial_Map2_Large_4_Normal.tga
+	set_texture_alias diffuseMap DefaultMaterial_Map2_Large_4_BaseColor.tga
+	 
+}
+
+material FubukiMat3 : base_material
+{
+
+	set_texture_alias normalMap DefaultMaterial_Map3_Meshes_2_Normal.tga
+	set_texture_alias diffuseMap DefaultMaterial_Map3_Meshes_2_BaseColor.tga
+	 
+}
+
+
+
+material FubukiWires : base_material
+{
+
+
+	set_texture_alias diffuseMap Grey.png
+	 
+}

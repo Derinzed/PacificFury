@@ -1,0 +1,18 @@
+import base_material from "EnvironmentShader.material"
+
+material FuelBarrelMat : base_material
+{
+
+	set_texture_alias normalMap FuelBarrelNormal.png
+	set_texture_alias diffuseMap FuelBarrelColor.png
+	 
+}
+
+material BigHangarMat : base_material
+{
+
+	set_texture_alias normalMap BigHangarNormal.png
+	set_texture_alias diffuseMap BigHangarColor.png
+	 
+}
+

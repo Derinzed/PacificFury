@@ -1,1 +1,1 @@
-MetalFuryFuncs.setScale(1, 100);
+MetalFuryFuncs.setScale(1,20);

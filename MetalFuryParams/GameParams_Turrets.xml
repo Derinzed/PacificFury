@@ -2,13 +2,13 @@
 <root>
 	<MetalFuryParams>
 		<Turrets>
-			<object name="TestTurret">
-				<ConfigFile value="..\config\TestRifle.config"/>
-				<Amount value="2"/>
+			<object name="FletcherMainTurret">
+				<ConfigFile value="..\config\FletcherMainTurret.config"/>
+				<Amount value="1"/>
 				<ArmorFront value="1"/>
 				<ArmorSide value="1"/>
 				<ArmorTop value="0"/>
-				<Content value="TestRifle"/>
+				<Content value="5Inch-38Cal-MK12"/>
 				<Country value="1"/>
 				<Elevation value="0"/>
 				<ElevationRate value="60"/>
@@ -23,13 +23,13 @@
 				<Vitality value="3."/>
 				<Weight value="5.e-002"/>
 			</object>
-			<object name="A20_Turret_Up_20">
-				<ConfigFile value="NULL"/>
+			<object name="Type_3_127_mm_50_Turret">
+				<ConfigFile value="..\config\Type_3_127_mm_50_Turret.config"/>
 				<Amount value="2"/>
 				<ArmorFront value="1"/>
 				<ArmorSide value="1"/>
 				<ArmorTop value="0"/>
-				<Content value="Rifles.Hispano_mk2_100_Stvol"/>
+				<Content value="Type_3_127_mm_50_Caliber_Naval_Gun"/>
 				<Country value="1"/>
 				<Elevation value="0"/>
 				<ElevationRate value="60"/>
@@ -40,7 +40,7 @@
 				<Production value="false"/>
 				<RotationRate value="45"/>
 				<SMU_File value="a20_Turret"/>
-				<Type value="AirTurret"/>
+				<RifleType value="AirTurret"/>
 				<Vitality value="4."/>
 				<Weight value="5.e-002"/>
 			</object>

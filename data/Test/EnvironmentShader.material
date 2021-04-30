@@ -3,7 +3,7 @@ material base_material
     set $diffuseCol "1 1 1 1"
     set $specularCol "1 1 1"
     set $shininess "32"
-
+	
     technique
     {
         pass
@@ -27,14 +27,14 @@ material base_material
             {
                 texture white.png
             }
-
+		
             texture_unit aoMap
             {
                 texture white.png
             }
         }
-
-        pass
+		
+        pass 
         {
             iteration once_per_light
 
@@ -52,12 +52,12 @@ material base_material
             diffuse $diffuseCol
             specular $specularCol $shininess
             ambient 0 0 0 0
-
+			
             texture_unit diffuseMap
             {
                 texture white.png
             }
-
+						
             texture_unit specMap
             {
                 texture white.png
@@ -68,6 +68,46 @@ material base_material
                 texture Flat_n.png
 
             }
+			
+
+			
+        }
+				
+		pass textureOverlays
+		{
+		
+            scene_blend alpha_blend
+			
+			diffuse 1 1 1 0.0
+			
+		    texture_unit wearMap
+            {
+                texture transparent.png
+            }
+		
+		}
+    }
+}
+
+material base_material_transparency
+{
+    set $diffuseCol "1 1 1 1"
+    set $specularCol "1 1 1"
+    set $shininess "32"
+	
+    technique
+    {
+		
+        pass 
+        {
+            scene_blend alpha_blend
+			depth_write off
+
+			texture_unit transparentTexture
+            {
+                texture transparent.png
+            }
+						
         }
     }
 }

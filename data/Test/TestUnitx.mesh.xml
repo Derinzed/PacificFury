@@ -1,0 +1,10 @@
+<mesh>
+	<submeshes>
+		<submesh material="TestUnit" usesharedvertices="false" use32bitindexes="false">
+			<faces count="0" />
+			<geometry vertexcount="0">
+				<vertexbuffer positions="true" normals="true" texture_coords="1" colours_diffuse="false" />
+			</geometry>
+		</submesh>
+	</submeshes>
+</mesh>

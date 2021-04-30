@@ -1,0 +1,33 @@
+system shipWake
+{
+    category                                    General
+    technique Technique69
+    {
+        visual_particle_quota                   10
+        emitted_emitter_quota                   10
+        material                                shipWake
+        renderer                                Billboard
+        {
+            billboard_type                      perpendicular_common
+            billboard_rotation_type             vertex
+            common_direction                    0 0.99 0.01
+        }
+        emitter                                 Point Emitter89
+        {
+            emission_rate                       1.1
+            angle                               0
+            time_to_live                        10
+            velocity                            1
+            all_particle_dimensions             100
+            direction                           0 0 1
+            orientation                         90 1 0 0
+            start_orientation_range             0 1 0 0
+            end_orientation_range               360 1 0 0
+        }
+        affector                                Colour Affector157
+        {
+            time_colour                         0    1 1 1 1
+            time_colour                         1    1 1 1 0
+        }
+    }
+}

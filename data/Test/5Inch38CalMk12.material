@@ -1,0 +1,15 @@
+import base_material from "EnvironmentShader.material"
+
+material 5Inch38CalMk12Material : base_material
+{
+
+	//set_texture_alias normalMap 5Inch38CalMk12_Normal.tga
+	set_texture_alias diffuseMap 5Inch38CalMk12_BaseColor.tga
+	//set_texture_alias wearMap DefaultMaterial_Map1Meshes_0_BaseColorWorn.png
+	
+	//set_texture_alias aoMap DefaultMaterial_Map1Meshes_0_AO.tga
+	//set_texture_alias specMap DefaultMaterial_Map1Meshes_0_Specular.tga
+	
+
+		 
+}

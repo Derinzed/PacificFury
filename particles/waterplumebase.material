@@ -1,0 +1,22 @@
+
+material waterplumebase
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+			scene_blend alpha_blend
+			depth_check off
+			depth_write off
+
+			texture_unit waterplumebase.png
+			{
+				texture_alias waterplumebase.png
+				texture waterplumebase.png
+			}
+		}
+
+	}
+
+}

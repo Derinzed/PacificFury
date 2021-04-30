@@ -1,0 +1,249 @@
+system 5Inch38CalMk12
+{
+    scale_velocity                              1.5
+    category                                    Explosion
+    technique 
+    {
+        emitted_emitter_quota                   75
+        material                                ParticleUniverse/ExplosionFire
+        default_particle_width                  0.3
+        default_particle_height                 0.3
+        renderer                                Billboard
+        {
+        }
+        emitter                                 Point BurstEmitter
+        {
+            emission_rate                       200
+            angle                               dyn_random
+            {
+                min                             10
+                max                             30
+            }
+            time_to_live                        dyn_random
+            {
+                min                             0.05
+                max                             0.15
+            }
+            velocity                            dyn_random
+            {
+                min                             50
+                max                             80
+            }
+            all_particle_dimensions             dyn_random
+            {
+                min                             5
+                max                             15
+            }
+            direction                           0 0 1
+            orientation                         1 0 0 1
+            auto_direction                      true
+        }
+        affector                                Colour 
+        {
+            time_colour                         0    1 0.501961 0 1
+            time_colour                         0.102174  0.501961 0.25098 0 1
+            time_colour                         0.376087  0.176471 0.0431373 0.00784314 1
+            time_colour                         0.686957  1 0.501961 0.247059 1
+            time_colour                         1    0 0 0 1
+        }
+        affector                                Scale 
+        {
+            xyz_scale                           dyn_random
+            {
+                min                             10
+                max                             13
+            }
+        }
+        affector                                LinearForce Direction
+        {
+            force_vector                        0 0 15
+        }
+        affector                                TextureRotator Affector34
+        {
+            rotation                            dyn_random
+            {
+                min                             -1
+                max                             1
+            }
+            rotation_speed                      dyn_random
+            {
+                min                             0
+                max                             1
+            }
+        }
+        observer                                OnTime 
+        {
+            handler                             DoEnableComponent 
+            {
+                enable_component                emitter_component BurstEmitter false
+            }
+            since_start_system                  true
+            on_time                             greater_than 0.2
+        }
+    }
+    technique 
+    {
+        visual_particle_quota                   1
+        emitted_emitter_quota                   1
+        emitted_technique_quota                 1
+        emitted_affector_quota                  1
+        emitted_system_quota                    1
+        material                                ParticleUniverse/Flare
+        default_particle_width                  250
+        default_particle_height                 250
+        default_particle_depth                  250
+        renderer                                Billboard
+        {
+            render_queue_group                  1
+            billboard_type                      oriented_common
+        }
+        emitter                                 Point NucleusEmitter
+        {
+            emission_rate                       1
+            angle                               0
+            time_to_live                        0.01
+            velocity                            0
+            enabled                             false
+            direction                           0 0 0
+            force_emission                      true
+        }
+        observer                                OnTime 
+        {
+            handler                             DoEnableComponent 
+            {
+                enable_component                emitter_component NucleusEmitter true
+            }
+            since_start_system                  true
+            on_time                             greater_than 0
+        }
+    }
+    technique NucleusTechnique
+    {
+        material                                ParticleUniverse/Smoke
+        default_particle_width                  0.45
+        default_particle_height                 0.45
+        renderer                                Billboard
+        {
+        }
+        emitter                                 Point Emitter8
+        {
+            emission_rate                       200
+            angle                               dyn_random
+            {
+                min                             7
+                max                             15
+            }
+            time_to_live                        dyn_random
+            {
+                min                             3
+                max                             4.5
+            }
+            velocity                            dyn_random
+            {
+                min                             20
+                max                             40
+            }
+            all_particle_dimensions             10
+            direction                           0 0 1
+            auto_direction                      true
+        }
+        affector                                Colour 
+        {
+            time_colour                         0    0.752941 0.752941 0.752941 1
+            time_colour                         1    0 0 0 1
+        }
+        affector                                TextureRotator 
+        {
+            use_own_rotation                    true
+            rotation                            dyn_random
+            {
+                min                             -90
+                max                             90
+            }
+            rotation_speed                      dyn_random
+            {
+                min                             -1
+                max                             1
+            }
+        }
+        affector                                Scale 
+        {
+            xyz_scale                           dyn_random
+            {
+                min                             5
+                max                             10
+            }
+        }
+        affector                                LinearForce Affector22
+        {
+            mass_affector                       100
+            force_vector                        0 20 10
+        }
+        affector                                ScaleVelocity Affector23
+        {
+            velocity_scale                      -30
+            since_start_system                  true
+            stop_at_flip                        true
+        }
+        observer                                OnTime Observer4
+        {
+            handler                             DoEnableComponent Handler5
+            {
+                enable_component                emitter_component Emitter8 false
+            }
+            since_start_system                  true
+            on_time                             greater_than 0.4
+        }
+    }
+    technique 
+    {
+        material                                ParticleUniverse/Debris
+        renderer                                Billboard
+        {
+            billboard_type                      oriented_self
+        }
+        emitter                                 Point DebrisEmitter
+        {
+            emission_rate                       dyn_random
+            {
+                min                             10
+                max                             25
+            }
+            angle                               dyn_random
+            {
+                min                             0
+                max                             30
+            }
+            time_to_live                        5
+            velocity                            dyn_random
+            {
+                min                             20
+                max                             30
+            }
+            particle_width                      0.09
+            particle_height                     dyn_random
+            {
+                min                             0.06
+                max                             0.6
+            }
+            enabled                             false
+            direction                           0 0 1
+            force_emission                      true
+        }
+        affector                                Colour 
+        {
+            time_colour                         0    1 1 1 1
+            time_colour                         1    0 0 0 1
+        }
+        observer                                OnTime 
+        {
+            observe_until_event                 true
+            handler                             DoEnableComponent 
+            {
+                enable_component                emitter_component DebrisEmitter true
+            }
+            since_start_system                  true
+            on_time                             greater_than 0.5
+        }
+    }
+}

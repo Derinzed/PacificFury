@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<root>
+	<Equip>
+		<Fletcher>
+			<PortName name = "MainGun_1">
+				<Equipment name = "TestProbe"/>
+			</PortName>
+			<PortName name = "MainGun_2">
+				<Equipment name = "TestProbe"/>
+			</PortName>
+			<PortName name = "MainGun_3">
+				<Equipment name = "TestProbe"/>
+			</PortName>
+			<PortName name = "MainGun_4">
+				<Equipment name = "TestProbe"/>
+			</PortName>
+			<PortName name = "MainGun_5">
+				<Equipment name = "TestProbe"/>
+			</PortName>
+			<PortName name = "TestRadar">
+				<Equipment name = "TestProbe"/>
+			</PortName>
+		</Fletcher>
+	</Equip>
+</root>

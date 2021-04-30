@@ -1,0 +1,29 @@
+import base_material from "EnvironmentShader.material"
+
+material Type3_127mm_50Caliber_Naval_Gun : base_material
+{
+
+	//set_texture_alias normalMap 5Inch38CalMk12_Normal.tga
+	set_texture_alias diffuseMap DefaultMaterial_Weapons_Map2_Large_BaseColor.tga
+	//set_texture_alias wearMap DefaultMaterial_Map1Meshes_0_BaseColorWorn.png
+	
+	//set_texture_alias aoMap DefaultMaterial_Map1Meshes_0_AO.tga
+	//set_texture_alias specMap DefaultMaterial_Map1Meshes_0_Specular.tga
+	
+
+		 
+}
+
+material Type3_127mm_50Caliber_Naval_Gun_Detailing : base_material
+{
+
+	//set_texture_alias normalMap 5Inch38CalMk12_Normal.tga
+	set_texture_alias diffuseMap DefaultMaterial_Weapons_Map3_Meshes_2_BaseColor.tga
+	//set_texture_alias wearMap DefaultMaterial_Map1Meshes_0_BaseColorWorn.png
+	
+	//set_texture_alias aoMap DefaultMaterial_Map1Meshes_0_AO.tga
+	//set_texture_alias specMap DefaultMaterial_Map1Meshes_0_Specular.tga
+	
+
+		 
+}

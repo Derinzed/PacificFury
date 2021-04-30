@@ -2,8 +2,7 @@
 <root>
 	<MetalFuryParams>
 		<Rifles>
-			<object name="TestRifle">
-				<ConfigFile value="..\config\TestRifle.config"/>
+			<object name="5Inch-38Cal-MK12">
 				<AARange value="8."/>
 				<Ammo value="Proj_127_J"/>
 				<AmmoStorage value="200"/>

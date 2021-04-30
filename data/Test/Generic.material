@@ -1,0 +1,15 @@
+import base_material from "EnvironmentShader.material"
+
+material genericGrey : base_material
+{
+
+	//set_texture_alias normalMap DefaultMaterial_Map1Meshes_0_Normal.tga
+	set_texture_alias diffuseMap Grey.png
+	//set_texture_alias wearMap DefaultMaterial_Map1Meshes_0_BaseColorWorn.png
+	
+	//set_texture_alias aoMap DefaultMaterial_Map1Meshes_0_AO.tga
+	//set_texture_alias specMap DefaultMaterial_Map1Meshes_0_Specular.tga
+	
+
+		 
+}
