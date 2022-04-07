@@ -1,0 +1,22 @@
+
+material cannonFire
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+			scene_blend alpha_blend
+			depth_write off
+
+			texture_unit pu_smoke_02_128x128.png
+			{
+				texture_alias pu_smoke_02_128x128.png
+				texture pu_smoke_02_128x128.png
+				tex_address_mode clamp
+			}
+		}
+
+	}
+
+}

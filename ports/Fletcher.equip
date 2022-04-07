@@ -3,19 +3,19 @@
 	<Equip>
 		<Fletcher>
 			<PortName name = "MainGun_1">
-				<Equipment name = "TestProbe"/>
+				<Equipment name = "FletcherMainTurret"/>
 			</PortName>
 			<PortName name = "MainGun_2">
-				<Equipment name = "TestProbe"/>
+				<Equipment name = "FletcherMainTurret"/>
 			</PortName>
 			<PortName name = "MainGun_3">
-				<Equipment name = "TestProbe"/>
+				<Equipment name = "FletcherMainTurret"/>
 			</PortName>
 			<PortName name = "MainGun_4">
-				<Equipment name = "TestProbe"/>
+				<Equipment name = "FletcherMainTurret"/>
 			</PortName>
 			<PortName name = "MainGun_5">
-				<Equipment name = "TestProbe"/>
+				<Equipment name = "FletcherMainTurret"/>
 			</PortName>
 			<PortName name = "TestRadar">
 				<Equipment name = "TestProbe"/>

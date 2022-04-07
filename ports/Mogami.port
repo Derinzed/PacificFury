@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<root>
+	<Ports>
+		<Mogami>
+            <Port name = "MainGun_5">
+                <PortOffset x = "-0.013437509536743164" y = "8.22574234008789" z = "-50.720245361328125"/>
+                <PortRotation w ="3.14" x = "0.0" y = "1.0" z = "0.0"/>
+            </Port>
+            <Port name = "MainGun_4">
+                <PortOffset x = "-0.01343502663075924" y = "4.626434326171875" z = "-60.37837219238281"/>
+                <PortRotation w ="3.14" x = "0.0" y = "1.0" z = "0.0"/>
+            </Port>
+            <Port name = "MainGun_3">
+                <PortOffset x = "-0.013437509536743164" y = "7.761617183685303" z = "43.92475891113281"/>
+                <PortRotation w ="0.0" x = "0.0" y = "1.0" z = "0.0"/>
+            </Port>
+            <Port name = "MainGun_2">
+                <PortOffset x = "-0.01343502663075924" y = "4.263216018676758" z = "53.178627014160156"/>
+                <PortRotation w ="0.0" x = "0.0" y = "0.0" z = "0.0"/>
+            </Port>
+            <Port name = "MainGun">
+                <PortOffset x = "-0.01343502663075924" y = "4.263216018676758" z = "68.28702545166016"/>
+                <PortRotation w ="0.0" x = "0.0" y = "1.0" z = "0.0"/>
+            </Port>
+		</Mogami>
+	</Ports>
+</root>

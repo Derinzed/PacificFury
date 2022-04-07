@@ -1,0 +1,19 @@
+
+material fire
+{
+	technique
+	{
+		pass
+		{
+			scene_blend alpha_blend
+
+			texture_unit fireball.png
+			{
+				texture_alias fireball.png
+				texture fireball.png
+			}
+		}
+
+	}
+
+}

@@ -1,0 +1,17 @@
+sheepHull.mesh=MogamiHull
+sheepMap2_Mesh.mesh=MogamiBoilers
+sheepMap3_Mesh.mesh=MogamiCrew
+sheeppolySurface1303.mesh=MogamiDetails
+sheeppolySurface1304.mesh=MogamiDetails
+sheeppolySurface1305.mesh=MogamiDetails
+sheeppolySurface1306.mesh=MogamiDetails
+sheeppolySurface1309.mesh=MogamiDetails
+sheeppolySurface340.mesh=MogamiDetails
+sheeppolySurface529.mesh=MogamiDetails
+sheeppolySurface721.mesh=MogamiDetails
+sheeppolySurface722.mesh=MogamiDetails
+sheeppolySurface742.mesh=MogamiDetails
+sheeppolySurface743.mesh=MogamiDetails
+sheeppolySurface750.mesh=MogamiDetails
+sheepRails.mesh=MogamiRails
+sheepRopes.mesh=GenericWires

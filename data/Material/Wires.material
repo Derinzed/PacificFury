@@ -1,0 +1,7 @@
+material GenericWires : base_material
+{
+
+
+	set_texture_alias diffuseMap Grey.png
+	 
+}

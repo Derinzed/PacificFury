@@ -1,33 +1,41 @@
 system shipWake
 {
-    category                                    General
-    technique Technique69
+    technique 
     {
-        visual_particle_quota                   10
-        emitted_emitter_quota                   10
+        visual_particle_quota                   100
+        emitted_technique_quota                 20
+        emitted_affector_quota                  30
+        emitted_system_quota                    20
         material                                shipWake
+        default_particle_width                  1.0138
+        default_particle_height                 1.0138
+        default_particle_depth                  1.0138
         renderer                                Billboard
         {
             billboard_type                      perpendicular_common
             billboard_rotation_type             vertex
-            common_direction                    0 0.99 0.01
+            common_direction                    0.001 0.99 0.001
+            common_up_vector                    0 0 1
         }
-        emitter                                 Point Emitter89
+        emitter                                 Point 
         {
-            emission_rate                       1.1
+            emission_rate                       1
             angle                               0
             time_to_live                        10
             velocity                            1
-            all_particle_dimensions             100
             direction                           0 0 1
-            orientation                         90 1 0 0
-            start_orientation_range             0 1 0 0
-            end_orientation_range               360 1 0 0
+            orientation                         0 0 1 0
         }
-        affector                                Colour Affector157
+        affector                                Colour Affector16
         {
-            time_colour                         0    1 1 1 1
+            time_colour                         0    1 1 1 0
+            time_colour                         0.219565  1 1 1 1
+            time_colour                         0.784783  1 1 1 1
             time_colour                         1    1 1 1 0
+        }
+        affector                                Scale Affector26
+        {
+            xyz_scale                           0.2
         }
     }
 }

@@ -1,1 +1,1 @@
-MetalFuryFuncs.setScale(1,20);
+MetalFuryFuncs.setWeather("Storm_Two");

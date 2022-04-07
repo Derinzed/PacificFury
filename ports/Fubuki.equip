@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<root>
+	<Equip>
+		<Fubuki>
+			<PortName name = "MainGun_1">
+				<Equipment name = "Type_3_127_mm_50_Turret"/>
+			</PortName>
+			<PortName name = "MainGun_2">
+				<Equipment name = "Type_3_127_mm_50_Turret"/>
+			</PortName>
+		</Fubuki>
+	</Equip>
+</root>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Layout" version="3.2.0">
+    <Widget type="TabControl" skin="TabControl" position="10 55 200 954" align="Left VCenter" layer="Main" name="RootTab">
+        <Widget type="TabItem" skin="" position="2 24 179 926">
+            <Property key="Caption" value="Damage"/>
+            <Widget type="EditBox" skin="EditBox" position="0 0 200 905" name="DamageReportEditBox">
+			    <Property key="TextAlign" value="Left Top"/>
+				<Property key="MultiLine" value="true"/>
+			</Widget>
+        </Widget>
+        <Widget type="TabItem" skin="" position="2 24 179 926">
+            <Property key="Caption" value="Statistics"/>
+            <Widget type="EditBox" skin="EditBox" position="0 0 200 915" name="StatsReportEditBox">
+			    <Property key="TextAlign" value="Left Top"/>
+				<Property key="MultiLine" value="true"/>
+			</Widget>
+        </Widget>
+    </Widget>
+    <Widget type="Button" skin="Button" position="10 15 180 30" align="Left VCenter" layer="Main"	name="UnitStatisticsButton">
+        <Property key="Caption" value="Unit Statistics"/>
+    </Widget>
+    <CodeGeneratorSettings/>
+</MyGUI>

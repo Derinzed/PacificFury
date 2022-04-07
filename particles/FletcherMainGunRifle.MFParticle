@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<root>
+	<Particle>
+		<FletcherMainGunRifle>
+			<ParticleNode name = "CannonFire">
+				<ParticleOffset x = "0" y = "0" z = "0"/>
+				<ParticleTrigger name = "onShoot"/>
+				<ParticleTemplate name = "cannonShot"/>
+				<Scale value = "0.5"/>
+			</ParticleNode>
+		</FletcherMainGunRifle>
+	</Particle>
+</root>
+
+

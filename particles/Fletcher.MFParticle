@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<root>
+	<Particle>
+		<Fletcher>
+			<ParticleNode name = "ShipWake">
+				<ParticleOffset x = "0" y = "3.0" z = "-159.0"/>
+				<ParticleTrigger name = "onMove"/>
+				<ParticleTemplate name = "shipWake3"/>
+				<KeepRelativeOorientation name = "false"/>
+			</ParticleNode>
+		</Fletcher>
+	</Particle>
+</root>
+
+

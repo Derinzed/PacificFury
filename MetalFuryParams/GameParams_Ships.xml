@@ -42,6 +42,46 @@
 				<Width value="31"/>
 				<Year value="30"/>
 			</object>
+			<object name="Mogami"> 
+				<ConfigFile value="..\config\Mogami.config"/>
+				<AccelRate value="3.e-004"/>
+				<AirplanesCount value="91"/>
+				-<AmmoLoadingTemplate value="Ammo 500, BV_246_Frag_ST 10, BV_246_Com_ST 10, BV_246_Frag_SR 10, BV_246_Com_SR 10, Hs_293_R 20, Hs_293_P 20, Hs_293_ST 20, Torp_Jap_Mk91 50, Torp_Jap_Mk91_M_I 10, Torp_Jap_Mk91_A_SA 10"/>
+				<BoatsTransportationAbility value="false"/>
+				-<CabinArmor value="52"/>
+				<CanBeChanged value="true"/>
+				<CanUseTorpedos value="false"/>
+				<Country value="Japan"/>
+				<Crew value="2000"/>
+				-<CriticalCareen value="33."/>
+				-<CriticalDFT value="2.9"/>
+				-<CriticalDifferent value="2.4"/>
+				<DTimeProd value="140."/>
+				<DisplacementMax value="29600."/>
+				<FireRisk value="2667."/>
+				<Fuel value="5775."/>
+				-<HullArmorSide value="152"/>
+				-<HullArmorTop value="76"/>
+				<Iron value="35000."/>
+				<Length value="261"/>
+				<MaxSpeed value="31.5"/>
+				<MinCrew value="900"/>
+				<Money value="14000."/>
+				<Name value="Mogami"/>
+				<Passengers value="100"/>
+				<PlanesTransportationAbility value="false"/>
+				<Range value="14816."/>
+				<Rank value="1"/>
+				<SMU value="akagi"/>
+				<Speed value="200"/>
+				<StoreCapacity value="950."/>
+				<Transportable value="false"/>
+				<TurnRate value=".01"/>
+				-<Type value="0"/>
+				<Weight value="29600."/>
+				<Width value="31"/>
+				<Year value="30"/>
+			</object>
 			<object name="Akagi"> 
  				<ConfigFile value="NULL"/>
 				<AccelRate value="3.e-004"/>
@@ -684,7 +724,7 @@
 				<Transportable value="false"/>
 				<TurnRate value="1.8e-003"/>
 				-<Type value="4"/>
-				<Weight value="2325."/>
+				<Weight value="7.8"/>
 				<Width value="12"/>
 				<Year value="42"/>
 			</object>

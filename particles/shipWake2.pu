@@ -1,0 +1,105 @@
+system shipWake
+{
+    technique 
+    {
+        visual_particle_quota                   100
+        emitted_technique_quota                 20
+        emitted_affector_quota                  30
+        emitted_system_quota                    20
+        material                                shipWake
+        default_particle_width                  1.03
+        default_particle_height                 1.03
+        default_particle_depth                  1.03
+        renderer                                Billboard
+        {
+            billboard_type                      perpendicular_common
+            billboard_rotation_type             vertex
+            common_direction                    1e-006 0.999999 1e-006
+            common_up_vector                    0 0 1
+        }
+        emitter                                 Point 
+        {
+            emission_rate                       1
+            angle                               0
+            time_to_live                        15
+            velocity                            1
+            direction                           0 0 1
+            orientation                         0 0 0 0
+            start_orientation_range             0 0 0 0
+            end_orientation_range               0 0 0 0
+        }
+        affector                                Scale Affector26
+        {
+            x_scale                             0.2
+        }
+        affector                                Colour Affector16
+        {
+            time_colour                         0    1 1 1 0
+            time_colour                         0.245652  1 1 1 1
+            time_colour                         0.765217  1 1 1 1
+            time_colour                         1    1 1 1 0
+        }
+    }
+    technique Technique7
+    {
+        visual_particle_quota                   100
+        material                                shipWake2
+        default_particle_width                  1
+        default_particle_height                 1
+        default_particle_depth                  1
+        renderer                                Billboard
+        {
+            billboard_type                      perpendicular_common
+            billboard_rotation_type             vertex
+            common_direction                    0.001 0.99 0.001
+            common_up_vector                    0 0 1
+        }
+        emitter                                 Point 
+        {
+            emission_rate                       1
+            angle                               dyn_random
+            {
+                min                             -1.25
+                max                             1.25
+            }
+            time_to_live                        15
+            velocity                            1
+            keep_local                          true
+            direction                           0 0 1
+            orientation                         0 0 0 0
+            start_orientation_range             1 1 1 1
+            end_orientation_range               0 0 0 0
+        }
+        affector                                Colour Affector12
+        {
+            time_colour                         0    1 1 1 0
+            time_colour                         0.236957  1 1 1 1
+            time_colour                         0.767391  1 1 1 1
+            time_colour                         1    1 1 1 0
+        }
+        affector                                Scale Affector23
+        {
+            xyz_scale                           dyn_random
+            {
+                min                             0
+                max                             0.1
+            }
+        }
+        affector                                TextureRotator Affector24
+        {
+            rotation                            dyn_random
+            {
+                min                             1
+                max                             180
+            }
+            rotation_speed                      dyn_random
+            {
+                min                             -0.25
+                max                             0.25
+            }
+        }
+        affector                                Randomiser Affector25
+        {
+        }
+    }
+}

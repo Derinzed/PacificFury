@@ -1,0 +1,21 @@
+
+material shipWake2
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+			scene_blend alpha_blend
+			depth_check off
+
+			texture_unit kisspng-sea-foam-desktop-wallpaper-clip-art-5ae1841d619555.8848009615247288613997.png
+			{
+				texture_alias kisspng-sea-foam-desktop-wallpaper-clip-art-5ae1841d619555.8848009615247288613997.png
+				texture kisspng-sea-foam-desktop-wallpaper-clip-art-5ae1841d619555.8848009615247288613997.png
+			}
+		}
+
+	}
+
+}

@@ -17,11 +17,18 @@
 				<Money value="2.5"/>
 				<New value="false"/>
 				<Production value="false"/>
-				<RotationRate value="45"/>
+				<RotationRate value="0.3"/>
 				<SMU_File value="a20_Turret"/>
 				<RifleType value="AirTurret"/>
 				<Vitality value="3."/>
 				<Weight value="5.e-002"/>
+				<RifleConfiguration>
+					<Rifle name = "FletcherRifle1">
+						<RifleType value = "FletcherMainGunRifle"/>
+						<RifleOffset x = "0" y = "7.7" z = "25.8"/>
+						<RifleTime value ="0.0"/>
+					</Rifle>
+				</RifleConfiguration>
 			</object>
 			<object name="Type_3_127_mm_50_Turret">
 				<ConfigFile value="..\config\Type_3_127_mm_50_Turret.config"/>
@@ -38,19 +45,30 @@
 				<Money value="3."/>
 				<New value="false"/>
 				<Production value="false"/>
-				<RotationRate value="45"/>
+				<RotationRate value="0.3"/>
 				<SMU_File value="a20_Turret"/>
 				<RifleType value="AirTurret"/>
 				<Vitality value="4."/>
 				<Weight value="5.e-002"/>
+				<RifleConfiguration>
+					<Rifle name = "FubukiRifle1">
+						<RifleType value = "FletcherMainGunRifle"/>
+						<RifleOffset x = "1.0" y = "7.7" z = "25.8"/>
+						<RifleTime value ="0.0"/>
+					</Rifle>
+					<Rifle name = "FubukiRifle2">
+						<RifleType value = "FletcherMainGunRifle"/>
+						<RifleOffset x = "-1.0" y = "7.7" z = "25.8"/>
+						<RifleTime value ="0.5"/>
+					</Rifle>
+				</RifleConfiguration>
 			</object>
-			<object name="A20_Turret_Up_7_62">
-				<ConfigFile value="NULL"/>
+			<object name="20cm_50_3rd_Year_Turret">
+				<ConfigFile value="..\config\20cm_50_3rd_Year_Turret.config"/>
 				<Amount value="2"/>
 				<ArmorFront value="1"/>
 				<ArmorSide value="1"/>
 				<ArmorTop value="0"/>
-				<Content value="Rifles.Browning_30M2_500_Stvol"/>
 				<Country value="1"/>
 				<Elevation value="0"/>
 				<ElevationRate value="60"/>
@@ -59,11 +77,22 @@
 				<Money value="2."/>
 				<New value="false"/>
 				<Production value="false"/>
-				<RotationRate value="45"/>
-				<SMU_File value="a20_Turret"/>
+				<RotationRate value="0.1"/>
 				<Type value="AirTurret"/>
 				<Vitality value="2."/>
 				<Weight value="5.e-002"/>
+				<RifleConfiguration>
+					<Rifle name = "MogamiRifle1">
+						<RifleType value = "FletcherMainGunRifle"/>
+						<RifleOffset x = "1.0" y = "7.7" z = "55.5"/>
+						<RifleTime value ="0.0"/>
+					</Rifle>
+					<Rifle name = "MogamiRifle2">
+						<RifleType value = "FletcherMainGunRifle"/>
+						<RifleOffset x = "-1.0" y = "7.7" z = "55.5"/>
+						<RifleTime value ="0.75"/>
+					</Rifle>
+				</RifleConfiguration>
 			</object>
 			<object name="AA_Director_Mk37">
 				<ConfigFile value="NULL"/>

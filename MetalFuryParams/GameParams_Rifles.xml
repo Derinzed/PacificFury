@@ -2,7 +2,34 @@
 <root>
 	<MetalFuryParams>
 		<Rifles>
+			<object name="FletcherMainGunRifle">
+				<Particles value = "..\particles\FletcherMainGunRifle.MFParticle"/>
+				<AARange value="8."/>
+				<Ammo value="Proj_127_J"/>
+				<AmmoStorage value="200"/>
+				<AmmoWeight value="34.32"/>
+				<Caliber value="127."/>
+				<Common value="Proj_127_J_Com"/>
+				<Country value="2"/>
+				<Dispersion value="9."/>
+				<FinalSpeed value="189"/>
+				<FireSound value="Guns\127mm"/>
+				<Frag value="Proj_127_J_Fr"/>
+				<HighExp value="Proj_127_J_HE"/>
+				<IgnoreXMLFile value="false"/>
+				<Money value="1.5"/>
+				<New value="false"/>
+				<ROF value="11."/>
+				<Range value="14.8"/>
+				<SLLauncher value="false"/>
+				<SMU_File value="AA_Gun_127_Yamato_Stvol"/>
+				<StartSpeed value="720"/>
+				<Unreliability value="0"/>
+				<Usage value="Ships"/>
+				<Weight value="3.05"/>
+			</object>
 			<object name="5Inch-38Cal-MK12">
+				<Particles value = "NULL"/>
 				<AARange value="8."/>
 				<Ammo value="Proj_127_J"/>
 				<AmmoStorage value="200"/>
@@ -28,6 +55,7 @@
 				<Weight value="3.05"/>
 			</object>
 			<object name="AA_Gun_25x3_Yamato">
+				<Particles value = "NULL"/>
 				<AARange value="3."/>
 				<Ammo value="Proj_25_J"/>
 				<AmmoStorage value="3000"/>
@@ -53,6 +81,7 @@
 				<Weight value="0.115"/>
 			</object>
 			<object name="AA_Gun_80x2_Agano">
+				<Particles value = "NULL"/>
 				<AARange value="9.1"/>
 				<Ammo value="Proj_80_J"/>
 				<AmmoStorage value="300"/>
@@ -77,6 +106,7 @@
 				<Weight value="1.3"/>
 			</object>
 			<object name="BK37_72_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_37_U"/>
 				<AmmoStorage value="72"/>
@@ -102,6 +132,7 @@
 				<Weight value="0.16"/>
 			</object>
 			<object name="Baltimor_Main_Gun">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_203_U"/>
 				<AmmoStorage value="150"/>
@@ -126,6 +157,7 @@
 				<Weight value="17.14"/>
 			</object>
 			<object name="Baltimor_Med_Gun">
+				<Particles value = "NULL"/>
 				<AARange value="11.9"/>
 				<Ammo value="Proj_127_U"/>
 				<AmmoStorage value="575"/>
@@ -152,6 +184,7 @@
 				<Weight value="2.432"/>
 			</object>
 			<object name="Bismark_FLAK1_10mm_SK_C33_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="12.2"/>
 				<AmmoStorage value="450"/>
 				<AmmoWeight value="15.1"/>
@@ -175,6 +208,7 @@
 				<Weight value="27.35"/>
 			</object>
 			<object name="Bismark_FLAK3_37mm_SK_C30_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="2."/>
 				<Ammo value="Proj_A_30_J"/>
 				<AmmoStorage value="2000"/>
@@ -199,6 +233,7 @@
 				<Weight value="6.8e-002"/>
 			</object>
 			<object name="Bismark_FLAK4_20mm_MG_C38Quad_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="2."/>
 				<Ammo value="Proj_20_U"/>
 				<AmmoStorage value="4000"/>
@@ -224,6 +259,7 @@
 				<Weight value="2.15"/>
 			</object>
 			<object name="Bismark_FLAK5_20mm_MG_C30_3V_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="2."/>
 				<Ammo value="Proj_20_U"/>
 				<AmmoStorage value="2500"/>
@@ -249,6 +285,7 @@
 				<Weight value="4.2e-002"/>
 			</object>
 			<object name="Bismark_FLAK5_20mm_MG_C30_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="2."/>
 				<Ammo value="Proj_20_U"/>
 				<AmmoStorage value="2500"/>
@@ -274,6 +311,7 @@
 				<Weight value="6.8e-002"/>
 			</object>
 			<object name="Bismark_MG_Stvol_1V">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_381_UK"/>
 				<AmmoStorage value="108"/>
@@ -298,6 +336,7 @@
 				<Weight value="111."/>
 			</object>
 			<object name="Bismark_SK1_150mm_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_152_J"/>
 				<AmmoStorage value="105"/>
@@ -322,6 +361,7 @@
 				<Weight value="9.08"/>
 			</object>
 			<object name="Blenheim4_UpGun_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="500"/>
@@ -346,6 +386,7 @@
 				<Weight value="3.e-002"/>
 			</object>
 			<object name="Bomb_Kletka_Small_4x">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Mark_6"/>
 				<AmmoStorage value="20"/>
@@ -370,6 +411,7 @@
 				<Weight value="0.15"/>
 			</object>
 			<object name="BrowningMG53_200">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="200"/>
@@ -394,6 +436,7 @@
 				<Weight value="3.e-002"/>
 			</object>
 			<object name="BrowningMG53_200_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="200"/>
@@ -418,6 +461,7 @@
 				<Weight value="3.e-002"/>
 			</object>
 			<object name="BrowningMG53_200_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="200"/>
@@ -442,6 +486,7 @@
 				<Weight value="3.e-002"/>
 			</object>
 			<object name="BrowningMG53_375">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="375"/>
@@ -466,6 +511,7 @@
 				<Weight value="3.e-002"/>
 			</object>
 			<object name="BrowningMG53_375_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="375"/>
@@ -490,6 +536,7 @@
 				<Weight value="3.e-002"/>
 			</object>
 			<object name="BrowningMG53_375_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="375"/>
@@ -514,6 +561,7 @@
 				<Weight value="3.e-002"/>
 			</object>
 			<object name="BrowningMG53_500">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="500"/>
@@ -538,6 +586,7 @@
 				<Weight value="3.e-002"/>
 			</object>
 			<object name="BrowningMG53_500_SBD">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="500"/>
@@ -562,6 +611,7 @@
 				<Weight value="3.e-002"/>
 			</object>
 			<object name="BrowningMG53_500_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="500"/>
@@ -586,6 +636,7 @@
 				<Weight value="3.e-002"/>
 			</object>
 			<object name="BrowningMG53_500_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="500"/>
@@ -610,6 +661,7 @@
 				<Weight value="3.e-002"/>
 			</object>
 			<object name="Browning_30M2_500">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_7_62_U"/>
 				<AmmoStorage value="500"/>
@@ -634,6 +686,7 @@
 				<Weight value="1.e-002"/>
 			</object>
 			<object name="Browning_30M2_500_SBD">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_7_62_U"/>
 				<AmmoStorage value="500"/>
@@ -658,6 +711,7 @@
 				<Weight value="1.e-002"/>
 			</object>
 			<object name="Browning_30M2_500_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_7_62_U"/>
 				<AmmoStorage value="500"/>
@@ -682,6 +736,7 @@
 				<Weight value="1.e-002"/>
 			</object>
 			<object name="Browning_30M2_500_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_7_62_U"/>
 				<AmmoStorage value="500"/>
@@ -706,6 +761,7 @@
 				<Weight value="1.e-002"/>
 			</object>
 			<object name="Browning_30Mk2_500_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_7_62_U"/>
 				<AmmoStorage value="500"/>
@@ -730,6 +786,7 @@
 				<Weight value="1.e-002"/>
 			</object>
 			<object name="Browning_M4_30">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_37_U"/>
 				<AmmoStorage value="30"/>
@@ -755,6 +812,7 @@
 				<Weight value="9.6e-002"/>
 			</object>
 			<object name="Browning_M4_30_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_37_U"/>
 				<AmmoStorage value="30"/>
@@ -780,6 +838,7 @@
 				<Weight value="9.6e-002"/>
 			</object>
 			<object name="Browning_M4_30_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_37_U"/>
 				<AmmoStorage value="30"/>
@@ -805,6 +864,7 @@
 				<Weight value="9.6e-002"/>
 			</object>
 			<object name="Cleveland_Main_Gun">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_152_U"/>
 				<AmmoStorage value="150"/>
@@ -829,6 +889,7 @@
 				<Weight value="6.5"/>
 			</object>
 			<object name="Colorado_Gun_Small">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_127_U"/>
 				<AmmoStorage value="200"/>
@@ -855,6 +916,7 @@
 				<Weight value="2.522"/>
 			</object>
 			<object name="Colorado_Main_Gun">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_406_U"/>
 				<AmmoStorage value="100"/>
@@ -879,6 +941,7 @@
 				<Weight value="106.959"/>
 			</object>
 			<object name="De_Ruyter_Gun_150x1_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_155_N"/>
 				<AmmoStorage value="330"/>
@@ -904,6 +967,7 @@
 				<Weight value="7.5"/>
 			</object>
 			<object name="De_Ruyter_Gun_150x2_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_155_N"/>
 				<AmmoStorage value="660"/>
@@ -929,6 +993,7 @@
 				<Weight value="7.5"/>
 			</object>
 			<object name="Dorsetshire_Gun_203_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_203_UK"/>
 				<AmmoStorage value="150"/>
@@ -954,6 +1019,7 @@
 				<Weight value="38.64"/>
 			</object>
 			<object name="Eclipse_Gun_120x1_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="12.2"/>
 				<Ammo value="Proj_127_J"/>
 				<AmmoStorage value="200"/>
@@ -979,6 +1045,7 @@
 				<Weight value="4.245"/>
 			</object>
 			<object name="Elco_Gun_37x1_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="4."/>
 				<Ammo value="Proj_40_U"/>
 				<AmmoStorage value="800"/>
@@ -1003,6 +1070,7 @@
 				<Weight value="0.512"/>
 			</object>
 			<object name="Fiji_Gun_152_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_155_UK"/>
 				<AmmoStorage value="240"/>
@@ -1028,6 +1096,7 @@
 				<Weight value="7.017"/>
 			</object>
 			<object name="G10N_BackGun_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="500"/>
@@ -1052,6 +1121,7 @@
 				<Weight value="3.e-002"/>
 			</object>
 			<object name="G10N_DownGun_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="500"/>
@@ -1076,6 +1146,7 @@
 				<Weight value="3.e-002"/>
 			</object>
 			<object name="G10N_UpGun_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="500"/>
@@ -1100,6 +1171,7 @@
 				<Weight value="3.e-002"/>
 			</object>
 			<object name="Germ_Sub_Torp_Apparat">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Germany_Torpedoes_G7a"/>
 				<AmmoStorage value="2"/>
@@ -1122,6 +1194,7 @@
 				<Weight value="4."/>
 			</object>
 			<object name="Gun_20x1">
+				<Particles value = "NULL"/>
 				<AARange value="2."/>
 				<Ammo value="Proj_20_U"/>
 				<AmmoStorage value="4000"/>
@@ -1147,6 +1220,7 @@
 				<Weight value="6.8e-002"/>
 			</object>
 			<object name="Gun_2x40x2">
+				<Particles value = "NULL"/>
 				<AARange value="4."/>
 				<Ammo value="Proj_40_U"/>
 				<AmmoStorage value="3200"/>
@@ -1171,6 +1245,7 @@
 				<Weight value="2.048"/>
 			</object>
 			<object name="Gun_40x1">
+				<Particles value = "NULL"/>
 				<AARange value="4."/>
 				<Ammo value="Proj_40_U"/>
 				<AmmoStorage value="800"/>
@@ -1195,6 +1270,7 @@
 				<Weight value="0.512"/>
 			</object>
 			<object name="Hispano_mk2_100">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_20_U"/>
 				<AmmoStorage value="100"/>
@@ -1220,6 +1296,7 @@
 				<Weight value="5.e-002"/>
 			</object>
 			<object name="Hispano_mk2_100_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_20_U"/>
 				<AmmoStorage value="100"/>
@@ -1245,6 +1322,7 @@
 				<Weight value="5.e-002"/>
 			</object>
 			<object name="Hispano_mk2_100_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_20_U"/>
 				<AmmoStorage value="100"/>
@@ -1270,6 +1348,7 @@
 				<Weight value="5.e-002"/>
 			</object>
 			<object name="Hispano_mk2_280_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_20_U"/>
 				<AmmoStorage value="280"/>
@@ -1295,6 +1374,7 @@
 				<Weight value="5.e-002"/>
 			</object>
 			<object name="Hispano_mk2e_100_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_20_U"/>
 				<AmmoStorage value="100"/>
@@ -1320,6 +1400,7 @@
 				<Weight value="5.e-002"/>
 			</object>
 			<object name="Ho_103_250">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_J"/>
 				<AmmoStorage value="250"/>
@@ -1344,6 +1425,7 @@
 				<Weight value="2.3e-002"/>
 			</object>
 			<object name="Ho_103_250_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="250"/>
@@ -1368,6 +1450,7 @@
 				<Weight value="2.3e-002"/>
 			</object>
 			<object name="Ho_155_80_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_30_J"/>
 				<AmmoStorage value="80"/>
@@ -1393,6 +1476,7 @@
 				<Weight value="5.e-002"/>
 			</object>
 			<object name="Ho_203_15_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_37_J"/>
 				<AmmoStorage value="15"/>
@@ -1416,6 +1500,7 @@
 				<Weight value="9.e-002"/>
 			</object>
 			<object name="Ho_5_120_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_20_J"/>
 				<AmmoStorage value="120"/>
@@ -1441,6 +1526,7 @@
 				<Weight value="3.3e-002"/>
 			</object>
 			<object name="Hood_Gun_102x2_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="9.45"/>
 				<Ammo value="Proj_102_UK"/>
 				<AmmoStorage value="200"/>
@@ -1465,6 +1551,7 @@
 				<Weight value="2.395"/>
 			</object>
 			<object name="Hood_Gun_12_5x4_Sight">
+				<Particles value = "NULL"/>
 				<AARange value="3."/>
 				<Ammo value="Proj_25_J"/>
 				<AmmoStorage value="9900"/>
@@ -1490,6 +1577,7 @@
 				<Weight value="0.115"/>
 			</object>
 			<object name="Hood_Gun_12_5x4_Stvol_1V">
+				<Particles value = "NULL"/>
 				<AARange value="3."/>
 				<Ammo value="Proj_25_J"/>
 				<AmmoStorage value="9900"/>
@@ -1515,6 +1603,7 @@
 				<Weight value="0.115"/>
 			</object>
 			<object name="Hood_Gun_12_5x4_Stvol_2V">
+				<Particles value = "NULL"/>
 				<AARange value="3."/>
 				<Ammo value="Proj_25_J"/>
 				<AmmoStorage value="9900"/>
@@ -1540,6 +1629,7 @@
 				<Weight value="0.115"/>
 			</object>
 			<object name="Hood_Gun_20x4_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="3."/>
 				<Ammo value="Proj_25_J"/>
 				<AmmoStorage value="2000"/>
@@ -1565,6 +1655,7 @@
 				<Weight value="0.115"/>
 			</object>
 			<object name="Hood_Gun_20x8_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="3."/>
 				<Ammo value="Proj_25_J"/>
 				<AmmoStorage value="2000"/>
@@ -1590,6 +1681,7 @@
 				<Weight value="0.115"/>
 			</object>
 			<object name="Hood_Gun_40x20_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="3."/>
 				<Ammo value="Proj_25_J"/>
 				<AmmoStorage value="2000"/>
@@ -1615,6 +1707,7 @@
 				<Weight value="0.115"/>
 			</object>
 			<object name="Hood_MkII_381mm_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_381_UK"/>
 				<AmmoStorage value="120"/>
@@ -1639,6 +1732,7 @@
 				<Weight value="101.605"/>
 			</object>
 			<object name="Il4_UpGun_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="200"/>
@@ -1663,6 +1757,7 @@
 				<Weight value="2.1e-002"/>
 			</object>
 			<object name="Illustrias_Gun_114_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="12.2"/>
 				<Ammo value="Proj_127_J"/>
 				<AmmoStorage value="300"/>
@@ -1688,6 +1783,7 @@
 				<Weight value="6.1"/>
 			</object>
 			<object name="Iowa_Main_Gun">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_406_U"/>
 				<AmmoStorage value="135"/>
@@ -1712,6 +1808,7 @@
 				<Weight value="121.519"/>
 			</object>
 			<object name="Jap_Gun_25x1">
+				<Particles value = "NULL"/>
 				<AARange value="3."/>
 				<Ammo value="Proj_25_J"/>
 				<AmmoStorage value="2000"/>
@@ -1737,6 +1834,7 @@
 				<Weight value="0.115"/>
 			</object>
 			<object name="Jap_Gun_25x2">
+				<Particles value = "NULL"/>
 				<AARange value="3."/>
 				<Ammo value="Proj_25_J"/>
 				<AmmoStorage value="2000"/>
@@ -1762,6 +1860,7 @@
 				<Weight value="0.115"/>
 			</object>
 			<object name="Jap_Gun_25x3">
+				<Particles value = "NULL"/>
 				<AARange value="3."/>
 				<Ammo value="Proj_25_J"/>
 				<AmmoStorage value="2000"/>
@@ -1787,6 +1886,7 @@
 				<Weight value="0.115"/>
 			</object>
 			<object name="Jap_Sub_Torp_Apparat">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Torp_Jap_Mk93;Torp_Jap_Mk93_M_I;Torp_Jap_Mk93_A_SA"/>
 				<AmmoStorage value="3"/>
@@ -1809,6 +1909,7 @@
 				<Weight value="4."/>
 			</object>
 			<object name="Jap_Torp_App_4x">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Torp_Jap_Mk93;Torp_Jap_Mk93_M_I;Torp_Jap_Mk93_A_SA"/>
 				<AmmoStorage value="2"/>
@@ -1831,6 +1932,7 @@
 				<Weight value="18.3"/>
 			</object>
 			<object name="K_Gun">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Mark_6"/>
 				<AmmoStorage value="20"/>
@@ -1853,6 +1955,7 @@
 				<Weight value="0.5"/>
 			</object>
 			<object name="Kazemat_Gun_203_Akagi">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_203_J"/>
 				<AmmoStorage value="150"/>
@@ -1878,6 +1981,7 @@
 				<Weight value="17.6"/>
 			</object>
 			<object name="KingGeorgV_Gun_133_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="14.935"/>
 				<Ammo value="Proj_133_UK"/>
 				<AmmoStorage value="300"/>
@@ -1902,6 +2006,7 @@
 				<Weight value="4.362"/>
 			</object>
 			<object name="KingGeorgV_Gun_356_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_356_UK"/>
 				<AmmoStorage value="100"/>
@@ -1926,6 +2031,7 @@
 				<Weight value="80.26"/>
 			</object>
 			<object name="Lancaster_BackGun_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="500"/>
@@ -1950,6 +2056,7 @@
 				<Weight value="3.e-002"/>
 			</object>
 			<object name="Lancaster_FrontGun_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="500"/>
@@ -1974,6 +2081,7 @@
 				<Weight value="3.e-002"/>
 			</object>
 			<object name="Lancaster_UpGun_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="500"/>
@@ -1998,6 +2106,7 @@
 				<Weight value="3.e-002"/>
 			</object>
 			<object name="MG131_250_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_J"/>
 				<AmmoStorage value="250"/>
@@ -2022,6 +2131,7 @@
 				<Weight value="1.7e-002"/>
 			</object>
 			<object name="MG131_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_J"/>
 				<AmmoStorage value="250"/>
@@ -2046,6 +2156,7 @@
 				<Weight value="1.7e-002"/>
 			</object>
 			<object name="MG151_100_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_20_J"/>
 				<AmmoStorage value="100"/>
@@ -2071,6 +2182,7 @@
 				<Weight value="4.2e-002"/>
 			</object>
 			<object name="MG17_250_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_7_62_U"/>
 				<AmmoStorage value="250"/>
@@ -2095,6 +2207,7 @@
 				<Weight value="1.2e-002"/>
 			</object>
 			<object name="MG213A__Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_30_J"/>
 				<AmmoStorage value="30"/>
@@ -2120,6 +2233,7 @@
 				<Weight value="7.7e-002"/>
 			</object>
 			<object name="MGFF_60_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_20_J"/>
 				<AmmoStorage value="100"/>
@@ -2145,6 +2259,7 @@
 				<Weight value="4.2e-002"/>
 			</object>
 			<object name="MK103_30_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_30_J"/>
 				<AmmoStorage value="30"/>
@@ -2170,6 +2285,7 @@
 				<Weight value="0.143"/>
 			</object>
 			<object name="MK108_30_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_30_J"/>
 				<AmmoStorage value="30"/>
@@ -2195,6 +2311,7 @@
 				<Weight value="5.8e-002"/>
 			</object>
 			<object name="Main_Gun_100_Akitsuki">
+				<Particles value = "NULL"/>
 				<AARange value="13."/>
 				<Ammo value="Proj_100_J"/>
 				<AmmoStorage value="300"/>
@@ -2219,6 +2336,7 @@
 				<Weight value="6.731"/>
 			</object>
 			<object name="Main_Gun_150x2_Agano">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_152_J"/>
 				<AmmoStorage value="150"/>
@@ -2243,6 +2361,7 @@
 				<Weight value="8.36"/>
 			</object>
 			<object name="Main_Gun_203x2_Mogami">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_203_J"/>
 				<AmmoStorage value="120"/>
@@ -2268,6 +2387,7 @@
 				<Weight value="18.7"/>
 			</object>
 			<object name="Main_Gun_460_Yamato">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_460_J"/>
 				<AmmoStorage value="100"/>
@@ -2292,6 +2412,7 @@
 				<Weight value="164.6"/>
 			</object>
 			<object name="Main_Gun_Nagato">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_410_J"/>
 				<AmmoStorage value="100"/>
@@ -2317,6 +2438,7 @@
 				<Weight value="100."/>
 			</object>
 			<object name="MaximGorkij_Gun_100mm_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="13."/>
 				<Ammo value="Proj_100_J"/>
 				<AmmoStorage value="300"/>
@@ -2341,6 +2463,7 @@
 				<Weight value="6.731"/>
 			</object>
 			<object name="MaximGorkij_Gun_12_7_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="2."/>
 				<Ammo value="Proj_20_U"/>
 				<AmmoStorage value="4000"/>
@@ -2366,6 +2489,7 @@
 				<Weight value="6.8e-002"/>
 			</object>
 			<object name="MaximGorkij_MainGun_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_180_R"/>
 				<AmmoStorage value="100"/>
@@ -2391,6 +2515,7 @@
 				<Weight value="17."/>
 			</object>
 			<object name="MaximGorkij_Torp_Tube">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Torp_SU_53_39"/>
 				<AmmoStorage value="1"/>
@@ -2413,6 +2538,7 @@
 				<Weight value="17.2"/>
 			</object>
 			<object name="Myoko_Gun_127x2">
+				<Particles value = "NULL"/>
 				<AARange value="12.2"/>
 				<Ammo value="Proj_127_J"/>
 				<AmmoStorage value="200"/>
@@ -2438,6 +2564,7 @@
 				<Weight value="6.1"/>
 			</object>
 			<object name="Myoko_Gun_203x2">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_203_J"/>
 				<AmmoStorage value="120"/>
@@ -2463,6 +2590,7 @@
 				<Weight value="18.7"/>
 			</object>
 			<object name="N37_30_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_37_U"/>
 				<AmmoStorage value="30"/>
@@ -2488,6 +2616,7 @@
 				<Weight value="0.103"/>
 			</object>
 			<object name="NS37_30_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_37_U"/>
 				<AmmoStorage value="30"/>
@@ -2513,6 +2642,7 @@
 				<Weight value="0.16"/>
 			</object>
 			<object name="Nagato_Gun_Small">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_152_J"/>
 				<AmmoStorage value="120"/>
@@ -2536,6 +2666,7 @@
 				<Weight value="2.522"/>
 			</object>
 			<object name="Narvik_Gun_150_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="11.8"/>
 				<Ammo value="Proj_127_J"/>
 				<AmmoStorage value="120"/>
@@ -2561,6 +2692,7 @@
 				<Weight value="4.245"/>
 			</object>
 			<object name="Narvik_Torp_Tube">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Germany_Torpedoes_G7a"/>
 				<AmmoStorage value="1"/>
@@ -2583,6 +2715,7 @@
 				<Weight value="16."/>
 			</object>
 			<object name="PU_Rheintochter_Rifle">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Rheintochter_A_R;Rheintochter_R_R;Lark_JRD_R;Lark_JRD_SAR;Lark_RDTT_R;Lark_RDTT_SAR;Little Joe_R;UK_Lark_JRD_R;UK_Lark_RDTT_SAR;UK_Lark_RDTT_R;UK_Lark_JRD_SAR;UK_Little Joe_R"/>
 				<AmmoStorage value="16"/>
@@ -2608,6 +2741,7 @@
 				<Weight value="0.6"/>
 			</object>
 			<object name="PU_V1_Rifle">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Bat_JB1_I;Loon_I;Loon_SAR;V1_I;V1_R;V1_SR;V1_ST;UK_Loon_I;UK_Loon_SAR;UK_Bat_JB1_I"/>
 				<AmmoStorage value="0"/>
@@ -2633,6 +2767,7 @@
 				<Weight value="3."/>
 			</object>
 			<object name="PU_V2_Rifle">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Corporal_JRD_I;Corporal_JRD_R;Corporal_JRD_SAR;Corporal_RDTT_I;Corporal_RDTT_R;Corporal_RDTT_SAR;V2_I;V2_SR;V2_ST;Wasserfall_R;Wasserfall_SAR;Rheinbote_I;UK_C_JRD_SAR;UK_C_RDTT_I;UK_C_JRD_R;UK_C_RDTT_SAR;UK_C_JRD_I;UK_C_RDTT_R"/>
 				<AmmoStorage value="0"/>
@@ -2658,6 +2793,7 @@
 				<Weight value="1."/>
 			</object>
 			<object name="PikeV_Gun_F22_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="2."/>
 				<Ammo value="Proj_20_U"/>
 				<AmmoStorage value="650"/>
@@ -2683,6 +2819,7 @@
 				<Weight value="6.8e-002"/>
 			</object>
 			<object name="PikeV_Gun_Maxim_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="2."/>
 				<Ammo value="Proj_20_U"/>
 				<AmmoStorage value="4000"/>
@@ -2708,6 +2845,7 @@
 				<Weight value="6.8e-002"/>
 			</object>
 			<object name="SU_Sub_Torp_Apparat">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Torp_SU_53_39"/>
 				<AmmoStorage value="2"/>
@@ -2730,6 +2868,7 @@
 				<Weight value="4."/>
 			</object>
 			<object name="Second_Gun_155_Yamato">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_155_J"/>
 				<AmmoStorage value="150"/>
@@ -2754,6 +2893,7 @@
 				<Weight value="12.5"/>
 			</object>
 			<object name="ShKAS_500_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_7_62_U"/>
 				<AmmoStorage value="500"/>
@@ -2778,6 +2918,7 @@
 				<Weight value="1.e-002"/>
 			</object>
 			<object name="ShVAK_100_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_20_U"/>
 				<AmmoStorage value="100"/>
@@ -2803,6 +2944,7 @@
 				<Weight value="4.e-002"/>
 			</object>
 			<object name="Tempest_Gun_102_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="12.2"/>
 				<Ammo value="Proj_127_J"/>
 				<AmmoStorage value="150"/>
@@ -2828,6 +2970,7 @@
 				<Weight value="4.245"/>
 			</object>
 			<object name="Traibal_Gun_120x2_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="12.2"/>
 				<Ammo value="Proj_127_J"/>
 				<AmmoStorage value="300"/>
@@ -2853,6 +2996,7 @@
 				<Weight value="4.245"/>
 			</object>
 			<object name="Traibal_Torp_Tube">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="uk_torp_fleet"/>
 				<AmmoStorage value="1"/>
@@ -2875,6 +3019,7 @@
 				<Weight value="16."/>
 			</object>
 			<object name="Typ_89_500">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_7_7_J"/>
 				<AmmoStorage value="500"/>
@@ -2899,6 +3044,7 @@
 				<Weight value="1.2e-002"/>
 			</object>
 			<object name="Typ_89_500_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_7_7_J"/>
 				<AmmoStorage value="500"/>
@@ -2923,6 +3069,7 @@
 				<Weight value="1.2e-002"/>
 			</object>
 			<object name="Typ_89_500_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_7_7_J"/>
 				<AmmoStorage value="500"/>
@@ -2947,6 +3094,7 @@
 				<Weight value="1.2e-002"/>
 			</object>
 			<object name="Typ_97_mk1_60_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_20_J"/>
 				<AmmoStorage value="60"/>
@@ -2972,6 +3120,7 @@
 				<Weight value="2.3e-002"/>
 			</object>
 			<object name="Typ_99_mk1_100">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_20_J"/>
 				<AmmoStorage value="100"/>
@@ -2997,6 +3146,7 @@
 				<Weight value="2.3e-002"/>
 			</object>
 			<object name="Typ_99_mk1_100_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_20_J"/>
 				<AmmoStorage value="100"/>
@@ -3022,6 +3172,7 @@
 				<Weight value="2.3e-002"/>
 			</object>
 			<object name="Typ_99_mk2_125_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_20_J"/>
 				<AmmoStorage value="125"/>
@@ -3047,6 +3198,7 @@
 				<Weight value="3.6e-002"/>
 			</object>
 			<object name="Type92_582">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_7_7_J"/>
 				<AmmoStorage value="582"/>
@@ -3071,6 +3223,7 @@
 				<Weight value="1.2e-002"/>
 			</object>
 			<object name="Type92_582_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_7_7_J"/>
 				<AmmoStorage value="582"/>
@@ -3095,6 +3248,7 @@
 				<Weight value="1.2e-002"/>
 			</object>
 			<object name="Type92_582_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_7_7_J"/>
 				<AmmoStorage value="582"/>
@@ -3119,6 +3273,7 @@
 				<Weight value="1.2e-002"/>
 			</object>
 			<object name="UBT_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_7_62_U"/>
 				<AmmoStorage value="500"/>
@@ -3143,6 +3298,7 @@
 				<Weight value="1.e-002"/>
 			</object>
 			<object name="UB_250_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_12_7_U"/>
 				<AmmoStorage value="200"/>
@@ -3167,6 +3323,7 @@
 				<Weight value="2.1e-002"/>
 			</object>
 			<object name="UK_Sub_Torp_tube">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="uk_torp_fleet"/>
 				<AmmoStorage value="1"/>
@@ -3189,6 +3346,7 @@
 				<Weight value="16."/>
 			</object>
 			<object name="USA_Sub_Torp_Apparat">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Torp_US_Mk15;Torp_US_Mk15_M_I;Torp_US_Mk15_A_SA"/>
 				<AmmoStorage value="2"/>
@@ -3211,6 +3369,7 @@
 				<Weight value="4."/>
 			</object>
 			<object name="USA_Torp_tube">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Torp_US_Mk15;Torp_US_Mk15_M_I;Torp_US_Mk15_A_SA"/>
 				<AmmoStorage value="1"/>
@@ -3233,6 +3392,7 @@
 				<Weight value="16."/>
 			</object>
 			<object name="USA_Torp_tube_Elco">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Torp_US_Mk15;Torp_US_Mk15_M_I;Torp_US_Mk15_A_SA"/>
 				<AmmoStorage value="1"/>
@@ -3255,6 +3415,7 @@
 				<Weight value="16."/>
 			</object>
 			<object name="US_Gun_40x2">
+				<Particles value = "NULL"/>
 				<AARange value="4."/>
 				<Ammo value="Proj_40_U"/>
 				<AmmoStorage value="1600"/>
@@ -3279,6 +3440,7 @@
 				<Weight value="1.024"/>
 			</object>
 			<object name="US_browning50x2_stvol">
+				<Particles value = "NULL"/>
 				<AARange value="2."/>
 				<Ammo value="Proj_20_U"/>
 				<AmmoStorage value="4000"/>
@@ -3304,6 +3466,7 @@
 				<Weight value="6.8e-002"/>
 			</object>
 			<object name="Universal_Gun_127_Kagero">
+				<Particles value = "NULL"/>
 				<AARange value="12.2"/>
 				<Ammo value="Proj_127_J"/>
 				<AmmoStorage value="200"/>
@@ -3329,6 +3492,7 @@
 				<Weight value="4.245"/>
 			</object>
 			<object name="Universal_Gun_127_mk1">
+				<Particles value = "NULL"/>
 				<AARange value="11.9"/>
 				<Ammo value="Proj_127_U"/>
 				<AmmoStorage value="575"/>
@@ -3355,6 +3519,7 @@
 				<Weight value="2.432"/>
 			</object>
 			<object name="Universal_Gun_127x2_Mogami">
+				<Particles value = "NULL"/>
 				<AARange value="12.2"/>
 				<Ammo value="Proj_127_J"/>
 				<AmmoStorage value="200"/>
@@ -3380,6 +3545,7 @@
 				<Weight value="6.1"/>
 			</object>
 			<object name="VYa2_100_Zport">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_20_U"/>
 				<AmmoStorage value="150"/>
@@ -3405,6 +3571,7 @@
 				<Weight value="6.6e-002"/>
 			</object>
 			<object name="Ventura_DownGun_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_7_62_U"/>
 				<AmmoStorage value="500"/>
@@ -3429,6 +3596,7 @@
 				<Weight value="1.e-002"/>
 			</object>
 			<object name="Ventura_UpGun_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_7_62_U"/>
 				<AmmoStorage value="500"/>
@@ -3453,6 +3621,7 @@
 				<Weight value="1.e-002"/>
 			</object>
 			<object name="Vikkers_K_300_Stvol">
+				<Particles value = "NULL"/>
 				<AARange value="0."/>
 				<Ammo value="Proj_A_7_62_U"/>
 				<AmmoStorage value="500"/>

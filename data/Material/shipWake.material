@@ -5,13 +5,14 @@ material shipWake
 	{
 		pass
 		{
+			lighting off
 			scene_blend alpha_blend
-			depth_write off
+			depth_check off
 
-			texture_unit wakes.png
+			texture_unit foam1.png
 			{
-				texture_alias wakes.png
-				texture wakes.png
+				texture_alias foam1.png
+				texture foam1.png
 			}
 		}
 

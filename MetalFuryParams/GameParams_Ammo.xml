@@ -1,4 +1,4 @@
-﻿<?xml version="1.0 standalone="yes"?>
+﻿<?xml version="1.0" standalone="yes"?>
 <root>
 	<MetalFuryParams>
 		<Ammos>
@@ -22,8 +22,8 @@
 				<StartSpeed value="0"/>
 				<TorpedoForShip value="false"/>
 				<Unreliability value="0"/>
-				<Weight value="0."/>
-				<WeightExplosive value="0."/>
+				<Weight value="0.0"/>
+				<WeightExplosive value="50.0"/>
 			</object>
 			<object name="BV_246_Com_SR">
 				<AimingSystem value="2"/>

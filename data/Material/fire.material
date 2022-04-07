@@ -1,0 +1,21 @@
+
+material fire
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+			scene_blend alpha_blend
+
+			texture_unit fireball.png
+			{
+				texture_alias fireball.png
+				texture fireball.png
+				tex_address_mode clamp
+			}
+		}
+
+	}
+
+}
