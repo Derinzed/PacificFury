@@ -1,835 +1,896 @@
-20:45:09: Creating resource group General
-20:45:09: Creating resource group Internal
-20:45:09: Creating resource group Autodetect
-20:45:09: SceneManagerFactory for type 'DefaultSceneManager' registered.
-20:45:09: Registering ResourceManager for type Material
-20:45:09: Registering ResourceManager for type Mesh
-20:45:09: Registering ResourceManager for type Skeleton
-20:45:09: MovableObjectFactory for type 'ParticleSystem' registered.
-20:45:09: ArchiveFactory for archive type FileSystem registered.
-20:45:09: ArchiveFactory for archive type Zip registered.
-20:45:09: ArchiveFactory for archive type EmbeddedZip registered.
-20:45:09: DDS codec registering
-20:45:09: FreeImage version: 3.18.0
-20:45:09: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
-20:45:09: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,psb,cut,xbm,xpm,gif,hdr,g3,sgi,rgb,rgba,bw,exr,j2k,j2c,jp2,pfm,pct,pict,pic,3fr,arw,bay,bmq,cap,cine,cr2,crw,cs1,dc2,dcr,drf,dsc,dng,erf,fff,ia,iiq,k25,kc2,kdc,mdc,mef,mos,mrw,nef,nrw,orf,pef,ptx,pxn,qtk,raf,raw,rdc,rw2,rwl,rwz,sr2,srf,srw,sti,x3f,webp,jxr,wdp,hdp
-20:45:09: ETC codec registering
-20:45:09: Registering ResourceManager for type HighLevelGpuProgram
-20:45:09: Registering ResourceManager for type Compositor
-20:45:09: MovableObjectFactory for type 'Entity' registered.
-20:45:09: MovableObjectFactory for type 'Light' registered.
-20:45:09: MovableObjectFactory for type 'BillboardSet' registered.
-20:45:09: MovableObjectFactory for type 'ManualObject' registered.
-20:45:09: MovableObjectFactory for type 'BillboardChain' registered.
-20:45:09: MovableObjectFactory for type 'RibbonTrail' registered.
-20:45:09: Loading library .\RenderSystem_Direct3D11_d
-20:45:09: Installing plugin: D3D11 RenderSystem
-20:45:09: D3D11 : Direct3D11 Rendering Subsystem created.
-20:45:09: D3D11: Driver Detection Starts
-20:45:09: D3D11: Driver Detection Ends
-20:45:09: Plugin successfully installed
-20:45:09: Loading library .\RenderSystem_GL_d
-20:45:09: Installing plugin: GL RenderSystem
-20:45:09: OpenGL Rendering Subsystem created.
-20:45:10: Plugin successfully installed
-20:45:10: Loading library .\RenderSystem_GL3Plus_d
-20:45:10: Installing plugin: GL 3+ RenderSystem
-20:45:10: OpenGL 3+ Rendering Subsystem (EXPERIMENTAL) created.
-20:45:11: Plugin successfully installed
-20:45:11: Loading library .\Plugin_ParticleFX_d
-20:45:11: Installing plugin: ParticleFX
-20:45:11: Particle Emitter Type 'Point' registered
-20:45:11: Particle Emitter Type 'Box' registered
-20:45:11: Particle Emitter Type 'Ellipsoid' registered
-20:45:11: Particle Emitter Type 'Cylinder' registered
-20:45:11: Particle Emitter Type 'Ring' registered
-20:45:11: Particle Emitter Type 'HollowEllipsoid' registered
-20:45:11: Particle Affector Type 'LinearForce' registered
-20:45:11: Particle Affector Type 'ColourFader' registered
-20:45:11: Particle Affector Type 'ColourFader2' registered
-20:45:11: Particle Affector Type 'ColourImage' registered
-20:45:11: Particle Affector Type 'ColourInterpolator' registered
-20:45:11: Particle Affector Type 'Scaler' registered
-20:45:11: Particle Affector Type 'Rotator' registered
-20:45:11: Particle Affector Type 'DirectionRandomiser' registered
-20:45:11: Particle Affector Type 'DeflectorPlane' registered
-20:45:11: Plugin successfully installed
-20:45:11: Loading library .\Plugin_BSPSceneManager_d
-20:45:11: Installing plugin: BSP Scene Manager
-20:45:11: Plugin successfully installed
-20:45:11: Loading library .\Plugin_CgProgramManager_d
-20:45:11: Installing plugin: Cg Program Manager
-20:45:11: Plugin successfully installed
-20:45:11: Loading library .\Plugin_PCZSceneManager_d
-20:45:11: Installing plugin: Portal Connected Zone Scene Manager
-20:45:11: PCZone Factory Type 'ZoneType_Default' registered
-20:45:11: Plugin successfully installed
-20:45:11: Loading library .\Plugin_OctreeZone_d
-20:45:11: Installing plugin: Octree Zone Factory
-20:45:11: Plugin successfully installed
-20:45:11: Loading library .\Plugin_OctreeSceneManager_d
-20:45:11: Installing plugin: Octree Scene Manager
-20:45:11: Plugin successfully installed
-20:45:11: Loading library .\ParticleUniverse_d
-20:45:11: Installing plugin: ParticleUniverse
-20:45:11: MovableObjectFactory for type 'PUParticleSystem' registered.
-20:45:11: MovableObjectFactory for type 'BoxSet' registered.
-20:45:11: MovableObjectFactory for type 'SphereSet' registered.
-20:45:11: ParticleUniverse: Particle Renderer Type 'Beam' registered
-20:45:11: ParticleUniverse: Particle Renderer Type 'Billboard' registered
-20:45:11: ParticleUniverse: Particle Renderer Type 'Box' registered
-20:45:11: ParticleUniverse: Particle Renderer Type 'Sphere' registered
-20:45:11: ParticleUniverse: Particle Renderer Type 'Entity' registered
-20:45:11: ParticleUniverse: Particle Renderer Type 'RibbonTrail' registered
-20:45:11: ParticleUniverse: Particle Renderer Type 'Light' registered
-20:45:11: ParticleUniverse: Particle Emitter Type 'Point' registered
-20:45:11: ParticleUniverse: Particle Emitter Type 'Line' registered
-20:45:11: ParticleUniverse: Particle Emitter Type 'Box' registered
-20:45:11: ParticleUniverse: Particle Emitter Type 'Circle' registered
-20:45:11: ParticleUniverse: Particle Emitter Type 'SphereSurface' registered
-20:45:11: ParticleUniverse: Particle Emitter Type 'Vertex' registered
-20:45:11: ParticleUniverse: Particle Emitter Type 'MeshSurface' registered
-20:45:11: ParticleUniverse: Particle Emitter Type 'Position' registered
-20:45:11: ParticleUniverse: Particle Emitter Type 'Slave' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'Dummy01' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'LinearForce' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'Gravity' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'ParticleFollower' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'Vortex' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'Randomiser' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'Line' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'Scale' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'ScaleVelocity' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'GeometryRotator' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'TextureRotator' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'TextureAnimator' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'Jet' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'Align' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'FlockCentering' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'CollisionAvoidance' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'VelocityMatching' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'Colour' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'SineForce' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'Dummy02' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'SphereCollider' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'PlaneCollider' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'BoxCollider' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'InterParticleCollider' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'PathFollower' registered
-20:45:11: ParticleUniverse: Particle Affector Type 'ForceField' registered
-20:45:11: ParticleUniverse: Particle Observer Type 'OnExpire' registered
-20:45:11: ParticleUniverse: Particle Observer Type 'OnEmission' registered
-20:45:11: ParticleUniverse: Particle Observer Type 'OnCount' registered
-20:45:11: ParticleUniverse: Particle Observer Type 'OnEventFlag' registered
-20:45:11: ParticleUniverse: Particle Observer Type 'OnCollision' registered
-20:45:11: ParticleUniverse: Particle Observer Type 'OnVelocity' registered
-20:45:11: ParticleUniverse: Particle Observer Type 'OnTime' registered
-20:45:11: ParticleUniverse: Particle Observer Type 'OnPosition' registered
-20:45:11: ParticleUniverse: Particle Observer Type 'OnClear' registered
-20:45:11: ParticleUniverse: Particle Observer Type 'OnQuota' registered
-20:45:11: ParticleUniverse: Particle Observer Type 'OnRandom' registered
-20:45:11: ParticleUniverse: Particle EventHandler Type 'DoExpire' registered
-20:45:11: ParticleUniverse: Particle EventHandler Type 'DoFreeze' registered
-20:45:11: ParticleUniverse: Particle EventHandler Type 'DoPlacementParticle' registered
-20:45:11: ParticleUniverse: Particle EventHandler Type 'DoStopSystem' registered
-20:45:11: ParticleUniverse: Particle EventHandler Type 'DoEnableComponent' registered
-20:45:11: ParticleUniverse: Particle EventHandler Type 'DoAffector' registered
-20:45:11: ParticleUniverse: Particle EventHandler Type 'DoScale' registered
-20:45:11: ParticleUniverse: Particle Extern Type 'Gravity' registered
-20:45:11: ParticleUniverse: Particle Extern Type 'SphereCollider' registered
-20:45:11: ParticleUniverse: Particle Extern Type 'BoxCollider' registered
-20:45:11: ParticleUniverse: Particle Extern Type 'Vortex' registered
-20:45:11: ParticleUniverse: Particle Extern Type 'SceneDecorator' registered
-20:45:11: ParticleUniverse: Particle Behaviour Type 'Slave' registered
-20:45:11: Plugin successfully installed
-20:45:11: *-*-* OGRE Initialising
-20:45:11: *-*-* Version 1.9.0 (Ghadamon)
-20:45:11: Creating resource group Essential
-20:45:11: Added resource location '..\data\Media\packs\SdkTrays.zip' of type 'Zip' to resource group 'Essential'
-20:45:11: Added resource location '..\data\Media' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\data\Material' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\data\Textures' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\data\Shaders' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\data\Mesh' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\data\SkyX' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\data\Hydrax' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\data\MyGUI' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\data\Test' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\data\Fubuki' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\data\Fletcher' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\data\Wake' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\data\IwoJima' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\data\BuildingsTest' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\data\BuildingsTest\Textures' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\particles' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\data\Media' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\data\Type3_127mm_50Caliber_Naval_Gun' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\data\Icons' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\data\Mogami' of type 'FileSystem' to resource group 'General'
-20:45:11: Added resource location '..\data\Mogami\mesh' of type 'FileSystem' to resource group 'General'
-20:45:11: D3D11 : RenderSystem Option: Allow NVPerfHUD = No
-20:45:11: D3D11 : RenderSystem Option: Driver type = Hardware
-20:45:11: D3D11 : RenderSystem Option: FSAA = 0
-20:45:11: D3D11 : RenderSystem Option: Floating-point mode = Fastest
-20:45:11: D3D11 : RenderSystem Option: Full Screen = No
-20:45:11: D3D11 : RenderSystem Option: Information Queue Exceptions Bottom Level = Info (exception on any message)
-20:45:11: D3D11 : RenderSystem Option: Max Requested Feature Levels = 11.0
-20:45:11: D3D11 : RenderSystem Option: Min Requested Feature Levels = 9.1
-20:45:11: D3D11 : RenderSystem Option: Rendering Device = NVIDIA GeForce GTX 980M
-20:45:11: D3D11 : RenderSystem Option: VSync = No
-20:45:11: D3D11 : RenderSystem Option: VSync Interval = 1
-20:45:11: D3D11 : RenderSystem Option: Video Mode = 800 x 600 @ 32-bit colour
-20:45:11: D3D11 : RenderSystem Option: sRGB Gamma Conversion = No
-20:45:11: CPU Identifier & Features
-20:45:11: -------------------------
-20:45:11:  *   CPU ID: GenuineIntel: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
-20:45:11:  *      SSE: yes
-20:45:11:  *     SSE2: yes
-20:45:11:  *     SSE3: yes
-20:45:11:  *      MMX: yes
-20:45:11:  *   MMXEXT: yes
-20:45:11:  *    3DNOW: no
-20:45:11:  * 3DNOWEXT: no
-20:45:11:  *     CMOV: yes
-20:45:11:  *      TSC: yes
-20:45:11:  *      FPU: yes
-20:45:11:  *      PRO: yes
-20:45:11:  *       HT: no
-20:45:11: -------------------------
-20:45:11: *** Starting Win32GL Subsystem ***
-20:45:11: Registering ResourceManager for type Texture
-20:45:11: GLRenderSystem::_createRenderWindow "Pacific Fury", 1920x1080 windowed  miscParams: FSAA=2 FSAAHint= colourDepth=32 displayFrequency=0 gamma=false vsync=false vsyncInterval=1 
-20:45:11: Created Win32Window 'Pacific Fury' : 1842x1080, 32bpp
-20:45:11: GL_VERSION = 4.6.0 NVIDIA 496.76
-20:45:11: GL_VENDOR = NVIDIA Corporation
-20:45:11: GL_RENDERER = NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2
-20:45:11: GL_EXTENSIONS = GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_multiview_texture_multisample GL_EXT_multiview_timer_query GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_import_sync_object GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_win32 GL_NV_memory_object_sparse GL_EXT_win32_keyed_mutex GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_win32 GL_NV_timeline_semaphore GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_equation_advanced_coherent GL_NVX_blend_equation_advanced_multi_draw_buffers GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_clip_space_w_scaling GL_NV_command_list GL_NV_compute_program5 GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap GL_NV_conservative_raster_pre_snap_triangles GL_NV_conservative_raster_underestimation GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_barycentric GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_shader_passthrough GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_memory_attachment GL_NV_mesh_shader GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_primitive_shading_rate GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_representative_fragment_test GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_scissor_exclusive GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_float64 GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_shader_subgroup_partitioned GL_NV_shader_texture_footprint GL_NV_shading_rate_image GL_NV_stereo_view_rendering GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_dirty_tile_map GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NVX_linked_gpu_multicast GL_NV_gpu_multicast GL_NVX_gpu_multicast2 GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_multigpu_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum GL_WIN_swap_hint WGL_EXT_swap_control 
-20:45:11: Supported WGL extensions: WGL_ARB_buffer_region WGL_ARB_create_context WGL_ARB_create_context_no_error WGL_ARB_create_context_profile WGL_ARB_create_context_robustness WGL_ARB_context_flush_control WGL_ARB_extensions_string WGL_ARB_make_current_read WGL_ARB_multisample WGL_ARB_pbuffer WGL_ARB_pixel_format WGL_ARB_pixel_format_float WGL_ARB_render_texture WGL_ATI_pixel_format_float WGL_EXT_colorspace WGL_EXT_create_context_es_profile WGL_EXT_create_context_es2_profile WGL_EXT_extensions_string WGL_EXT_framebuffer_sRGB WGL_EXT_pixel_format_packed_float WGL_EXT_swap_control WGL_EXT_swap_control_tear WGL_NVX_DX_interop WGL_NV_DX_interop WGL_NV_DX_interop2 WGL_NV_copy_image WGL_NV_delay_before_swap WGL_NV_float_buffer WGL_NV_multisample_coverage WGL_NV_multigpu_context WGL_NV_render_depth_texture WGL_NV_render_texture_rectangle 
-20:45:11: ***************************
-20:45:11: *** GL Renderer Started ***
-20:45:11: ***************************
-20:45:11: Registering ResourceManager for type GpuProgram
-20:45:11: GLSL support detected
-20:45:11: GL: Using GL_EXT_framebuffer_object for rendering to textures (best)
-20:45:11: FBO PF_UNKNOWN depth/stencil support: D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:11: FBO PF_L8 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:11: FBO PF_A8 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:11: FBO PF_A4L4 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:11: FBO PF_BYTE_LA depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:11: FBO PF_R5G6B5 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:11: FBO PF_B5G6R5 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:11: FBO PF_A4R4G4B4 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:11: FBO PF_A1R5G5B5 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:11: FBO PF_R8G8B8 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:11: FBO PF_B8G8R8 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:11: FBO PF_A8R8G8B8 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:11: FBO PF_B8G8R8A8 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:12: FBO PF_A2R10G10B10 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:12: FBO PF_A2B10G10R10 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:12: FBO PF_FLOAT16_RGB depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:12: FBO PF_FLOAT16_RGBA depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:12: FBO PF_FLOAT32_RGB depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:12: FBO PF_FLOAT32_RGBA depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:12: FBO PF_X8R8G8B8 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:12: FBO PF_X8B8G8R8 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:12: FBO PF_SHORT_RGBA depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:12: FBO PF_R3G3B2 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:12: FBO PF_FLOAT16_R depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:12: FBO PF_FLOAT32_R depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:12: FBO PF_FLOAT16_GR depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:12: FBO PF_FLOAT32_GR depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:12: FBO PF_SHORT_RGB depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
-20:45:12: [GL] : Valid FBO targets PF_UNKNOWN PF_L8 PF_A8 PF_A4L4 PF_BYTE_LA PF_R5G6B5 PF_B5G6R5 PF_A4R4G4B4 PF_A1R5G5B5 PF_R8G8B8 PF_B8G8R8 PF_A8R8G8B8 PF_B8G8R8A8 PF_A2R10G10B10 PF_A2B10G10R10 PF_FLOAT16_RGB PF_FLOAT16_RGBA PF_FLOAT32_RGB PF_FLOAT32_RGBA PF_X8R8G8B8 PF_X8B8G8R8 PF_SHORT_RGBA PF_R3G3B2 PF_FLOAT16_R PF_FLOAT32_R PF_FLOAT16_GR PF_FLOAT32_GR PF_SHORT_RGB 
-20:45:12: RenderSystem capabilities
-20:45:12: -------------------------
-20:45:12: RenderSystem Name: OpenGL Rendering Subsystem
-20:45:12: GPU Vendor: nvidia
-20:45:12: Device Name: NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2
-20:45:12: Driver Version: 4.6.0.0
-20:45:12:  * Fixed function pipeline: yes
-20:45:12:  * Hardware generation of mipmaps: yes
-20:45:12:  * Texture blending: yes
-20:45:12:  * Anisotropic texture filtering: yes
-20:45:12:  * Dot product texture operation: yes
-20:45:12:  * Cube mapping: yes
-20:45:12:  * Hardware stencil buffer: yes
-20:45:12:    - Stencil depth: 8
-20:45:12:    - Two sided stencil support: yes
-20:45:12:    - Wrap stencil values: yes
-20:45:12:  * Hardware vertex / index buffers: yes
-20:45:12:  * 32-bit index buffers: yes
-20:45:12:  * Vertex programs: yes
-20:45:12:  * Number of floating-point constants for vertex programs: 1024
-20:45:12:  * Number of integer constants for vertex programs: 0
-20:45:12:  * Number of boolean constants for vertex programs: 0
-20:45:12:  * Fragment programs: yes
-20:45:12:  * Number of floating-point constants for fragment programs: 1024
-20:45:12:  * Number of integer constants for fragment programs: 0
-20:45:12:  * Number of boolean constants for fragment programs: 0
-20:45:12:  * Geometry programs: yes
-20:45:12:  * Number of floating-point constants for geometry programs: 2048
-20:45:12:  * Number of integer constants for geometry programs: 0
-20:45:12:  * Number of boolean constants for geometry programs: 0
-20:45:12:  * Tesselation Hull programs: no
-20:45:12:  * Number of floating-point constants for tesselation hull programs: 52428
-20:45:12:  * Number of integer constants for tesselation hull programs: 52428
-20:45:12:  * Number of boolean constants for tesselation hull programs: 52428
-20:45:12:  * Tesselation Domain programs: no
-20:45:12:  * Number of floating-point constants for tesselation domain programs: 52428
-20:45:12:  * Number of integer constants for tesselation domain programs: 52428
-20:45:12:  * Number of boolean constants for tesselation domain programs: 52428
-20:45:12:  * Compute programs: no
-20:45:12:  * Number of floating-point constants for compute programs: 16
-20:45:12:  * Number of integer constants for compute programs: 0
-20:45:12:  * Number of boolean constants for compute programs: 1280
-20:45:12:  * Supported Shader Profiles: arbfp1 arbvp1 fp20 fp30 fp40 glsl glsl100 glsl110 glsl120 gp4fp gp4gp gp4vp gpu_fp gpu_gp gpu_vp nvgp4 vp30 vp40
-20:45:12:  * Texture Compression: yes
-20:45:12:    - DXT: yes
-20:45:12:    - VTC: yes
-20:45:12:    - PVRTC: no
-20:45:12:    - ATC: no
-20:45:12:    - ETC1: no
-20:45:12:    - ETC2: no
-20:45:12:    - BC4/BC5: no
-20:45:12:    - BC6H/BC7: no
-20:45:12:  * Scissor Rectangle: yes
-20:45:12:  * Hardware Occlusion Query: yes
-20:45:12:  * User clip planes: yes
-20:45:12:  * VET_UBYTE4 vertex element type: yes
-20:45:12:  * Infinite far plane projection: yes
-20:45:12:  * Hardware render-to-texture: yes
-20:45:12:  * Floating point textures: yes
-20:45:12:  * Non-power-of-two textures: yes
-20:45:12:  * 1d textures: yes
-20:45:12:  * Volume textures: yes
-20:45:12:  * Multiple Render Targets: 8
-20:45:12:    - With different bit depths: yes
-20:45:12:  * Point Sprites: yes
-20:45:12:  * Extended point parameters: yes
-20:45:12:  * Max Point Size: 2047
-20:45:12:  * Vertex texture fetch: yes
-20:45:12:  * Number of world matrices: 0
-20:45:12:  * Number of texture units: 16
-20:45:12:  * Stencil buffer depth: 8
-20:45:12:  * Number of vertex blend matrices: 0
-20:45:12:    - Max vertex textures: 32
-20:45:12:    - Vertex textures shared: yes
-20:45:12:  * Render to Vertex Buffer : yes
-20:45:12:  * Hardware Atomic Counters: no
-20:45:12:  * GL 1.5 without VBO workaround: no
-20:45:12:  * Frame Buffer objects: yes
-20:45:12:  * Frame Buffer objects (ARB extension): no
-20:45:12:  * Frame Buffer objects (ATI extension): no
-20:45:12:  * PBuffer support: yes
-20:45:12:  * GL 1.5 without HW-occlusion workaround: no
-20:45:12:  * Vertex Array Objects: no
-20:45:12:  * Separate shader objects: no
-20:45:12: Using FSAA from GL_ARB_multisample extension.
-20:45:12: DefaultWorkQueue('Root') initialising on thread 5380.
-20:45:12: DefaultWorkQueue('Root')::WorkerFunc - thread 54f0 starting.
-20:45:12: DefaultWorkQueue('Root')::WorkerFunc - thread 589c starting.
-20:45:12: DefaultWorkQueue('Root')::WorkerFunc - thread 6a98 starting.
-20:45:12: DefaultWorkQueue('Root')::WorkerFunc - thread 5a10 starting.
-20:45:12: DefaultWorkQueue('Root')::WorkerFunc - thread 54a4 starting.
-20:45:12: DefaultWorkQueue('Root')::WorkerFunc - thread 6cd8 starting.
-20:45:12: DefaultWorkQueue('Root')::WorkerFunc - thread 59cc starting.
-20:45:12: DefaultWorkQueue('Root')::WorkerFunc - thread 57d0 starting.
-20:45:12: DefaultWorkQueue('Root')::WorkerFunc - thread 592c starting.
-20:45:12: DefaultWorkQueue('Root')::WorkerFunc - thread 677c starting.
-20:45:12: DefaultWorkQueue('Root')::WorkerFunc - thread 5750 starting.
-20:45:12: DefaultWorkQueue('Root')::WorkerFunc - thread 30b0 starting.
-20:45:12: Particle Renderer Type 'billboard' registered
-20:45:12: SceneManagerFactory for type 'BspSceneManager' registered.
-20:45:12: Registering ResourceManager for type BspLevel
-20:45:12: SceneManagerFactory for type 'PCZSceneManager' registered.
-20:45:12: MovableObjectFactory for type 'PCZLight' registered.
-20:45:12: MovableObjectFactory for type 'Portal' registered.
-20:45:12: MovableObjectFactory for type 'AntiPortal' registered.
-20:45:12: PCZone Factory Type 'ZoneType_Octree' registered
-20:45:12: SceneManagerFactory for type 'OctreeSceneManager' registered.
-20:45:12: OverlayElementFactory for type Panel registered.
-20:45:12: OverlayElementFactory for type BorderPanel registered.
-20:45:12: OverlayElementFactory for type TextArea registered.
-20:45:12: Registering ResourceManager for type Font
-20:45:12: Parsing scripts for resource group Autodetect
-20:45:12: Finished parsing scripts for resource group Autodetect
-20:45:12: Creating resources for group Autodetect
-20:45:12: All done
-20:45:12: Parsing scripts for resource group Essential
-20:45:12: Parsing script SdkTrays.material
-20:45:12: Parsing script SdkTrays.fontdef
-20:45:12: Parsing script SdkTrays.overlay
-20:45:12: Texture: sdk_cursor.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
-20:45:12: Texture: sdk_tray.png: Loading 1 faces(PF_A8R8G8B8,64x64x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,64x64x1.
-20:45:12: Texture: sdk_button_up.png: Loading 1 faces(PF_A8R8G8B8,128x32x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,128x32x1.
-20:45:12: Texture: sdk_text_box.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
-20:45:12: Texture: sdk_mini_tray.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
-20:45:12: Texture: sdk_track.png: Loading 1 faces(PF_A8R8G8B8,16x32x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,16x32x1.
-20:45:12: Texture: sdk_handle.png: Loading 1 faces(PF_A8R8G8B8,16x16x1) with 4 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,16x16x1.
-20:45:12: Texture: sdk_mini_text_box.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
-20:45:12: Texture: sdk_label.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
-20:45:12: Texture: sdk_separator.png: Loading 1 faces(PF_A8R8G8B8,64x16x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,64x16x1.
-20:45:12: Texture: sdk_logo.png: Loading 1 faces(PF_A8R8G8B8,128x64x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,128x64x1.
-20:45:12: Texture: sdk_shade.png: Loading 1 faces(PF_A8R8G8B8,64x48x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,64x48x1.
-20:45:12: Texture: sdk_frame.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
-20:45:12: Texture: sdk_mini_text_box_over.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
-20:45:12: Texture: sdk_pulse.png: Loading 1 faces(PF_R8G8B8,8x1x1) with 3 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,8x1x1.
-20:45:12: Finished parsing scripts for resource group Essential
-20:45:12: Creating resources for group Essential
-20:45:12: All done
-20:45:12: Parsing scripts for resource group General
-20:45:12: Parsing script EnvironmentShader.program
-20:45:12: Parsing script BrightStar.000.material
-20:45:12: Parsing script BrightStar.001.material
-20:45:12: Parsing script Bump.material
-20:45:12: Compiler error: reference to a non existing object in Bump.material(17)
-20:45:12: Compiler error: reference to a non existing object in Bump.material(21)
-20:45:12: Parsing script cannonFire.material
-20:45:12: Parsing script Classic.000.material
-20:45:12: Parsing script Classic.001.material
-20:45:12: Parsing script EmptyMat.material
-20:45:12: Parsing script Environment.material
-20:45:12: Parsing script ExplosionFire.material
-20:45:12: Parsing script fire.material
-20:45:12: Parsing script Fireball.000.material
-20:45:12: Parsing script Fireball.001.material
-20:45:12: Parsing script fireball.material
-20:45:12: Parsing script Flare.000.material
-20:45:12: Parsing script Flare.001.material
-20:45:12: Parsing script Fletcher-MainGun-Material.material
-20:45:12: Parsing script Grid.material
-20:45:12: Parsing script Heat.000.material
-20:45:12: Parsing script Heat.001.material
-20:45:12: Parsing script Hidden.000.material
-20:45:12: Parsing script Hidden.001.material
-20:45:12: Parsing script Hidden.002.material
-20:45:12: Parsing script Hitboxes.material
-20:45:12: Parsing script KouraiCross.material
-20:45:12: Parsing script Plasma.material
-20:45:12: Compiler error: reference to a non existing object in Plasma.material(13)
-20:45:12: Compiler error: reference to a non existing object in Plasma.material(16)
-20:45:12: Parsing script shipWake.material
-20:45:12: Parsing script Smoke.material
-20:45:12: Parsing script Special.000.material
-20:45:12: Parsing script Special.001.material
-20:45:12: Parsing script Sun.000.material
-20:45:12: Parsing script Sun.001.material
-20:45:12: Parsing script Thunder.001.material
-20:45:12: Parsing script Waterplume.material
-20:45:12: Parsing script Wires.material
-20:45:12: Compiler error: unknown error in Wires.material(1): base object named "base_material" not found in script definition
-20:45:12: Parsing script CGSwizzle.material
-20:45:12: Parsing script SkyX.material
-20:45:12: Parsing script 5Inch38CalMk12.material
-20:45:12: Parsing script EmptyMat.material
-20:45:12: Parsing script EnvironmentShader.material
-20:45:12: Parsing script Generic.material
-20:45:12: Parsing script Test.material
-20:45:12: Parsing script Test2.material
-20:45:12: Parsing script Test3.material
-20:45:12: Parsing script FubukiMaterials.material
-20:45:12: Parsing script FubukiMaterials.material
-20:45:12: Parsing script pu_example.material
-20:45:12: Parsing script pu_example_32.material
-20:45:12: Parsing script pu_mediapack_01.material
-20:45:12: Parsing script shipWake2.material
-20:45:12: Parsing script Waterplume.material
-20:45:12: Parsing script waterplumebase.material
-20:45:12: Parsing script Type3_127mm_50Caliber_Naval_Gun.material
-20:45:12: Parsing script MogamiMaterials.material
-20:45:12: Parsing script shipWake.pu
-20:45:12: Compiler error: unknown error in shipWake.pu(1): token class, system, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake.pu(10): token class, renderer, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake.pu(18): token class, angle, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake.pu(24): token class, velocity, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake.pu(29): token class, particle_width, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake.pu(34): token class, particle_height, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake.pu(47): token class, angle, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake.pu(53): token class, velocity, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake.pu(58): token class, particle_width, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake.pu(63): token class, particle_height, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake.pu(75): token class, x_scale, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake.pu(82): token class, y_scale, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake.pu(107): token class, renderer, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake.pu(116): token class, velocity, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake.pu(121): token class, all_particle_dimensions, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake.pu(153): token class, renderer, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake.pu(175): token class, xyz_scale, unrecognized.
-20:45:12: ParticleUniverse: Particle System Template 'WaterExplosion' registered
-20:45:12: Texture: waterplume.png: Loading 1 faces(PF_A8R8G8B8,512x512x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
-20:45:12: Texture: pump_smoke_01.png: Loading 1 faces(PF_A8R8G8B8,512x512x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
-20:45:12: Texture: waterplumebase.png: Loading 1 faces(PF_A8R8G8B8,512x512x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
-20:45:12: Parsing script shipWake2.pu
-20:45:12: Compiler error: unknown error in shipWake2.pu(1): token class, system, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake2.pu(13): token class, renderer, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake2.pu(23): token class, angle, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake2.pu(42): token class, rotation_speed, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake2.pu(63): token class, renderer, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake2.pu(73): token class, angle, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake2.pu(95): token class, xyz_scale, unrecognized.
-20:45:12: Compiler error: unknown error in shipWake2.pu(103): token class, rotation_speed, unrecognized.
-20:45:12: ParticleUniverse: Particle System Template 'shipWake' registered
-20:45:12: Texture: foam1.png: Loading 1 faces(PF_A8R8G8B8,805x677x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,805x677x1.
-20:45:13: Texture: kisspng-sea-foam-desktop-wallpaper-clip-art-5ae1841d619555.8848009615247288613997.png: Loading 1 faces(PF_A8R8G8B8,638x728x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,638x728x1.
-20:45:13: Parsing script Fire.pu
-20:45:13: Compiler error: unknown error in Fire.pu(1): token class, system, unrecognized.
-20:45:13: Compiler error: unknown error in Fire.pu(11): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in Fire.pu(19): token class, time_to_live, unrecognized.
-20:45:13: Compiler error: unknown error in Fire.pu(24): token class, velocity, unrecognized.
-20:45:13: Compiler error: unknown error in Fire.pu(37): token class, time_to_live, unrecognized.
-20:45:13: Compiler error: unknown error in Fire.pu(42): token class, mass, unrecognized.
-20:45:13: Compiler error: unknown error in Fire.pu(47): token class, velocity, unrecognized.
-20:45:13: ParticleUniverse: Particle System Template 'flameSystem' registered
-20:45:13: Texture: pu_flame.png: Loading 1 faces(PF_R8G8B8,64x64x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,64x64x1.
-20:45:13: Parsing script Smoke.pu
-20:45:13: Compiler error: unknown error in Smoke.pu(1): token class, system, unrecognized.
-20:45:13: Compiler error: unknown error in Smoke.pu(8): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in Smoke.pu(16): token class, velocity, unrecognized.
-20:45:13: Compiler error: unknown error in Smoke.pu(21): token class, all_particle_dimensions, unrecognized.
-20:45:13: Compiler error: unknown error in Smoke.pu(49): token class, rotation, unrecognized.
-20:45:13: ParticleUniverse: Particle System Template 'smoke' registered
-20:45:13: Parsing script 5inch-38Cal-Mk.12(old).pu
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(1): token class, system, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(11): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(17): token class, angle, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(22): token class, time_to_live, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(27): token class, velocity, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(32): token class, all_particle_dimensions, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(51): token class, xyz_scale, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(63): token class, rotation, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(68): token class, rotation_speed, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(74): token class, observer, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(76): token class, handler, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(95): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(110): token class, observer, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(112): token class, handler, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(125): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(131): token class, angle, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(136): token class, time_to_live, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(141): token class, velocity, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(158): token class, rotation, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(163): token class, rotation_speed, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(171): token class, xyz_scale, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(188): token class, observer, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(190): token class, handler, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(201): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(207): token class, emission_rate, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(212): token class, angle, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(218): token class, velocity, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(224): token class, particle_height, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(238): token class, observer, unrecognized.
-20:45:13: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(241): token class, handler, unrecognized.
-20:45:13: ParticleUniverse: Particle System Template '5Inch38CalMk12' registered
-20:45:13: Texture: pu_smoke_02_128x128.png: Loading 1 faces(PF_A8R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,128x128x1.
-20:45:13: Texture: pu_flare.png: Loading 1 faces(PF_R8G8B8,256x256x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,256x256x1.
-20:45:13: Texture: pu_smoke_brown_336x330.png: Loading 1 faces(PF_A8R8G8B8,336x330x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,336x330x1.
-20:45:13: Texture: pu_fire_01_64x64.png: Loading 1 faces(PF_R8G8B8,64x64x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,64x64x1.
-20:45:13: Parsing script 5Inch38CalMk12.pu
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(1): token class, system, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(11): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(17): token class, angle, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(22): token class, time_to_live, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(27): token class, velocity, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(32): token class, all_particle_dimensions, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(51): token class, xyz_scale, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(63): token class, rotation, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(68): token class, rotation_speed, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(74): token class, observer, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(76): token class, handler, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(95): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(110): token class, observer, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(112): token class, handler, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(125): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(131): token class, angle, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(136): token class, time_to_live, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(141): token class, velocity, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(158): token class, rotation, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(163): token class, rotation_speed, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(171): token class, xyz_scale, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(187): token class, observer, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(189): token class, handler, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(196): token class, observer, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(199): token class, handler, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(207): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(213): token class, emission_rate, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(218): token class, angle, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(224): token class, velocity, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(230): token class, particle_height, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(243): token class, observer, unrecognized.
-20:45:13: Compiler error: unknown error in 5Inch38CalMk12.pu(246): token class, handler, unrecognized.
-20:45:13: ParticleUniverse: Particle System template '5Inch38CalMk12' already exists; old template deleted.
-20:45:13: ParticleUniverse: Particle System Template '5Inch38CalMk12' registered
-20:45:13: Parsing script CannonShot.pu
-20:45:13: Compiler error: unknown error in CannonShot.pu(1): token class, system, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(11): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(17): token class, angle, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(22): token class, time_to_live, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(27): token class, velocity, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(32): token class, all_particle_dimensions, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(54): token class, xyz_scale, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(62): token class, rotation, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(67): token class, rotation_speed, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(82): token class, observer, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(84): token class, handler, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(91): token class, observer, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(94): token class, handler, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(105): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(111): token class, angle, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(116): token class, time_to_live, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(121): token class, velocity, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(126): token class, all_particle_dimensions, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(147): token class, xyz_scale, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(159): token class, rotation, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(164): token class, rotation_speed, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(176): token class, observer, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(178): token class, handler, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(191): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(197): token class, angle, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(202): token class, time_to_live, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(207): token class, velocity, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(212): token class, all_particle_dimensions, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(233): token class, rotation, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(238): token class, rotation_speed, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(246): token class, xyz_scale, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(257): token class, observer, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(259): token class, handler, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(278): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(288): token class, emission_rate, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(293): token class, angle, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(299): token class, velocity, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(305): token class, particle_height, unrecognized.
-20:45:13: Compiler error: unknown error in CannonShot.pu(319): token class, observer, unrecognized.
-20:45:13: ParticleUniverse: Particle System Template 'cannonShot' registered
-20:45:13: Compiler error: unknown error in CannonShot.pu(280): PU Compiler: token "light_renderer_specular" is not recognized
-20:45:13: Compiler error: unknown error in CannonShot.pu(281): PU Compiler: token "light_renderer_spot_inner" is not recognized
-20:45:13: Compiler error: unknown error in CannonShot.pu(282): PU Compiler: token "light_renderer_spot_outer" is not recognized
-20:45:13: Compiler error: unknown error in CannonShot.pu(283): PU Compiler: token "light_renderer_falloff" is not recognized
-20:45:13: Compiler error: unknown error in CannonShot.pu(284): PU Compiler: token "light_renderer_powerscale" is not recognized
-20:45:13: Parsing script Fire.pu
-20:45:13: Compiler error: unknown error in Fire.pu(1): token class, system, unrecognized.
-20:45:13: Compiler error: unknown error in Fire.pu(11): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in Fire.pu(19): token class, time_to_live, unrecognized.
-20:45:13: Compiler error: unknown error in Fire.pu(24): token class, velocity, unrecognized.
-20:45:13: Compiler error: unknown error in Fire.pu(37): token class, time_to_live, unrecognized.
-20:45:13: Compiler error: unknown error in Fire.pu(42): token class, mass, unrecognized.
-20:45:13: Compiler error: unknown error in Fire.pu(47): token class, velocity, unrecognized.
-20:45:13: ParticleUniverse: Particle System Template 'Fire' registered
-20:45:13: Parsing script genericExplosion.pu
-20:45:13: Compiler error: unknown error in genericExplosion.pu(1): token class, system, unrecognized.
-20:45:13: Compiler error: unknown error in genericExplosion.pu(8): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in genericExplosion.pu(18): token class, all_particle_dimensions, unrecognized.
-20:45:13: Compiler error: unknown error in genericExplosion.pu(27): token class, xyz_scale, unrecognized.
-20:45:13: Compiler error: unknown error in genericExplosion.pu(37): token class, rotation, unrecognized.
-20:45:13: Compiler error: unknown error in genericExplosion.pu(56): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in genericExplosion.pu(65): token class, velocity, unrecognized.
-20:45:13: Compiler error: unknown error in genericExplosion.pu(70): token class, particle_width, unrecognized.
-20:45:13: Compiler error: unknown error in genericExplosion.pu(75): token class, particle_height, unrecognized.
-20:45:13: Compiler error: unknown error in genericExplosion.pu(85): token class, y_scale, unrecognized.
-20:45:13: Compiler error: unknown error in genericExplosion.pu(105): token class, observer, unrecognized.
-20:45:13: Compiler error: unknown error in genericExplosion.pu(107): token class, handler, unrecognized.
-20:45:13: Compiler error: unknown error in genericExplosion.pu(119): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in genericExplosion.pu(129): token class, all_particle_dimensions, unrecognized.
-20:45:13: Compiler error: unknown error in genericExplosion.pu(141): token class, rotation, unrecognized.
-20:45:13: Compiler error: unknown error in genericExplosion.pu(154): token class, xyz_scale, unrecognized.
-20:45:13: Compiler error: unknown error in genericExplosion.pu(169): token class, behaviour, unrecognized.
-20:45:13: ParticleUniverse: Particle System Template 'genericExplosion' registered
-20:45:13: Texture: pu_nucleus.png: Loading 1 faces(PF_A8R8G8B8,64x64x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,64x64x1.
-20:45:13: Texture: pump_atlas_smoke.png: Loading 1 faces(PF_A8R8G8B8,2048x2048x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,2048x2048x1.
-20:45:13: Parsing script shipWake.pu
-20:45:13: Compiler error: unknown error in shipWake.pu(1): token class, system, unrecognized.
-20:45:13: Compiler error: unknown error in shipWake.pu(13): token class, renderer, unrecognized.
-20:45:13: ParticleUniverse: Particle System template 'shipWake' already exists; old template deleted.
-20:45:13: ParticleUniverse: Particle System Template 'shipWake' registered
-20:45:13: Parsing script shipWake2.pu
-20:45:13: Compiler error: unknown error in shipWake2.pu(1): token class, system, unrecognized.
-20:45:13: Compiler error: unknown error in shipWake2.pu(13): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in shipWake2.pu(50): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in shipWake2.pu(60): token class, angle, unrecognized.
-20:45:13: Compiler error: unknown error in shipWake2.pu(82): token class, xyz_scale, unrecognized.
-20:45:13: Compiler error: unknown error in shipWake2.pu(90): token class, rotation, unrecognized.
-20:45:13: Compiler error: unknown error in shipWake2.pu(95): token class, rotation_speed, unrecognized.
-20:45:13: ParticleUniverse: Particle System template 'shipWake' already exists; old template deleted.
-20:45:13: ParticleUniverse: Particle System Template 'shipWake' registered
-20:45:13: Parsing script shipWake3.pu
-20:45:13: Compiler error: unknown error in shipWake3.pu(1): token class, system, unrecognized.
-20:45:13: Compiler error: unknown error in shipWake3.pu(12): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in shipWake3.pu(43): token class, rotation, unrecognized.
-20:45:13: Compiler error: unknown error in shipWake3.pu(48): token class, rotation_speed, unrecognized.
-20:45:13: Compiler error: unknown error in shipWake3.pu(62): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in shipWake3.pu(72): token class, angle, unrecognized.
-20:45:13: Compiler error: unknown error in shipWake3.pu(93): token class, xyz_scale, unrecognized.
-20:45:13: Compiler error: unknown error in shipWake3.pu(101): token class, rotation, unrecognized.
-20:45:13: Compiler error: unknown error in shipWake3.pu(106): token class, rotation_speed, unrecognized.
-20:45:13: ParticleUniverse: Particle System Template 'shipWake3' registered
-20:45:13: Parsing script Smoke.pu
-20:45:13: Compiler error: unknown error in Smoke.pu(1): token class, system, unrecognized.
-20:45:13: Compiler error: unknown error in Smoke.pu(8): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in Smoke.pu(16): token class, velocity, unrecognized.
-20:45:13: Compiler error: unknown error in Smoke.pu(21): token class, all_particle_dimensions, unrecognized.
-20:45:13: Compiler error: unknown error in Smoke.pu(49): token class, rotation, unrecognized.
-20:45:13: ParticleUniverse: Particle System Template 'Smoke' registered
-20:45:13: Parsing script WaterExplosion.pu
-20:45:13: Compiler error: unknown error in WaterExplosion.pu(1): token class, system, unrecognized.
-20:45:13: Compiler error: unknown error in WaterExplosion.pu(10): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in WaterExplosion.pu(18): token class, angle, unrecognized.
-20:45:13: Compiler error: unknown error in WaterExplosion.pu(24): token class, velocity, unrecognized.
-20:45:13: Compiler error: unknown error in WaterExplosion.pu(29): token class, particle_width, unrecognized.
-20:45:13: Compiler error: unknown error in WaterExplosion.pu(34): token class, particle_height, unrecognized.
-20:45:13: Compiler error: unknown error in WaterExplosion.pu(47): token class, angle, unrecognized.
-20:45:13: Compiler error: unknown error in WaterExplosion.pu(53): token class, velocity, unrecognized.
-20:45:13: Compiler error: unknown error in WaterExplosion.pu(58): token class, particle_width, unrecognized.
-20:45:13: Compiler error: unknown error in WaterExplosion.pu(63): token class, particle_height, unrecognized.
-20:45:13: Compiler error: unknown error in WaterExplosion.pu(75): token class, x_scale, unrecognized.
-20:45:13: Compiler error: unknown error in WaterExplosion.pu(82): token class, y_scale, unrecognized.
-20:45:13: Compiler error: unknown error in WaterExplosion.pu(107): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in WaterExplosion.pu(116): token class, velocity, unrecognized.
-20:45:13: Compiler error: unknown error in WaterExplosion.pu(121): token class, all_particle_dimensions, unrecognized.
-20:45:13: Compiler error: unknown error in WaterExplosion.pu(153): token class, renderer, unrecognized.
-20:45:13: Compiler error: unknown error in WaterExplosion.pu(175): token class, xyz_scale, unrecognized.
-20:45:13: Compiler error: unknown error in WaterExplosion.pu(188): token class, observer, unrecognized.
-20:45:13: Compiler error: unknown error in WaterExplosion.pu(191): token class, handler, unrecognized.
-20:45:13: ParticleUniverse: Particle System template 'WaterExplosion' already exists; old template deleted.
-20:45:13: ParticleUniverse: Particle System Template 'WaterExplosion' registered
-20:45:13: Finished parsing scripts for resource group General
-20:45:13: Creating resources for group General
-20:45:13: All done
-20:45:13: Parsing scripts for resource group Internal
-20:45:13: Finished parsing scripts for resource group Internal
-20:45:13: Creating resources for group Internal
-20:45:13: All done
-20:45:13: Creating resource group SkyX
-20:45:13: Added resource location '..\data\SkyX' of type 'FileSystem' to resource group 'SkyX' with recursive option
-20:45:13: Can't assign material _NULL_ to SubEntity of SkyXMeshEnt because this Material does not exist. Have you forgotten to define it in a .material script?
-20:45:13: Texture: SkyX_Starfield.png: Loading 1 faces(PF_A8R8G8B8,512x512x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
-20:45:13: Texture: SkyX_Moon.png: Loading 1 faces(PF_A8R8G8B8,512x512x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
-20:45:13: Texture: SkyX_MoonHalo.png: Loading 1 faces(PF_SHORT_RGBA,512x256x1) with 5 hardware generated mipmaps from Image. Internal format is PF_SHORT_RGBA,512x256x1.
-20:45:13: Creating resource group Hydrax
-20:45:13: Added resource location '..\data\Hydrax' of type 'FileSystem' to resource group 'Hydrax'
-20:45:13: [Hydrax] Hydrax created.
-20:45:13: [Hydrax] MFWater.hdx loaded.
-20:45:13: [Hydrax] ProjectedGridVertex options entry found.
-20:45:13: [Hydrax] 	Reading options...
-20:45:13: [Hydrax] 	Options readed.
-20:45:13: [Hydrax] Perlin options entry found.
-20:45:13: [Hydrax] Creating module...
-20:45:13: [Hydrax] Creating ProjectedGridVertex module.
-20:45:13: [Hydrax] ProjectedGridVertex created.
-20:45:13: [Hydrax] Module created.
-20:45:13: [Hydrax] Initializating RTT Manager...
-20:45:13: [Hydrax] RTT manager initialized.
-20:45:13: [Hydrax] Registring device restored listener...
-20:45:13: [Hydrax] Device restored listener registred.
-20:45:13: [Hydrax] Creating materials...
-20:45:13: [Hydrax] Creating water material...
-20:45:13: Texture: Fresnel.bmp: Loading 1 faces(PF_L8,256x1x1) with 5 hardware generated mipmaps from Image. Internal format is PF_L8,256x1x1.
-20:45:13: Texture: Foam.png: Loading 1 faces(PF_R8G8B8,512x512x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
-20:45:13: [Hydrax] Water material created.
-20:45:13: [Hydrax] Creating depth material...
-20:45:13: Texture: Caustics_0.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_1.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_2.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_3.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_4.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_5.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_6.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_7.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_8.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_9.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_10.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_11.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_12.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_13.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_14.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_15.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_16.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_17.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_18.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_19.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_20.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_21.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_22.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_23.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_24.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_25.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_26.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_27.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_28.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_29.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_30.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: Texture: Caustics_31.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-20:45:13: [Hydrax] Depth material created.
-20:45:13: [Hydrax] Creating underwater material...
-20:45:13: Texture: UnderwaterDistortion.jpg: Loading 1 faces(PF_R8G8B8,256x256x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,256x256x1.
-20:45:13: [Hydrax] Underwater material created.
-20:45:13: [Hydrax] Materials created.
-20:45:13: [Hydrax] Creating god rays...
-20:45:13: [Hydrax] Perlin destroyed.
-20:45:13: [Hydrax] God rays created.
-20:45:13: [Hydrax] Creating water mesh...
-20:45:13: [Hydrax] Water mesh created.
-20:45:13: *** Initializing OIS ***
-20:45:13: Texture: DejaVuSansFontGenerated_15.png: Loading 1 faces(PF_A8R8G8B8,128x256x1) Internal format is PF_A8R8G8B8,128x256x1.
-20:45:13: Texture: MyGUI_BlueWhiteSkins.png: Loading 1 faces(PF_A8R8G8B8,512x256x1) Internal format is PF_A8R8G8B8,512x256x1.
-20:45:14: Texture: MyGUI_Pointers.png: Loading 1 faces(PF_A8R8G8B8,256x128x1) Internal format is PF_A8R8G8B8,256x128x1.
-20:45:14: Texture: PSF.png: Loading 1 faces(PF_A8R8G8B8,1920x1280x1) Internal format is PF_A8R8G8B8,1920x1280x1.
-20:45:14: Texture: Clouds.png: Loading 1 faces(PF_A8R8G8B8,1024x1024x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,1024x1024x1.
-20:45:14: Texture: CloudsNormal.png: Loading 1 faces(PF_A8R8G8B8,1024x1024x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,1024x1024x1.
-20:45:14: Texture: CloudsTile.png: Loading 1 faces(PF_A8R8G8B8,1024x1024x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,1024x1024x1.
-20:45:15: Unregistering ResourceManager for type Font
-20:45:15: DefaultWorkQueue('Root') shutting down on thread 5380.
-20:45:15: DefaultWorkQueue('Root')::WorkerFunc - thread 30b0 stopped.
-20:45:15: DefaultWorkQueue('Root')::WorkerFunc - thread 5750 stopped.
-20:45:15: DefaultWorkQueue('Root')::WorkerFunc - thread 57d0 stopped.
-20:45:15: DefaultWorkQueue('Root')::WorkerFunc - thread 6cd8 stopped.
-20:45:15: DefaultWorkQueue('Root')::WorkerFunc - thread 592c stopped.
-20:45:15: DefaultWorkQueue('Root')::WorkerFunc - thread 5a10 stopped.
-20:45:15: DefaultWorkQueue('Root')::WorkerFunc - thread 677c stopped.
-20:45:15: DefaultWorkQueue('Root')::WorkerFunc - thread 589c stopped.
-20:45:15: DefaultWorkQueue('Root')::WorkerFunc - thread 6a98 stopped.
-20:45:15: DefaultWorkQueue('Root')::WorkerFunc - thread 54f0 stopped.
-20:45:15: DefaultWorkQueue('Root')::WorkerFunc - thread 54a4 stopped.
-20:45:15: DefaultWorkQueue('Root')::WorkerFunc - thread 59cc stopped.
-20:45:15: PCZone Factory Type 'ZoneType_Octree' unregistered
-20:45:15: Unregistering ResourceManager for type BspLevel
-20:45:15: *-*-* OGRE Shutdown
-20:45:15: Unregistering ResourceManager for type Compositor
-20:45:15: Unregistering ResourceManager for type Skeleton
-20:45:15: Unregistering ResourceManager for type Mesh
-20:45:15: Unregistering ResourceManager for type HighLevelGpuProgram
-20:45:15: Uninstalling plugin: ParticleUniverse
-20:45:15: Plugin successfully uninstalled
-20:45:15: Unloading library .\ParticleUniverse_d
-20:45:15: Uninstalling plugin: Octree Scene Manager
-20:45:15: Plugin successfully uninstalled
-20:45:15: Unloading library .\Plugin_OctreeSceneManager_d
-20:45:15: Uninstalling plugin: Octree Zone Factory
-20:45:15: Plugin successfully uninstalled
-20:45:15: Unloading library .\Plugin_OctreeZone_d
-20:45:15: Uninstalling plugin: Portal Connected Zone Scene Manager
-20:45:15: Plugin successfully uninstalled
-20:45:15: Unloading library .\Plugin_PCZSceneManager_d
-20:45:15: Uninstalling plugin: Cg Program Manager
-20:45:15: Plugin successfully uninstalled
-20:45:15: Unloading library .\Plugin_CgProgramManager_d
-20:45:15: Uninstalling plugin: BSP Scene Manager
-20:45:15: Plugin successfully uninstalled
-20:45:15: Unloading library .\Plugin_BSPSceneManager_d
-20:45:15: Uninstalling plugin: ParticleFX
-20:45:15: Plugin successfully uninstalled
-20:45:15: Unloading library .\Plugin_ParticleFX_d
-20:45:15: Uninstalling plugin: GL 3+ RenderSystem
-20:45:15: *** Stopping Win32GL Subsystem ***
-20:45:15: Plugin successfully uninstalled
-20:45:15: Unloading library .\RenderSystem_GL3Plus_d
-20:45:15: Uninstalling plugin: GL RenderSystem
-20:45:15: Unregistering ResourceManager for type GpuProgram
-20:45:15: *** Stopping Win32GL Subsystem ***
-20:45:15: Unregistering ResourceManager for type Texture
-20:45:15: Plugin successfully uninstalled
-20:45:15: Unloading library .\RenderSystem_GL_d
-20:45:15: Uninstalling plugin: D3D11 RenderSystem
-20:45:15: D3D11 : Shutting down cleanly.
-20:45:15: D3D11 : Direct3D11 Rendering Subsystem destroyed.
-20:45:15: Plugin successfully uninstalled
-20:45:15: Unloading library .\RenderSystem_Direct3D11_d
-20:45:15: Unregistering ResourceManager for type Material
+18:44:33: Creating resource group General
+18:44:33: Creating resource group Internal
+18:44:33: Creating resource group Autodetect
+18:44:33: SceneManagerFactory for type 'DefaultSceneManager' registered.
+18:44:33: Registering ResourceManager for type Material
+18:44:33: Registering ResourceManager for type Mesh
+18:44:33: Registering ResourceManager for type Skeleton
+18:44:33: MovableObjectFactory for type 'ParticleSystem' registered.
+18:44:33: ArchiveFactory for archive type FileSystem registered.
+18:44:33: ArchiveFactory for archive type Zip registered.
+18:44:33: ArchiveFactory for archive type EmbeddedZip registered.
+18:44:33: DDS codec registering
+18:44:33: FreeImage version: 3.18.0
+18:44:33: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+18:44:33: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,psb,cut,xbm,xpm,gif,hdr,g3,sgi,rgb,rgba,bw,exr,j2k,j2c,jp2,pfm,pct,pict,pic,3fr,arw,bay,bmq,cap,cine,cr2,crw,cs1,dc2,dcr,drf,dsc,dng,erf,fff,ia,iiq,k25,kc2,kdc,mdc,mef,mos,mrw,nef,nrw,orf,pef,ptx,pxn,qtk,raf,raw,rdc,rw2,rwl,rwz,sr2,srf,srw,sti,x3f,webp,jxr,wdp,hdp
+18:44:33: ETC codec registering
+18:44:33: Registering ResourceManager for type HighLevelGpuProgram
+18:44:33: Registering ResourceManager for type Compositor
+18:44:33: MovableObjectFactory for type 'Entity' registered.
+18:44:33: MovableObjectFactory for type 'Light' registered.
+18:44:33: MovableObjectFactory for type 'BillboardSet' registered.
+18:44:33: MovableObjectFactory for type 'ManualObject' registered.
+18:44:33: MovableObjectFactory for type 'BillboardChain' registered.
+18:44:33: MovableObjectFactory for type 'RibbonTrail' registered.
+18:44:33: Loading library .\RenderSystem_Direct3D11_d
+18:44:33: Installing plugin: D3D11 RenderSystem
+18:44:33: D3D11 : Direct3D11 Rendering Subsystem created.
+18:44:33: D3D11: Driver Detection Starts
+18:44:33: D3D11: Driver Detection Ends
+18:44:33: Plugin successfully installed
+18:44:33: Loading library .\RenderSystem_GL_d
+18:44:33: Installing plugin: GL RenderSystem
+18:44:33: OpenGL Rendering Subsystem created.
+18:44:33: Plugin successfully installed
+18:44:33: Loading library .\RenderSystem_GL3Plus_d
+18:44:33: Installing plugin: GL 3+ RenderSystem
+18:44:33: OpenGL 3+ Rendering Subsystem (EXPERIMENTAL) created.
+18:44:34: Plugin successfully installed
+18:44:34: Loading library .\Plugin_ParticleFX_d
+18:44:34: Installing plugin: ParticleFX
+18:44:34: Particle Emitter Type 'Point' registered
+18:44:34: Particle Emitter Type 'Box' registered
+18:44:34: Particle Emitter Type 'Ellipsoid' registered
+18:44:34: Particle Emitter Type 'Cylinder' registered
+18:44:34: Particle Emitter Type 'Ring' registered
+18:44:34: Particle Emitter Type 'HollowEllipsoid' registered
+18:44:34: Particle Affector Type 'LinearForce' registered
+18:44:34: Particle Affector Type 'ColourFader' registered
+18:44:34: Particle Affector Type 'ColourFader2' registered
+18:44:34: Particle Affector Type 'ColourImage' registered
+18:44:34: Particle Affector Type 'ColourInterpolator' registered
+18:44:34: Particle Affector Type 'Scaler' registered
+18:44:34: Particle Affector Type 'Rotator' registered
+18:44:34: Particle Affector Type 'DirectionRandomiser' registered
+18:44:34: Particle Affector Type 'DeflectorPlane' registered
+18:44:34: Plugin successfully installed
+18:44:34: Loading library .\Plugin_BSPSceneManager_d
+18:44:34: Installing plugin: BSP Scene Manager
+18:44:34: Plugin successfully installed
+18:44:34: Loading library .\Plugin_CgProgramManager_d
+18:44:34: Installing plugin: Cg Program Manager
+18:44:34: Plugin successfully installed
+18:44:34: Loading library .\Plugin_PCZSceneManager_d
+18:44:34: Installing plugin: Portal Connected Zone Scene Manager
+18:44:34: PCZone Factory Type 'ZoneType_Default' registered
+18:44:34: Plugin successfully installed
+18:44:34: Loading library .\Plugin_OctreeZone_d
+18:44:34: Installing plugin: Octree Zone Factory
+18:44:34: Plugin successfully installed
+18:44:34: Loading library .\Plugin_OctreeSceneManager_d
+18:44:34: Installing plugin: Octree Scene Manager
+18:44:34: Plugin successfully installed
+18:44:34: Loading library .\ParticleUniverse_d
+18:44:34: Installing plugin: ParticleUniverse
+18:44:34: MovableObjectFactory for type 'PUParticleSystem' registered.
+18:44:34: MovableObjectFactory for type 'BoxSet' registered.
+18:44:34: MovableObjectFactory for type 'SphereSet' registered.
+18:44:34: ParticleUniverse: Particle Renderer Type 'Beam' registered
+18:44:34: ParticleUniverse: Particle Renderer Type 'Billboard' registered
+18:44:34: ParticleUniverse: Particle Renderer Type 'Box' registered
+18:44:34: ParticleUniverse: Particle Renderer Type 'Sphere' registered
+18:44:34: ParticleUniverse: Particle Renderer Type 'Entity' registered
+18:44:34: ParticleUniverse: Particle Renderer Type 'RibbonTrail' registered
+18:44:34: ParticleUniverse: Particle Renderer Type 'Light' registered
+18:44:34: ParticleUniverse: Particle Emitter Type 'Point' registered
+18:44:34: ParticleUniverse: Particle Emitter Type 'Line' registered
+18:44:34: ParticleUniverse: Particle Emitter Type 'Box' registered
+18:44:34: ParticleUniverse: Particle Emitter Type 'Circle' registered
+18:44:34: ParticleUniverse: Particle Emitter Type 'SphereSurface' registered
+18:44:34: ParticleUniverse: Particle Emitter Type 'Vertex' registered
+18:44:34: ParticleUniverse: Particle Emitter Type 'MeshSurface' registered
+18:44:34: ParticleUniverse: Particle Emitter Type 'Position' registered
+18:44:34: ParticleUniverse: Particle Emitter Type 'Slave' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'Dummy01' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'LinearForce' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'Gravity' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'ParticleFollower' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'Vortex' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'Randomiser' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'Line' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'Scale' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'ScaleVelocity' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'GeometryRotator' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'TextureRotator' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'TextureAnimator' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'Jet' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'Align' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'FlockCentering' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'CollisionAvoidance' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'VelocityMatching' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'Colour' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'SineForce' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'Dummy02' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'SphereCollider' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'PlaneCollider' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'BoxCollider' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'InterParticleCollider' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'PathFollower' registered
+18:44:34: ParticleUniverse: Particle Affector Type 'ForceField' registered
+18:44:34: ParticleUniverse: Particle Observer Type 'OnExpire' registered
+18:44:34: ParticleUniverse: Particle Observer Type 'OnEmission' registered
+18:44:34: ParticleUniverse: Particle Observer Type 'OnCount' registered
+18:44:34: ParticleUniverse: Particle Observer Type 'OnEventFlag' registered
+18:44:34: ParticleUniverse: Particle Observer Type 'OnCollision' registered
+18:44:34: ParticleUniverse: Particle Observer Type 'OnVelocity' registered
+18:44:34: ParticleUniverse: Particle Observer Type 'OnTime' registered
+18:44:34: ParticleUniverse: Particle Observer Type 'OnPosition' registered
+18:44:34: ParticleUniverse: Particle Observer Type 'OnClear' registered
+18:44:34: ParticleUniverse: Particle Observer Type 'OnQuota' registered
+18:44:34: ParticleUniverse: Particle Observer Type 'OnRandom' registered
+18:44:34: ParticleUniverse: Particle EventHandler Type 'DoExpire' registered
+18:44:34: ParticleUniverse: Particle EventHandler Type 'DoFreeze' registered
+18:44:34: ParticleUniverse: Particle EventHandler Type 'DoPlacementParticle' registered
+18:44:34: ParticleUniverse: Particle EventHandler Type 'DoStopSystem' registered
+18:44:34: ParticleUniverse: Particle EventHandler Type 'DoEnableComponent' registered
+18:44:34: ParticleUniverse: Particle EventHandler Type 'DoAffector' registered
+18:44:34: ParticleUniverse: Particle EventHandler Type 'DoScale' registered
+18:44:34: ParticleUniverse: Particle Extern Type 'Gravity' registered
+18:44:34: ParticleUniverse: Particle Extern Type 'SphereCollider' registered
+18:44:34: ParticleUniverse: Particle Extern Type 'BoxCollider' registered
+18:44:34: ParticleUniverse: Particle Extern Type 'Vortex' registered
+18:44:34: ParticleUniverse: Particle Extern Type 'SceneDecorator' registered
+18:44:34: ParticleUniverse: Particle Behaviour Type 'Slave' registered
+18:44:34: Plugin successfully installed
+18:44:34: *-*-* OGRE Initialising
+18:44:34: *-*-* Version 1.9.0 (Ghadamon)
+18:44:34: Creating resource group Essential
+18:44:34: Added resource location '..\data\Media\packs\SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+18:44:34: Added resource location '..\data\Media' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\data\Material' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\data\Textures' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\data\Shaders' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\data\Mesh' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\data\SkyX' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\data\Hydrax' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\data\MyGUI' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\data\Test' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\data\Fubuki' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\data\Fletcher' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\data\Wake' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\data\IwoJima' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\data\BuildingsTest' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\data\BuildingsTest\Textures' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\particles' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\data\Media' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\data\Type3_127mm_50Caliber_Naval_Gun' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\data\Icons' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\data\Mogami' of type 'FileSystem' to resource group 'General'
+18:44:34: Added resource location '..\data\Mogami\mesh' of type 'FileSystem' to resource group 'General'
+18:44:34: D3D11 : RenderSystem Option: Allow NVPerfHUD = No
+18:44:34: D3D11 : RenderSystem Option: Driver type = Hardware
+18:44:34: D3D11 : RenderSystem Option: FSAA = 0
+18:44:34: D3D11 : RenderSystem Option: Floating-point mode = Fastest
+18:44:34: D3D11 : RenderSystem Option: Full Screen = No
+18:44:34: D3D11 : RenderSystem Option: Information Queue Exceptions Bottom Level = Info (exception on any message)
+18:44:34: D3D11 : RenderSystem Option: Max Requested Feature Levels = 11.0
+18:44:34: D3D11 : RenderSystem Option: Min Requested Feature Levels = 9.1
+18:44:34: D3D11 : RenderSystem Option: Rendering Device = NVIDIA GeForce GTX 980M
+18:44:34: D3D11 : RenderSystem Option: VSync = No
+18:44:34: D3D11 : RenderSystem Option: VSync Interval = 1
+18:44:34: D3D11 : RenderSystem Option: Video Mode = 800 x 600 @ 32-bit colour
+18:44:34: D3D11 : RenderSystem Option: sRGB Gamma Conversion = No
+18:44:34: CPU Identifier & Features
+18:44:34: -------------------------
+18:44:34:  *   CPU ID: GenuineIntel: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+18:44:34:  *      SSE: yes
+18:44:34:  *     SSE2: yes
+18:44:34:  *     SSE3: yes
+18:44:34:  *      MMX: yes
+18:44:34:  *   MMXEXT: yes
+18:44:34:  *    3DNOW: no
+18:44:34:  * 3DNOWEXT: no
+18:44:34:  *     CMOV: yes
+18:44:34:  *      TSC: yes
+18:44:34:  *      FPU: yes
+18:44:34:  *      PRO: yes
+18:44:34:  *       HT: no
+18:44:34: -------------------------
+18:44:34: *** Starting Win32GL Subsystem ***
+18:44:34: Registering ResourceManager for type Texture
+18:44:34: GLRenderSystem::_createRenderWindow "Pacific Fury", 1920x1080 windowed  miscParams: FSAA=2 FSAAHint= colourDepth=32 displayFrequency=0 gamma=false vsync=false vsyncInterval=1 
+18:44:34: Created Win32Window 'Pacific Fury' : 1842x1080, 32bpp
+18:44:34: GL_VERSION = 4.6.0 NVIDIA 496.76
+18:44:34: GL_VENDOR = NVIDIA Corporation
+18:44:34: GL_RENDERER = NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2
+18:44:34: GL_EXTENSIONS = GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_multiview_texture_multisample GL_EXT_multiview_timer_query GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_import_sync_object GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_win32 GL_NV_memory_object_sparse GL_EXT_win32_keyed_mutex GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_win32 GL_NV_timeline_semaphore GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_equation_advanced_coherent GL_NVX_blend_equation_advanced_multi_draw_buffers GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_clip_space_w_scaling GL_NV_command_list GL_NV_compute_program5 GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap GL_NV_conservative_raster_pre_snap_triangles GL_NV_conservative_raster_underestimation GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_barycentric GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_shader_passthrough GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_memory_attachment GL_NV_mesh_shader GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_primitive_shading_rate GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_representative_fragment_test GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_scissor_exclusive GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_float64 GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_shader_subgroup_partitioned GL_NV_shader_texture_footprint GL_NV_shading_rate_image GL_NV_stereo_view_rendering GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_dirty_tile_map GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NVX_linked_gpu_multicast GL_NV_gpu_multicast GL_NVX_gpu_multicast2 GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_multigpu_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum GL_WIN_swap_hint WGL_EXT_swap_control 
+18:44:34: Supported WGL extensions: WGL_ARB_buffer_region WGL_ARB_create_context WGL_ARB_create_context_no_error WGL_ARB_create_context_profile WGL_ARB_create_context_robustness WGL_ARB_context_flush_control WGL_ARB_extensions_string WGL_ARB_make_current_read WGL_ARB_multisample WGL_ARB_pbuffer WGL_ARB_pixel_format WGL_ARB_pixel_format_float WGL_ARB_render_texture WGL_ATI_pixel_format_float WGL_EXT_colorspace WGL_EXT_create_context_es_profile WGL_EXT_create_context_es2_profile WGL_EXT_extensions_string WGL_EXT_framebuffer_sRGB WGL_EXT_pixel_format_packed_float WGL_EXT_swap_control WGL_EXT_swap_control_tear WGL_NVX_DX_interop WGL_NV_DX_interop WGL_NV_DX_interop2 WGL_NV_copy_image WGL_NV_delay_before_swap WGL_NV_float_buffer WGL_NV_multisample_coverage WGL_NV_multigpu_context WGL_NV_render_depth_texture WGL_NV_render_texture_rectangle 
+18:44:34: ***************************
+18:44:34: *** GL Renderer Started ***
+18:44:34: ***************************
+18:44:34: Registering ResourceManager for type GpuProgram
+18:44:34: GLSL support detected
+18:44:34: GL: Using GL_EXT_framebuffer_object for rendering to textures (best)
+18:44:34: FBO PF_UNKNOWN depth/stencil support: D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_L8 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_A8 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_A4L4 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_BYTE_LA depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_R5G6B5 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_B5G6R5 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_A4R4G4B4 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_A1R5G5B5 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_R8G8B8 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_B8G8R8 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_A8R8G8B8 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_B8G8R8A8 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_A2R10G10B10 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_A2B10G10R10 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_FLOAT16_RGB depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_FLOAT16_RGBA depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_FLOAT32_RGB depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_FLOAT32_RGBA depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_X8R8G8B8 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_X8B8G8R8 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_SHORT_RGBA depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_R3G3B2 depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_FLOAT16_R depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_FLOAT32_R depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_FLOAT16_GR depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_FLOAT32_GR depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: FBO PF_SHORT_RGB depth/stencil support: D0S0 D0S8 D16S0 D24S0 D32S0 Packed-D24S8 
+18:44:34: [GL] : Valid FBO targets PF_UNKNOWN PF_L8 PF_A8 PF_A4L4 PF_BYTE_LA PF_R5G6B5 PF_B5G6R5 PF_A4R4G4B4 PF_A1R5G5B5 PF_R8G8B8 PF_B8G8R8 PF_A8R8G8B8 PF_B8G8R8A8 PF_A2R10G10B10 PF_A2B10G10R10 PF_FLOAT16_RGB PF_FLOAT16_RGBA PF_FLOAT32_RGB PF_FLOAT32_RGBA PF_X8R8G8B8 PF_X8B8G8R8 PF_SHORT_RGBA PF_R3G3B2 PF_FLOAT16_R PF_FLOAT32_R PF_FLOAT16_GR PF_FLOAT32_GR PF_SHORT_RGB 
+18:44:34: RenderSystem capabilities
+18:44:34: -------------------------
+18:44:34: RenderSystem Name: OpenGL Rendering Subsystem
+18:44:34: GPU Vendor: nvidia
+18:44:34: Device Name: NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2
+18:44:34: Driver Version: 4.6.0.0
+18:44:34:  * Fixed function pipeline: yes
+18:44:34:  * Hardware generation of mipmaps: yes
+18:44:34:  * Texture blending: yes
+18:44:34:  * Anisotropic texture filtering: yes
+18:44:34:  * Dot product texture operation: yes
+18:44:34:  * Cube mapping: yes
+18:44:34:  * Hardware stencil buffer: yes
+18:44:34:    - Stencil depth: 8
+18:44:34:    - Two sided stencil support: yes
+18:44:34:    - Wrap stencil values: yes
+18:44:34:  * Hardware vertex / index buffers: yes
+18:44:34:  * 32-bit index buffers: yes
+18:44:34:  * Vertex programs: yes
+18:44:34:  * Number of floating-point constants for vertex programs: 1024
+18:44:34:  * Number of integer constants for vertex programs: 0
+18:44:34:  * Number of boolean constants for vertex programs: 0
+18:44:34:  * Fragment programs: yes
+18:44:34:  * Number of floating-point constants for fragment programs: 1024
+18:44:34:  * Number of integer constants for fragment programs: 0
+18:44:34:  * Number of boolean constants for fragment programs: 0
+18:44:34:  * Geometry programs: yes
+18:44:34:  * Number of floating-point constants for geometry programs: 2048
+18:44:34:  * Number of integer constants for geometry programs: 0
+18:44:34:  * Number of boolean constants for geometry programs: 0
+18:44:34:  * Tesselation Hull programs: no
+18:44:34:  * Number of floating-point constants for tesselation hull programs: 13616
+18:44:34:  * Number of integer constants for tesselation hull programs: 48
+18:44:34:  * Number of boolean constants for tesselation hull programs: 52428
+18:44:34:  * Tesselation Domain programs: no
+18:44:34:  * Number of floating-point constants for tesselation domain programs: 52428
+18:44:34:  * Number of integer constants for tesselation domain programs: 0
+18:44:34:  * Number of boolean constants for tesselation domain programs: 0
+18:44:34:  * Compute programs: no
+18:44:34:  * Number of floating-point constants for compute programs: 15
+18:44:34:  * Number of integer constants for compute programs: 0
+18:44:34:  * Number of boolean constants for compute programs: 0
+18:44:34:  * Supported Shader Profiles: arbfp1 arbvp1 fp20 fp30 fp40 glsl glsl100 glsl110 glsl120 gp4fp gp4gp gp4vp gpu_fp gpu_gp gpu_vp nvgp4 vp30 vp40
+18:44:34:  * Texture Compression: yes
+18:44:34:    - DXT: yes
+18:44:34:    - VTC: yes
+18:44:34:    - PVRTC: no
+18:44:34:    - ATC: no
+18:44:34:    - ETC1: no
+18:44:34:    - ETC2: no
+18:44:34:    - BC4/BC5: no
+18:44:34:    - BC6H/BC7: no
+18:44:34:  * Scissor Rectangle: yes
+18:44:34:  * Hardware Occlusion Query: yes
+18:44:34:  * User clip planes: yes
+18:44:34:  * VET_UBYTE4 vertex element type: yes
+18:44:34:  * Infinite far plane projection: yes
+18:44:34:  * Hardware render-to-texture: yes
+18:44:34:  * Floating point textures: yes
+18:44:34:  * Non-power-of-two textures: yes
+18:44:34:  * 1d textures: yes
+18:44:34:  * Volume textures: yes
+18:44:34:  * Multiple Render Targets: 8
+18:44:34:    - With different bit depths: yes
+18:44:34:  * Point Sprites: yes
+18:44:34:  * Extended point parameters: yes
+18:44:34:  * Max Point Size: 2047
+18:44:34:  * Vertex texture fetch: yes
+18:44:34:  * Number of world matrices: 0
+18:44:34:  * Number of texture units: 16
+18:44:34:  * Stencil buffer depth: 8
+18:44:34:  * Number of vertex blend matrices: 0
+18:44:34:    - Max vertex textures: 32
+18:44:34:    - Vertex textures shared: yes
+18:44:34:  * Render to Vertex Buffer : yes
+18:44:34:  * Hardware Atomic Counters: no
+18:44:34:  * GL 1.5 without VBO workaround: no
+18:44:34:  * Frame Buffer objects: yes
+18:44:34:  * Frame Buffer objects (ARB extension): no
+18:44:34:  * Frame Buffer objects (ATI extension): no
+18:44:34:  * PBuffer support: yes
+18:44:34:  * GL 1.5 without HW-occlusion workaround: no
+18:44:34:  * Vertex Array Objects: no
+18:44:34:  * Separate shader objects: no
+18:44:34: Using FSAA from GL_ARB_multisample extension.
+18:44:34: DefaultWorkQueue('Root') initialising on thread a814.
+18:44:34: DefaultWorkQueue('Root')::WorkerFunc - thread d1bc starting.
+18:44:34: DefaultWorkQueue('Root')::WorkerFunc - thread 5c88 starting.
+18:44:34: DefaultWorkQueue('Root')::WorkerFunc - thread d410 starting.
+18:44:34: DefaultWorkQueue('Root')::WorkerFunc - thread 4a20 starting.
+18:44:34: DefaultWorkQueue('Root')::WorkerFunc - thread bf08 starting.
+18:44:34: DefaultWorkQueue('Root')::WorkerFunc - thread 4a60 starting.
+18:44:34: DefaultWorkQueue('Root')::WorkerFunc - thread e84c starting.
+18:44:34: DefaultWorkQueue('Root')::WorkerFunc - thread 5500 starting.
+18:44:34: DefaultWorkQueue('Root')::WorkerFunc - thread d58 starting.
+18:44:34: DefaultWorkQueue('Root')::WorkerFunc - thread abe0 starting.
+18:44:34: DefaultWorkQueue('Root')::WorkerFunc - thread d4a8 starting.
+18:44:34: DefaultWorkQueue('Root')::WorkerFunc - thread ad54 starting.
+18:44:34: Particle Renderer Type 'billboard' registered
+18:44:34: SceneManagerFactory for type 'BspSceneManager' registered.
+18:44:34: Registering ResourceManager for type BspLevel
+18:44:34: SceneManagerFactory for type 'PCZSceneManager' registered.
+18:44:34: MovableObjectFactory for type 'PCZLight' registered.
+18:44:34: MovableObjectFactory for type 'Portal' registered.
+18:44:34: MovableObjectFactory for type 'AntiPortal' registered.
+18:44:34: PCZone Factory Type 'ZoneType_Octree' registered
+18:44:34: SceneManagerFactory for type 'OctreeSceneManager' registered.
+18:44:34: OverlayElementFactory for type Panel registered.
+18:44:34: OverlayElementFactory for type BorderPanel registered.
+18:44:34: OverlayElementFactory for type TextArea registered.
+18:44:34: Registering ResourceManager for type Font
+18:44:34: Parsing scripts for resource group Autodetect
+18:44:34: Finished parsing scripts for resource group Autodetect
+18:44:34: Creating resources for group Autodetect
+18:44:34: All done
+18:44:34: Parsing scripts for resource group Essential
+18:44:34: Parsing script SdkTrays.material
+18:44:34: Parsing script SdkTrays.fontdef
+18:44:34: Parsing script SdkTrays.overlay
+18:44:34: Texture: sdk_cursor.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
+18:44:34: Texture: sdk_tray.png: Loading 1 faces(PF_A8R8G8B8,64x64x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,64x64x1.
+18:44:34: Texture: sdk_button_up.png: Loading 1 faces(PF_A8R8G8B8,128x32x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,128x32x1.
+18:44:34: Texture: sdk_text_box.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
+18:44:34: Texture: sdk_mini_tray.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
+18:44:34: Texture: sdk_track.png: Loading 1 faces(PF_A8R8G8B8,16x32x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,16x32x1.
+18:44:34: Texture: sdk_handle.png: Loading 1 faces(PF_A8R8G8B8,16x16x1) with 4 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,16x16x1.
+18:44:34: Texture: sdk_mini_text_box.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
+18:44:34: Texture: sdk_label.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
+18:44:34: Texture: sdk_separator.png: Loading 1 faces(PF_A8R8G8B8,64x16x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,64x16x1.
+18:44:34: Texture: sdk_logo.png: Loading 1 faces(PF_A8R8G8B8,128x64x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,128x64x1.
+18:44:34: Texture: sdk_shade.png: Loading 1 faces(PF_A8R8G8B8,64x48x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,64x48x1.
+18:44:34: Texture: sdk_frame.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
+18:44:34: Texture: sdk_mini_text_box_over.png: Loading 1 faces(PF_A8R8G8B8,32x32x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
+18:44:34: Texture: sdk_pulse.png: Loading 1 faces(PF_R8G8B8,8x1x1) with 3 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,8x1x1.
+18:44:34: Finished parsing scripts for resource group Essential
+18:44:34: Creating resources for group Essential
+18:44:34: All done
+18:44:34: Parsing scripts for resource group General
+18:44:34: Parsing script EnvironmentShader.program
+18:44:34: Parsing script BrightStar.000.material
+18:44:34: Parsing script BrightStar.001.material
+18:44:34: Parsing script Bump.material
+18:44:34: Compiler error: reference to a non existing object in Bump.material(17)
+18:44:34: Compiler error: reference to a non existing object in Bump.material(21)
+18:44:34: Parsing script cannonFire.material
+18:44:34: Parsing script Classic.000.material
+18:44:34: Parsing script Classic.001.material
+18:44:34: Parsing script EmptyMat.material
+18:44:34: Parsing script Environment.material
+18:44:34: Parsing script ExplosionFire.material
+18:44:34: Parsing script fire.material
+18:44:34: Parsing script Fireball.000.material
+18:44:34: Parsing script Fireball.001.material
+18:44:34: Parsing script fireball.material
+18:44:34: Parsing script Flare.000.material
+18:44:34: Parsing script Flare.001.material
+18:44:34: Parsing script Fletcher-MainGun-Material.material
+18:44:34: Parsing script Grid.material
+18:44:34: Parsing script Heat.000.material
+18:44:34: Parsing script Heat.001.material
+18:44:34: Parsing script Hidden.000.material
+18:44:34: Parsing script Hidden.001.material
+18:44:34: Parsing script Hidden.002.material
+18:44:34: Parsing script Hitboxes.material
+18:44:34: Parsing script KouraiCross.material
+18:44:34: Parsing script Plasma.material
+18:44:34: Compiler error: reference to a non existing object in Plasma.material(13)
+18:44:34: Compiler error: reference to a non existing object in Plasma.material(16)
+18:44:34: Parsing script shipWake.material
+18:44:34: Parsing script Smoke.material
+18:44:34: Parsing script Special.000.material
+18:44:34: Parsing script Special.001.material
+18:44:34: Parsing script Sun.000.material
+18:44:34: Parsing script Sun.001.material
+18:44:34: Parsing script Thunder.001.material
+18:44:34: Parsing script Waterplume.material
+18:44:34: Parsing script Wires.material
+18:44:34: Compiler error: unknown error in Wires.material(1): base object named "base_material" not found in script definition
+18:44:34: Parsing script CGSwizzle.material
+18:44:34: Parsing script SkyX.material
+18:44:34: Parsing script 5Inch38CalMk12.material
+18:44:34: Parsing script EmptyMat.material
+18:44:34: Parsing script EnvironmentShader.material
+18:44:34: Parsing script Generic.material
+18:44:34: Parsing script Test.material
+18:44:34: Parsing script Test2.material
+18:44:34: Parsing script Test3.material
+18:44:34: Parsing script FubukiMaterials.material
+18:44:34: Parsing script FubukiMaterials.material
+18:44:34: Parsing script pu_example.material
+18:44:34: Parsing script pu_example_32.material
+18:44:34: Parsing script pu_mediapack_01.material
+18:44:35: Parsing script shipWake2.material
+18:44:35: Parsing script Waterplume.material
+18:44:35: Parsing script waterplumebase.material
+18:44:35: Parsing script Type3_127mm_50Caliber_Naval_Gun.material
+18:44:35: Parsing script MogamiMaterials.material
+18:44:35: Parsing script shipWake.pu
+18:44:35: Compiler error: unknown error in shipWake.pu(1): token class, system, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake.pu(10): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake.pu(18): token class, angle, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake.pu(24): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake.pu(29): token class, particle_width, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake.pu(34): token class, particle_height, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake.pu(47): token class, angle, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake.pu(53): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake.pu(58): token class, particle_width, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake.pu(63): token class, particle_height, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake.pu(75): token class, x_scale, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake.pu(82): token class, y_scale, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake.pu(107): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake.pu(116): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake.pu(121): token class, all_particle_dimensions, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake.pu(153): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake.pu(175): token class, xyz_scale, unrecognized.
+18:44:35: ParticleUniverse: Particle System Template 'WaterExplosion' registered
+18:44:35: Texture: waterplume.png: Loading 1 faces(PF_A8R8G8B8,512x512x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
+18:44:35: Texture: pump_smoke_01.png: Loading 1 faces(PF_A8R8G8B8,512x512x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
+18:44:35: Texture: waterplumebase.png: Loading 1 faces(PF_A8R8G8B8,512x512x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
+18:44:35: Parsing script shipWake2.pu
+18:44:35: Compiler error: unknown error in shipWake2.pu(1): token class, system, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake2.pu(13): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake2.pu(23): token class, angle, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake2.pu(42): token class, rotation_speed, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake2.pu(63): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake2.pu(73): token class, angle, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake2.pu(95): token class, xyz_scale, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake2.pu(103): token class, rotation_speed, unrecognized.
+18:44:35: ParticleUniverse: Particle System Template 'shipWake' registered
+18:44:35: Texture: foam1.png: Loading 1 faces(PF_A8R8G8B8,805x677x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,805x677x1.
+18:44:35: Texture: kisspng-sea-foam-desktop-wallpaper-clip-art-5ae1841d619555.8848009615247288613997.png: Loading 1 faces(PF_A8R8G8B8,638x728x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,638x728x1.
+18:44:35: Parsing script Fire.pu
+18:44:35: Compiler error: unknown error in Fire.pu(1): token class, system, unrecognized.
+18:44:35: Compiler error: unknown error in Fire.pu(11): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in Fire.pu(19): token class, time_to_live, unrecognized.
+18:44:35: Compiler error: unknown error in Fire.pu(24): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in Fire.pu(37): token class, time_to_live, unrecognized.
+18:44:35: Compiler error: unknown error in Fire.pu(42): token class, mass, unrecognized.
+18:44:35: Compiler error: unknown error in Fire.pu(47): token class, velocity, unrecognized.
+18:44:35: ParticleUniverse: Particle System Template 'flameSystem' registered
+18:44:35: Texture: pu_flame.png: Loading 1 faces(PF_R8G8B8,64x64x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,64x64x1.
+18:44:35: Parsing script Smoke.pu
+18:44:35: Compiler error: unknown error in Smoke.pu(1): token class, system, unrecognized.
+18:44:35: Compiler error: unknown error in Smoke.pu(8): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in Smoke.pu(16): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in Smoke.pu(21): token class, all_particle_dimensions, unrecognized.
+18:44:35: Compiler error: unknown error in Smoke.pu(49): token class, rotation, unrecognized.
+18:44:35: ParticleUniverse: Particle System Template 'smoke' registered
+18:44:35: Parsing script 5inch-38Cal-Mk.12(old).pu
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(1): token class, system, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(11): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(17): token class, angle, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(22): token class, time_to_live, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(27): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(32): token class, all_particle_dimensions, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(51): token class, xyz_scale, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(63): token class, rotation, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(68): token class, rotation_speed, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(74): token class, observer, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(76): token class, handler, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(95): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(110): token class, observer, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(112): token class, handler, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(125): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(131): token class, angle, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(136): token class, time_to_live, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(141): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(158): token class, rotation, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(163): token class, rotation_speed, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(171): token class, xyz_scale, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(188): token class, observer, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(190): token class, handler, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(201): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(207): token class, emission_rate, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(212): token class, angle, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(218): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(224): token class, particle_height, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(238): token class, observer, unrecognized.
+18:44:35: Compiler error: unknown error in 5inch-38Cal-Mk.12(old).pu(241): token class, handler, unrecognized.
+18:44:35: ParticleUniverse: Particle System Template '5Inch38CalMk12' registered
+18:44:35: Texture: pu_smoke_02_128x128.png: Loading 1 faces(PF_A8R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,128x128x1.
+18:44:35: Texture: pu_flare.png: Loading 1 faces(PF_R8G8B8,256x256x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,256x256x1.
+18:44:35: Texture: pu_smoke_brown_336x330.png: Loading 1 faces(PF_A8R8G8B8,336x330x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,336x330x1.
+18:44:35: Texture: pu_fire_01_64x64.png: Loading 1 faces(PF_R8G8B8,64x64x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,64x64x1.
+18:44:35: Parsing script 5Inch38CalMk12.pu
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(1): token class, system, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(11): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(17): token class, angle, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(22): token class, time_to_live, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(27): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(32): token class, all_particle_dimensions, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(51): token class, xyz_scale, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(63): token class, rotation, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(68): token class, rotation_speed, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(74): token class, observer, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(76): token class, handler, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(95): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(110): token class, observer, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(112): token class, handler, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(125): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(131): token class, angle, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(136): token class, time_to_live, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(141): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(158): token class, rotation, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(163): token class, rotation_speed, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(171): token class, xyz_scale, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(187): token class, observer, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(189): token class, handler, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(196): token class, observer, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(199): token class, handler, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(207): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(213): token class, emission_rate, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(218): token class, angle, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(224): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(230): token class, particle_height, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(243): token class, observer, unrecognized.
+18:44:35: Compiler error: unknown error in 5Inch38CalMk12.pu(246): token class, handler, unrecognized.
+18:44:35: ParticleUniverse: Particle System template '5Inch38CalMk12' already exists; old template deleted.
+18:44:35: ParticleUniverse: Particle System Template '5Inch38CalMk12' registered
+18:44:35: Parsing script CannonShot.pu
+18:44:35: Compiler error: unknown error in CannonShot.pu(1): token class, system, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(11): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(17): token class, angle, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(22): token class, time_to_live, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(27): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(32): token class, all_particle_dimensions, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(54): token class, xyz_scale, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(62): token class, rotation, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(67): token class, rotation_speed, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(82): token class, observer, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(84): token class, handler, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(91): token class, observer, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(94): token class, handler, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(105): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(111): token class, angle, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(116): token class, time_to_live, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(121): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(126): token class, all_particle_dimensions, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(147): token class, xyz_scale, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(159): token class, rotation, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(164): token class, rotation_speed, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(176): token class, observer, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(178): token class, handler, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(191): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(197): token class, angle, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(202): token class, time_to_live, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(207): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(212): token class, all_particle_dimensions, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(233): token class, rotation, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(238): token class, rotation_speed, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(246): token class, xyz_scale, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(257): token class, observer, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(259): token class, handler, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(278): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(288): token class, emission_rate, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(293): token class, angle, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(299): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(305): token class, particle_height, unrecognized.
+18:44:35: Compiler error: unknown error in CannonShot.pu(319): token class, observer, unrecognized.
+18:44:35: ParticleUniverse: Particle System Template 'cannonShot' registered
+18:44:35: Compiler error: unknown error in CannonShot.pu(280): PU Compiler: token "light_renderer_specular" is not recognized
+18:44:35: Compiler error: unknown error in CannonShot.pu(281): PU Compiler: token "light_renderer_spot_inner" is not recognized
+18:44:35: Compiler error: unknown error in CannonShot.pu(282): PU Compiler: token "light_renderer_spot_outer" is not recognized
+18:44:35: Compiler error: unknown error in CannonShot.pu(283): PU Compiler: token "light_renderer_falloff" is not recognized
+18:44:35: Compiler error: unknown error in CannonShot.pu(284): PU Compiler: token "light_renderer_powerscale" is not recognized
+18:44:35: Parsing script Fire.pu
+18:44:35: Compiler error: unknown error in Fire.pu(1): token class, system, unrecognized.
+18:44:35: Compiler error: unknown error in Fire.pu(11): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in Fire.pu(19): token class, time_to_live, unrecognized.
+18:44:35: Compiler error: unknown error in Fire.pu(24): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in Fire.pu(37): token class, time_to_live, unrecognized.
+18:44:35: Compiler error: unknown error in Fire.pu(42): token class, mass, unrecognized.
+18:44:35: Compiler error: unknown error in Fire.pu(47): token class, velocity, unrecognized.
+18:44:35: ParticleUniverse: Particle System Template 'Fire' registered
+18:44:35: Parsing script genericExplosion.pu
+18:44:35: Compiler error: unknown error in genericExplosion.pu(1): token class, system, unrecognized.
+18:44:35: Compiler error: unknown error in genericExplosion.pu(8): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in genericExplosion.pu(18): token class, all_particle_dimensions, unrecognized.
+18:44:35: Compiler error: unknown error in genericExplosion.pu(27): token class, xyz_scale, unrecognized.
+18:44:35: Compiler error: unknown error in genericExplosion.pu(37): token class, rotation, unrecognized.
+18:44:35: Compiler error: unknown error in genericExplosion.pu(56): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in genericExplosion.pu(65): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in genericExplosion.pu(70): token class, particle_width, unrecognized.
+18:44:35: Compiler error: unknown error in genericExplosion.pu(75): token class, particle_height, unrecognized.
+18:44:35: Compiler error: unknown error in genericExplosion.pu(85): token class, y_scale, unrecognized.
+18:44:35: Compiler error: unknown error in genericExplosion.pu(105): token class, observer, unrecognized.
+18:44:35: Compiler error: unknown error in genericExplosion.pu(107): token class, handler, unrecognized.
+18:44:35: Compiler error: unknown error in genericExplosion.pu(119): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in genericExplosion.pu(129): token class, all_particle_dimensions, unrecognized.
+18:44:35: Compiler error: unknown error in genericExplosion.pu(141): token class, rotation, unrecognized.
+18:44:35: Compiler error: unknown error in genericExplosion.pu(154): token class, xyz_scale, unrecognized.
+18:44:35: Compiler error: unknown error in genericExplosion.pu(169): token class, behaviour, unrecognized.
+18:44:35: ParticleUniverse: Particle System Template 'genericExplosion' registered
+18:44:35: Texture: pu_nucleus.png: Loading 1 faces(PF_A8R8G8B8,64x64x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,64x64x1.
+18:44:35: Texture: pump_atlas_smoke.png: Loading 1 faces(PF_A8R8G8B8,2048x2048x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,2048x2048x1.
+18:44:35: Parsing script shipWake.pu
+18:44:35: Compiler error: unknown error in shipWake.pu(1): token class, system, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake.pu(13): token class, renderer, unrecognized.
+18:44:35: ParticleUniverse: Particle System template 'shipWake' already exists; old template deleted.
+18:44:35: ParticleUniverse: Particle System Template 'shipWake' registered
+18:44:35: Parsing script shipWake2.pu
+18:44:35: Compiler error: unknown error in shipWake2.pu(1): token class, system, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake2.pu(13): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake2.pu(50): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake2.pu(60): token class, angle, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake2.pu(82): token class, xyz_scale, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake2.pu(90): token class, rotation, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake2.pu(95): token class, rotation_speed, unrecognized.
+18:44:35: ParticleUniverse: Particle System template 'shipWake' already exists; old template deleted.
+18:44:35: ParticleUniverse: Particle System Template 'shipWake' registered
+18:44:35: Parsing script shipWake3.pu
+18:44:35: Compiler error: unknown error in shipWake3.pu(1): token class, system, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake3.pu(12): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake3.pu(44): token class, rotation, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake3.pu(49): token class, rotation_speed, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake3.pu(63): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake3.pu(74): token class, angle, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake3.pu(95): token class, xyz_scale, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake3.pu(103): token class, rotation, unrecognized.
+18:44:35: Compiler error: unknown error in shipWake3.pu(108): token class, rotation_speed, unrecognized.
+18:44:35: ParticleUniverse: Particle System Template 'shipWake3' registered
+18:44:35: Parsing script Smoke.pu
+18:44:35: Compiler error: unknown error in Smoke.pu(1): token class, system, unrecognized.
+18:44:35: Compiler error: unknown error in Smoke.pu(8): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in Smoke.pu(16): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in Smoke.pu(21): token class, all_particle_dimensions, unrecognized.
+18:44:35: Compiler error: unknown error in Smoke.pu(49): token class, rotation, unrecognized.
+18:44:35: ParticleUniverse: Particle System Template 'Smoke' registered
+18:44:35: Parsing script WaterExplosion.pu
+18:44:35: Compiler error: unknown error in WaterExplosion.pu(1): token class, system, unrecognized.
+18:44:35: Compiler error: unknown error in WaterExplosion.pu(10): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in WaterExplosion.pu(18): token class, angle, unrecognized.
+18:44:35: Compiler error: unknown error in WaterExplosion.pu(24): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in WaterExplosion.pu(29): token class, particle_width, unrecognized.
+18:44:35: Compiler error: unknown error in WaterExplosion.pu(34): token class, particle_height, unrecognized.
+18:44:35: Compiler error: unknown error in WaterExplosion.pu(47): token class, angle, unrecognized.
+18:44:35: Compiler error: unknown error in WaterExplosion.pu(53): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in WaterExplosion.pu(58): token class, particle_width, unrecognized.
+18:44:35: Compiler error: unknown error in WaterExplosion.pu(63): token class, particle_height, unrecognized.
+18:44:35: Compiler error: unknown error in WaterExplosion.pu(75): token class, x_scale, unrecognized.
+18:44:35: Compiler error: unknown error in WaterExplosion.pu(82): token class, y_scale, unrecognized.
+18:44:35: Compiler error: unknown error in WaterExplosion.pu(107): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in WaterExplosion.pu(116): token class, velocity, unrecognized.
+18:44:35: Compiler error: unknown error in WaterExplosion.pu(121): token class, all_particle_dimensions, unrecognized.
+18:44:35: Compiler error: unknown error in WaterExplosion.pu(153): token class, renderer, unrecognized.
+18:44:35: Compiler error: unknown error in WaterExplosion.pu(175): token class, xyz_scale, unrecognized.
+18:44:35: Compiler error: unknown error in WaterExplosion.pu(188): token class, observer, unrecognized.
+18:44:35: Compiler error: unknown error in WaterExplosion.pu(191): token class, handler, unrecognized.
+18:44:35: ParticleUniverse: Particle System template 'WaterExplosion' already exists; old template deleted.
+18:44:35: ParticleUniverse: Particle System Template 'WaterExplosion' registered
+18:44:35: Finished parsing scripts for resource group General
+18:44:35: Creating resources for group General
+18:44:35: All done
+18:44:35: Parsing scripts for resource group Internal
+18:44:35: Finished parsing scripts for resource group Internal
+18:44:35: Creating resources for group Internal
+18:44:35: All done
+18:44:35: Creating resource group SkyX
+18:44:35: Added resource location '..\data\SkyX' of type 'FileSystem' to resource group 'SkyX' with recursive option
+18:44:35: Can't assign material _NULL_ to SubEntity of SkyXMeshEnt because this Material does not exist. Have you forgotten to define it in a .material script?
+18:44:35: Texture: SkyX_Starfield.png: Loading 1 faces(PF_A8R8G8B8,512x512x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
+18:44:35: Texture: SkyX_Moon.png: Loading 1 faces(PF_A8R8G8B8,512x512x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
+18:44:35: Texture: SkyX_MoonHalo.png: Loading 1 faces(PF_SHORT_RGBA,512x256x1) with 5 hardware generated mipmaps from Image. Internal format is PF_SHORT_RGBA,512x256x1.
+18:44:35: Creating resource group Hydrax
+18:44:35: Added resource location '..\data\Hydrax' of type 'FileSystem' to resource group 'Hydrax'
+18:44:35: [Hydrax] Hydrax created.
+18:44:35: [Hydrax] MFWater.hdx loaded.
+18:44:35: [Hydrax] ProjectedGridVertex options entry found.
+18:44:35: [Hydrax] 	Reading options...
+18:44:35: [Hydrax] 	Options readed.
+18:44:35: [Hydrax] Perlin options entry found.
+18:44:35: [Hydrax] Creating module...
+18:44:35: [Hydrax] Creating ProjectedGridVertex module.
+18:44:35: [Hydrax] ProjectedGridVertex created.
+18:44:35: [Hydrax] Module created.
+18:44:35: [Hydrax] Initializating RTT Manager...
+18:44:35: [Hydrax] RTT manager initialized.
+18:44:35: [Hydrax] Registring device restored listener...
+18:44:35: [Hydrax] Device restored listener registred.
+18:44:35: [Hydrax] Creating materials...
+18:44:35: [Hydrax] Creating water material...
+18:44:35: Texture: Fresnel.bmp: Loading 1 faces(PF_L8,256x1x1) with 5 hardware generated mipmaps from Image. Internal format is PF_L8,256x1x1.
+18:44:35: Texture: Foam.png: Loading 1 faces(PF_R8G8B8,512x512x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+18:44:35: [Hydrax] Water material created.
+18:44:35: [Hydrax] Creating depth material...
+18:44:35: Texture: Caustics_0.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_1.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_2.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_3.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_4.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_5.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_6.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_7.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_8.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_9.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_10.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_11.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_12.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_13.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_14.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_15.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_16.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_17.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_18.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_19.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_20.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_21.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_22.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_23.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_24.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_25.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_26.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_27.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_28.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_29.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_30.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: Texture: Caustics_31.bmp: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+18:44:35: [Hydrax] Depth material created.
+18:44:35: [Hydrax] Creating underwater material...
+18:44:35: Texture: UnderwaterDistortion.jpg: Loading 1 faces(PF_R8G8B8,256x256x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,256x256x1.
+18:44:35: [Hydrax] Underwater material created.
+18:44:35: [Hydrax] Materials created.
+18:44:35: [Hydrax] Creating god rays...
+18:44:35: [Hydrax] Perlin destroyed.
+18:44:35: [Hydrax] God rays created.
+18:44:35: [Hydrax] Creating water mesh...
+18:44:35: [Hydrax] Water mesh created.
+18:44:35: *** Initializing OIS ***
+18:44:35: Texture: DejaVuSansFontGenerated_15.png: Loading 1 faces(PF_A8R8G8B8,128x256x1) Internal format is PF_A8R8G8B8,128x256x1.
+18:44:36: Texture: MyGUI_BlueWhiteSkins.png: Loading 1 faces(PF_A8R8G8B8,512x256x1) Internal format is PF_A8R8G8B8,512x256x1.
+18:44:36: Texture: MyGUI_Pointers.png: Loading 1 faces(PF_A8R8G8B8,256x128x1) Internal format is PF_A8R8G8B8,256x128x1.
+18:44:36: Texture: PSF.png: Loading 1 faces(PF_A8R8G8B8,1920x1280x1) Internal format is PF_A8R8G8B8,1920x1280x1.
+18:44:36: Texture: Clouds.png: Loading 1 faces(PF_A8R8G8B8,1024x1024x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,1024x1024x1.
+18:44:36: Texture: CloudsNormal.png: Loading 1 faces(PF_A8R8G8B8,1024x1024x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,1024x1024x1.
+18:44:36: Texture: CloudsTile.png: Loading 1 faces(PF_A8R8G8B8,1024x1024x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,1024x1024x1.
+18:44:40: Mesh: Loading FubukiHull.mesh.
+18:44:40: Mesh: Loading FubukiHull2.mesh.
+18:44:40: Mesh: Loading FubukiHull3.mesh.
+18:44:40: Mesh: Loading FubukiHull4.mesh.
+18:44:41: Texture: DefaultMaterial_HullMap__BaseColor.tga: Loading 1 faces(PF_R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,4096x4096x1.
+18:44:41: Texture: white.png: Loading 1 faces(PF_R8G8B8,4x4x1) with 2 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,4x4x1.
+18:44:41: Texture: DefaultMaterial_HullMap__Normal.tga: Loading 1 faces(PF_R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,4096x4096x1.
+18:44:41: Texture: transparent.png: Loading 1 faces(PF_A8R8G8B8,500x500x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,500x500x1.
+18:44:42: Texture: DefaultMaterial_Map2_Large_4_BaseColor.tga: Loading 1 faces(PF_R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,4096x4096x1.
+18:44:42: Texture: DefaultMaterial_Map2_Large_4_Normal.tga: Loading 1 faces(PF_R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,4096x4096x1.
+18:44:42: Texture: DefaultMaterial_Map3_Meshes_2_BaseColor.tga: Loading 1 faces(PF_R8G8B8,2048x2048x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,2048x2048x1.
+18:44:42: Texture: DefaultMaterial_Map3_Meshes_2_Normal.tga: Loading 1 faces(PF_R8G8B8,2048x2048x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,2048x2048x1.
+18:44:42: Texture: Grey.png: Loading 1 faces(PF_R8G8B8,1080x1080x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,1080x1080x1.
+18:44:43: Texture: Flat_n.png: Loading 1 faces(PF_R8G8B8,8x8x1) with 3 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,8x8x1.
+18:44:43: Mesh: Loading FletcherHull.mesh.
+18:44:43: Mesh: Loading FletcherDeck.mesh.
+18:44:43: Mesh: Loading FletcherRigging.mesh.
+18:44:44: Texture: DefaultMaterial_Map1Meshes_0_BaseColor.tga: Loading 1 faces(PF_R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,4096x4096x1.
+18:44:44: Texture: DefaultMaterial_Map1Meshes_0_Normal.tga: Loading 1 faces(PF_R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,4096x4096x1.
+18:44:44: Texture: DefaultMaterial_Map1Meshes_0_BaseColorWorn.png: Loading 1 faces(PF_A8R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,4096x4096x1.
+18:44:46: Texture: DefaultMaterial_Hull_0_BaseColor.tga: Loading 1 faces(PF_R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,4096x4096x1.
+18:44:46: Texture: DefaultMaterial_Hull_0_Normal.tga: Loading 1 faces(PF_R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,4096x4096x1.
+18:44:46: Texture: DefaultMaterial_Hull_0_BaseColorWorn.png: Loading 1 faces(PF_A8R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,4096x4096x1.
+18:44:49: Texture: DefaultMaterial_Map3Meshes_0_BaseColor.tga: Loading 1 faces(PF_R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,4096x4096x1.
+18:44:49: Texture: DefaultMaterial_Map3Meshes_0_Normal.tga: Loading 1 faces(PF_R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,4096x4096x1.
+18:44:49: Texture: DefaultMaterial_Map3Meshes_0_BaseColorWorn.png: Loading 1 faces(PF_A8R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,4096x4096x1.
+18:44:49: Mesh: Loading sheepHull.mesh.
+18:44:49: Mesh: Loading sheepMap2_Mesh.mesh.
+18:44:49: Mesh: Loading sheepMap3_Mesh.mesh.
+18:44:49: Mesh: Loading sheeppolySurface1309.mesh.
+18:44:49: Mesh: Loading sheepRails.mesh.
+18:44:49: Mesh: Loading sheepRopes.mesh.
+18:44:50: Texture: mogami_lambert16SG_BaseColor.tga: Loading 1 faces(PF_R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,4096x4096x1.
+18:44:50: Texture: mogami_lambert16SG_Normal.tga: Loading 1 faces(PF_R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,4096x4096x1.
+18:44:51: Texture: mogami_lambert18SG_BaseColor.tga: Loading 1 faces(PF_R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,4096x4096x1.
+18:44:51: Texture: mogami_lambert18SG_Normal.tga: Loading 1 faces(PF_R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,4096x4096x1.
+18:44:52: Texture: mogami_lambert19SG_BaseColor.tga: Loading 1 faces(PF_R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,4096x4096x1.
+18:44:52: Texture: mogami_lambert19SG_Normal.tga: Loading 1 faces(PF_R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,4096x4096x1.
+18:44:53: Texture: mogami_lambert17SG_BaseColor.tga: Loading 1 faces(PF_R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,4096x4096x1.
+18:44:53: Texture: mogami_lambert17SG_Normal.tga: Loading 1 faces(PF_R8G8B8,4096x4096x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,4096x4096x1.
+18:44:53: Texture: mogami_rails_BaseColor.tga: Loading 1 faces(PF_R8G8B8,512x512x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+18:44:53: Texture: mogami_rails_Normal.tga: Loading 1 faces(PF_R8G8B8,512x512x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+18:44:53: WARNING: material GenericWires has no supportable Techniques and will be blank. Explanation: 
+
+18:44:53: Mesh: Loading 5Inch38CalMk12Turret.mesh.
+18:44:53: Can't assign material defaultLambert to SubEntity of 4 because this Material does not exist. Have you forgotten to define it in a .material script?
+18:44:53: Texture: 5Inch38CalMk12_BaseColor.tga: Loading 1 faces(PF_R8G8B8,2048x2048x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,2048x2048x1.
+18:44:53: Can't assign material defaultLambert to SubEntity of 5 because this Material does not exist. Have you forgotten to define it in a .material script?
+18:44:53: Can't assign material defaultLambert to SubEntity of 6 because this Material does not exist. Have you forgotten to define it in a .material script?
+18:44:53: Can't assign material defaultLambert to SubEntity of 7 because this Material does not exist. Have you forgotten to define it in a .material script?
+18:44:53: Can't assign material defaultLambert to SubEntity of 8 because this Material does not exist. Have you forgotten to define it in a .material script?
+18:44:53: Mesh: Loading Type3_127mm_50Caliber_Naval_Gun.mesh.
+18:44:53: Can't assign material defaultLambert to SubEntity of 9 because this Material does not exist. Have you forgotten to define it in a .material script?
+18:44:53: Texture: DefaultMaterial_Weapons_Map2_Large_BaseColor.tga: Loading 1 faces(PF_R8G8B8,2048x2048x1) with 5 hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,2048x2048x1.
+18:44:53: Can't assign material defaultLambert to SubEntity of 10 because this Material does not exist. Have you forgotten to define it in a .material script?
+18:44:53: Mesh: Loading 20cm_50_3rd_Year_Turret.mesh.
+18:44:53: Can't assign material defaultLambert to SubEntity of 11 because this Material does not exist. Have you forgotten to define it in a .material script?
+18:44:53: Can't assign material defaultLambert to SubEntity of 12 because this Material does not exist. Have you forgotten to define it in a .material script?
+18:44:53: Can't assign material defaultLambert to SubEntity of 13 because this Material does not exist. Have you forgotten to define it in a .material script?
+18:44:53: Can't assign material defaultLambert to SubEntity of 14 because this Material does not exist. Have you forgotten to define it in a .material script?
+18:44:53: Can't assign material defaultLambert to SubEntity of 15 because this Material does not exist. Have you forgotten to define it in a .material script?
+18:45:48: Unregistering ResourceManager for type Font
+18:45:48: DefaultWorkQueue('Root') shutting down on thread a814.
+18:45:48: DefaultWorkQueue('Root')::WorkerFunc - thread d4a8 stopped.
+18:45:48: DefaultWorkQueue('Root')::WorkerFunc - thread 4a60 stopped.
+18:45:48: DefaultWorkQueue('Root')::WorkerFunc - thread e84c stopped.
+18:45:48: DefaultWorkQueue('Root')::WorkerFunc - thread d58 stopped.
+18:45:48: DefaultWorkQueue('Root')::WorkerFunc - thread abe0 stopped.
+18:45:48: DefaultWorkQueue('Root')::WorkerFunc - thread d1bc stopped.
+18:45:48: DefaultWorkQueue('Root')::WorkerFunc - thread d410 stopped.
+18:45:48: DefaultWorkQueue('Root')::WorkerFunc - thread 5c88 stopped.
+18:45:48: DefaultWorkQueue('Root')::WorkerFunc - thread 4a20 stopped.
+18:45:48: DefaultWorkQueue('Root')::WorkerFunc - thread bf08 stopped.
+18:45:48: DefaultWorkQueue('Root')::WorkerFunc - thread 5500 stopped.
+18:45:48: DefaultWorkQueue('Root')::WorkerFunc - thread ad54 stopped.
+18:45:48: PCZone Factory Type 'ZoneType_Octree' unregistered
+18:45:48: Unregistering ResourceManager for type BspLevel
+18:45:49: *-*-* OGRE Shutdown
+18:45:49: Unregistering ResourceManager for type Compositor
+18:45:49: Unregistering ResourceManager for type Skeleton
+18:45:49: Unregistering ResourceManager for type Mesh
+18:45:49: Unregistering ResourceManager for type HighLevelGpuProgram
+18:45:49: Uninstalling plugin: ParticleUniverse
+18:45:49: Plugin successfully uninstalled
+18:45:49: Unloading library .\ParticleUniverse_d
+18:45:49: Uninstalling plugin: Octree Scene Manager
+18:45:49: Plugin successfully uninstalled
+18:45:49: Unloading library .\Plugin_OctreeSceneManager_d
+18:45:49: Uninstalling plugin: Octree Zone Factory
+18:45:49: Plugin successfully uninstalled
+18:45:49: Unloading library .\Plugin_OctreeZone_d
+18:45:49: Uninstalling plugin: Portal Connected Zone Scene Manager
+18:45:49: Plugin successfully uninstalled
+18:45:49: Unloading library .\Plugin_PCZSceneManager_d
+18:45:49: Uninstalling plugin: Cg Program Manager
+18:45:49: Plugin successfully uninstalled
+18:45:49: Unloading library .\Plugin_CgProgramManager_d
+18:45:49: Uninstalling plugin: BSP Scene Manager
+18:45:49: Plugin successfully uninstalled
+18:45:49: Unloading library .\Plugin_BSPSceneManager_d
+18:45:49: Uninstalling plugin: ParticleFX
+18:45:49: Plugin successfully uninstalled
+18:45:49: Unloading library .\Plugin_ParticleFX_d
+18:45:49: Uninstalling plugin: GL 3+ RenderSystem
+18:45:49: *** Stopping Win32GL Subsystem ***
+18:45:49: Plugin successfully uninstalled
+18:45:49: Unloading library .\RenderSystem_GL3Plus_d
+18:45:49: Uninstalling plugin: GL RenderSystem
+18:45:49: Unregistering ResourceManager for type GpuProgram
+18:45:49: *** Stopping Win32GL Subsystem ***
+18:45:49: Unregistering ResourceManager for type Texture
+18:45:49: Plugin successfully uninstalled
+18:45:49: Unloading library .\RenderSystem_GL_d
+18:45:49: Uninstalling plugin: D3D11 RenderSystem
+18:45:49: D3D11 : Shutting down cleanly.
+18:45:49: D3D11 : Direct3D11 Rendering Subsystem destroyed.
+18:45:49: Plugin successfully uninstalled
+18:45:49: Unloading library .\RenderSystem_Direct3D11_d
+18:45:49: Unregistering ResourceManager for type Material

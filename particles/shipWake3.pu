@@ -11,6 +11,7 @@ system shipWake3
         default_particle_depth                  5
         renderer                                Billboard
         {
+            render_queue_group                  48
             billboard_type                      perpendicular_common
             billboard_rotation_type             vertex
             common_direction                    1e-006 0.999999 1e-006
@@ -61,6 +62,7 @@ system shipWake3
         default_particle_depth                  5
         renderer                                Billboard
         {
+            render_queue_group                  48
             billboard_type                      perpendicular_common
             billboard_rotation_type             vertex
             common_direction                    0.001 0.99 0.001

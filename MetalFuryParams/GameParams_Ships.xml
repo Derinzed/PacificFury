@@ -36,7 +36,7 @@
 				<Speed value="200"/>
 				<StoreCapacity value="950."/>
 				<Transportable value="false"/>
-				<TurnRate value=".01"/>
+				<TurnRate value="0.01"/>
 				-<Type value="0"/>
 				<Weight value="29600."/>
 				<Width value="31"/>
@@ -76,7 +76,7 @@
 				<Speed value="200"/>
 				<StoreCapacity value="950."/>
 				<Transportable value="false"/>
-				<TurnRate value=".01"/>
+				<TurnRate value="0.01"/>
 				-<Type value="0"/>
 				<Weight value="29600."/>
 				<Width value="31"/>
@@ -722,7 +722,7 @@
 				<Speed value="15."/>
 				<StoreCapacity value="170."/>
 				<Transportable value="false"/>
-				<TurnRate value="1.8e-003"/>
+				<TurnRate value="0.02"/>
 				-<Type value="4"/>
 				<Weight value="7.8"/>
 				<Width value="12"/>
@@ -762,7 +762,7 @@
 				<Speed value="200"/>
 				<StoreCapacity value="950."/>
 				<Transportable value="false"/>
-				<TurnRate value=".01"/>
+				<TurnRate value="0.02"/>
 				-<Type value="0"/>
 				<Weight value="29600."/>
 				<Width value="31"/>
