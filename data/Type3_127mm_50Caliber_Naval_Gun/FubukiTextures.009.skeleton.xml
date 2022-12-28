@@ -1,0 +1,41 @@
+<skeleton blendmode="average">
+    <bones>
+        <bone id="0" name="horizontal_rotation">
+            <position x="0" y="0" z="0" />
+            <rotation angle="3.14159">
+                <axis x="0" y="1" z="0" />
+            </rotation>
+        </bone>
+        <bone id="1" name="barrel1_elevation">
+            <position x="-0.607941" y="2.52012" z="-0.680763" />
+            <rotation angle="1.61215">
+                <axis x="-1" y="0" z="0" />
+            </rotation>
+        </bone>
+        <bone id="2" name="barrel1">
+            <position x="0.002949" y="4.49091" z="0.082477" />
+            <rotation angle="1.61215">
+                <axis x="-1" y="0" z="0" />
+            </rotation>
+        </bone>
+        <bone id="3" name="barrel2_elevation">
+            <position x="0.58933" y="2.52012" z="-0.680763" />
+            <rotation angle="1.61215">
+                <axis x="-1" y="0" z="0" />
+            </rotation>
+        </bone>
+        <bone id="4" name="barrel2">
+            <position x="0.009207" y="4.49091" z="0.082477" />
+            <rotation angle="1.61215">
+                <axis x="-1" y="0" z="0" />
+            </rotation>
+        </bone>
+    </bones>
+    <bonehierarchy>
+        <boneparent bone="barrel1_elevation" parent="horizontal_rotation" />
+        <boneparent bone="barrel1" parent="barrel1_elevation" />
+        <boneparent bone="barrel2_elevation" parent="horizontal_rotation" />
+        <boneparent bone="barrel2" parent="barrel2_elevation" />
+    </bonehierarchy>
+    <animations />
+</skeleton>

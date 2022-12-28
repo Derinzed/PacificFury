@@ -1,0 +1,16 @@
+16:28:06: Creating resource group General
+16:28:06: Creating resource group Internal
+16:28:06: Creating resource group Autodetect
+16:28:06: Registering ResourceManager for type Mesh
+16:28:06: Registering ResourceManager for type Material
+16:28:06: Registering ResourceManager for type Skeleton
+16:28:06: XMLMeshSerializer writing mesh data to F:\PSMods\CurrentWork\PacificStormFury\PacificStormFury\data\Fubuki\FubukiHull2.mesh.xml...
+16:28:06: Populating DOM...
+16:28:06: Writing submesh...
+16:28:07: Dedicated geometry bone assignments exported.
+16:28:07: Submesh exported.
+16:28:07: DOM populated, writing XML file..
+16:28:07: XMLMeshSerializer export successful.
+16:28:07: Unregistering ResourceManager for type Skeleton
+16:28:07: Unregistering ResourceManager for type Material
+16:28:07: Unregistering ResourceManager for type Mesh

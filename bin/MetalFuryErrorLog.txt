@@ -1,8 +1,7 @@
 Mass Space Inertia Tensor: 7317340815360.000000 7262521786368.000000 121238528000.000000 
 Mass Space Inertia Tensor: 2989233408.000000 2966645760.000000 65486376.000000 
-Mass Space Inertia Tensor: 1231929227608064.000000 1233067259723776.000000 26915601645568.000000 
 
 Log System Now Closing
 --------------------------------
-The local date and time is: Sat Apr 23 18:45:48 2022
+The local date and time is: Sat Sep 17 17:43:54 2022
 

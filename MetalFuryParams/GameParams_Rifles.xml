@@ -20,10 +20,10 @@
 				<Money value="1.5"/>
 				<New value="false"/>
 				<ROF value="11."/>
-				<Range value="14.8"/>
+				<Range value="18380.0"/>
 				<SLLauncher value="false"/>
 				<SMU_File value="AA_Gun_127_Yamato_Stvol"/>
-				<StartSpeed value="720"/>
+				<StartSpeed value="915.0"/>
 				<Unreliability value="0"/>
 				<Usage value="Ships"/>
 				<Weight value="3.05"/>

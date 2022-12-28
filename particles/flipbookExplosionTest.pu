@@ -1,0 +1,30 @@
+system blackHole
+{
+    technique 
+    {
+        visual_particle_quota                   1
+        emitted_emitter_quota                   1
+        emitted_technique_quota                 1
+        emitted_affector_quota                  1
+        emitted_system_quota                    1
+        material                                flipbookExplosion
+        default_particle_width                  12
+        default_particle_height                 12
+        renderer                                Billboard
+        {
+            texture_coords_rows                 5
+            texture_coords_columns              5
+        }
+        emitter                                 SphereSurface 
+        {
+            emission_rate                       200
+            velocity                            0
+            radius                              0
+        }
+        affector                                TextureAnimator 
+        {
+            end_texture_coords_range            24
+            texture_start_random                false
+        }
+    }
+}

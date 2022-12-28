@@ -6,6 +6,7 @@
 				<ParticleOffset x = "0" y = "0" z = "0"/>
 				<ParticleTrigger name = "onShoot"/>
 				<ParticleTemplate name = "cannonShot"/>
+				<ParticleBoneBinding name = ""/>
 				<Scale value = "0.5"/>
 			</ParticleNode>
 		</FletcherMainGunRifle>

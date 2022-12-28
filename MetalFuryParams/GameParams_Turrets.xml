@@ -27,6 +27,12 @@
 						<RifleType value = "FletcherMainGunRifle"/>
 						<RifleOffset x = "0" y = "7.7" z = "25.8"/>
 						<RifleTime value ="0.0"/>
+						<RifleBone value ="barrel_elevation"/>
+						<RifleMaxElevation value ="100.0"/>
+						<RifleMinElevation value ="-10.0"/>
+						<RifleRestingElevation value ="0.0"/>
+						<RifleElevationRate value ="10.0"/>
+						<RifleFiringBone value = "barrel1"/>
 					</Rifle>
 				</RifleConfiguration>
 			</object>
@@ -55,11 +61,23 @@
 						<RifleType value = "FletcherMainGunRifle"/>
 						<RifleOffset x = "1.0" y = "7.7" z = "25.8"/>
 						<RifleTime value ="0.0"/>
+						<RifleBone value ="barrel1_elevation"/>
+						<RifleMaxElevation value ="100.0"/>
+						<RifleMinElevation value ="-10.0"/>
+						<RifleRestingElevation value ="0.0"/>
+						<RifleElevationRate value ="10.0"/>
+						<RifleFiringBone value = "barrel1"/>
 					</Rifle>
 					<Rifle name = "FubukiRifle2">
 						<RifleType value = "FletcherMainGunRifle"/>
 						<RifleOffset x = "-1.0" y = "7.7" z = "25.8"/>
 						<RifleTime value ="0.5"/>
+						<RifleBone value ="barrel2_elevation"/>
+						<RifleMaxElevation value ="100.0"/>
+						<RifleMinElevation value ="-10.0"/>
+						<RifleRestingElevation value ="0.0"/>
+						<RifleElevationRate value ="10.0"/>
+						<RifleFiringBone value = "barrel2"/>
 					</Rifle>
 				</RifleConfiguration>
 			</object>
